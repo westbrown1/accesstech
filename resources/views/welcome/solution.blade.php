@@ -15,7 +15,7 @@
 			<li>We only develop on OS X (Apple).  I know, I've had many different computers with different operating systems, and they were all great!  But when it comes to web development, trust me, well you know... If we don't break, you won't have to wait.</li>
 			<li>We like to work smart.  We work with Sublime Text 3 IDE (integrated development environment) and use the top plugins including Emmet. We use custom snippets, key bindings, macros and of course, Sublime's super autocompletion.  This allows for much quicker coding without losing quality.</li>
 			<li>We develop with top frameworks such as Ruby on Rails (Ruby language) and Laravel (PHP language).  Developing custom websites is sooooo much faster when using high quality, well supported frameworks.  These frameworks get faster every day.  They are a must if you are not using Wordpress or Drupal.</li>
-			<li>We do not charge for any time it takes to fix our mistakes (a given right?) or for researching a solution... be careful out there.</li>
+			<li>We do not charge for any time it takes to fix our mistakes (a given right?) or for researching a solution.</li>
 			<li>We develop with mobile first responsive Bootstrap CSS (Cascading Style Sheets) and SCSS (Sassy CSS).  This allows fast, well organized, easy to manage code.</li>
 			<li>if you like, we will be honored to manage your website for you. We really know SEO. Check out our what we can do page <a href="/what" class="linkspacing">Here</a> | <a href="/pricing" class="linkspacing">Back to Pricing</a> | <a href="/" class="linkspacing">Home</a></li>
 						
