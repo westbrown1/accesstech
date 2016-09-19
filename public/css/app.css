@@ -1189,7 +1189,7 @@ img.hover-shadow {
 
 .close:hover,
 .close:focus {
-    color: #bbb;
+    color: white;
     text-decoration: none;
     cursor: pointer;
 }
