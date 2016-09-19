@@ -1009,8 +1009,8 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
 	margin-left: 30px;
 	height: 100px;
 	width: 100px;
-	-webkit-transition: width 3s, height 3s;
-    transition: width 3s, height 3s;
+	-webkit-transition: width 2s, height 2s;
+    transition: width23s, height 2s;
 }
 
 .google:hover {
