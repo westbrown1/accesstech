@@ -8,7 +8,7 @@
 		 <div class="row">
 			<!-- col-md-12 -->
 			<div class="col-md-12">
-				<h4 id="what">Let's Have Some Fun!</h4> 
+				<h4 id="what">Let's Have Some Fun! (page is still under construction)</h4> 
 			</div><!-- /col-md-12 -->		
 		</div>			 
 
