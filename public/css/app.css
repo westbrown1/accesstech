@@ -1009,6 +1009,8 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
 	margin-left: 60px;
 	height: 100px;
 	width: 100px;
+    -webkit-transition-delay: 1s;
+    transition-delay: 1s;	
 	-webkit-transition: width 2s, height 2s;
     transition: width 2s, height 2s;
 }
