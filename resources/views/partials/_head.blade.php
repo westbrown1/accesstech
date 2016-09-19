@@ -1,10 +1,9 @@
-google-site-verification: googlebf4fda6c30c7bd3d.html
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="accesstech.io is a website design firm located in Wilmington NC, if you need a new website created, Wordpress website and Drupal website design, SEO management, internet marketing company,  ">
 <meta name="title" content="A Wilmington NC Website Design Company | AccessTech.io | Mobile First Design | Responsive Websites | SEO Management | Adwords Management">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<meta name="google-site-verification" content="E0dIcNs5_CN27MpHWntn7rv5HLUST-i5epp59fUsaPA" />
 <link rel="stylesheet" href="/css/app.css">
 
 <title>AccessTech.io</title>
