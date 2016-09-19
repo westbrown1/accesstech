@@ -324,8 +324,8 @@ div.slider.show {
 .basketball:hover {
     -webkit-perspective: 1000px;
     perspective: 1000px;
-    -webkit-animation: bounce 7s linear 0s 1 normal forwards running;
-    animation: bounce 7s linear 0s 1 normal forwards running;
+    -webkit-animation: bounce 7s ease 0s 1 normal forwards running;
+    animation: bounce 7s ease 0s 1 normal forwards running;
 }
 
 
@@ -342,7 +342,7 @@ div.slider.show {
                 -webkit-transform: translateX(30px) translateY(-20px) rotate(120deg);
                 transform: translateX(30px) translateY(-20px) rotate(120deg);
     }
-    17% {
+    18% {
                 -webkit-transform: translateX(90px) translateY(150px) rotate(180deg);
                 transform: translateX(60px) translateY(150px) rotate(180deg);
     }
@@ -390,7 +390,7 @@ div.slider.show {
                 -webkit-transform: translateX(30px) translateY(-20px) rotate(120deg);
                 transform: translateX(30px) translateY(-20px) rotate(120deg);
     }
-    17% {
+    18% {
                 -webkit-transform: translateX(90px) translateY(150px) rotate(180deg);
                 transform: translateX(60px) translateY(150px) rotate(180deg);
     }
