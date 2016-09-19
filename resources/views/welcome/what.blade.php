@@ -83,7 +83,7 @@
 			</div>
 				<div class="col-md-6">
 					<div>
-						<img src="/images/basketball-309539_640.png" alt="" class="basketball" height="50" width="50">					  
+						<img src="/images/basketball-309539_640.png" alt="" class="basketball">					  
 					</div>		
 					
 					<div>
@@ -98,7 +98,6 @@
 				<img src="/images/google-chrome-icon-2.png" alt="google chrome icon" class="google">
 			</div>
 		</div>
-
 	</div><!-- /container -->
 
 <!-- container -->
