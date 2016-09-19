@@ -8,8 +8,7 @@
 #ocean {
 	background-image: url("https://hd.unsplash.com/photo-1415018255745-0ec3f7aee47b");
 	background-size: cover;
-	background-repeat: no-repeat;
-	background-size: contain;
+	background-repeat: no-repeat;;
 	background-position: center;
 }
 </style>
