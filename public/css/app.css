@@ -1044,7 +1044,13 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
     padding-top: 45px;
 }
 
+.google {
+	height: 150px;
+	widows: 150px;
+}
+
 .google:hover {
+	cursor: pointer;
 	-webkit-animation: icon3 3s ease-in-out normal forwards;
 	-o-animation: icon3 3s ease-in-out normal forwards;
 	animation: icon3 3s ease-in-out normal forwards;
