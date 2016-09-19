@@ -1005,6 +1005,10 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
     padding-top: 45px;
 }
 
+#googtext {
+    margin-left: 60px;
+}
+
 .google {
 	margin-left: 60px;
 	height: 100px;
