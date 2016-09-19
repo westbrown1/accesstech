@@ -28,14 +28,14 @@
 			      <div class="item active">
 			      	<img src="/images/photo-1468876132872-ad7696f484e0.jpeg" alt="" height="200" width="300">
 			        <div class="carousel-caption">			          
-			          <p>Mountain Lake</p>
+			          <p>Cliffs</p>
 			        </div>
 			      </div>
 
 			      <div class="item">
 			      	<img src="/images/photo-1432057322224-8916b9ed202a.jpeg" alt="" height="200" width="300">
 			        <div class="carousel-caption">			          
-			          <p>Another Mountain Lake</p>
+			          <p>Mountain Scene</p>
 			        </div>
 			      </div>
 
