@@ -17,7 +17,7 @@
 				<!-- popup -->
 		<center><div id="popup">
 			 <h4 class="text-center" id="brand">AccessTech.io</h4>
-			 <h5 class="text-center">We Build Awesome Websites for People Like <b>You !</b></h5>
+			 <h5 class="text-center">We Can Build An Awesome Website for <b>You !</b></h5>
 		</div><!-- /popup --></center>
 	</div>
 </div>
