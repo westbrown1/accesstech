@@ -1016,7 +1016,6 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
 .google:hover {
 	-webkit-perspective: 1000px;
     perspective: 1000px;
-	cursor: pointer;
     height: 175px;
     width: 175px;
 	-webkit-animation: icona 2s ease normal forwards running;
