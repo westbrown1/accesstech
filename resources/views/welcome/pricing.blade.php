@@ -16,7 +16,7 @@
 				<h6>Note - We do not charge for any time it takes to fix our mistakes or for researching a solution.</h6>
 				<a href="/solution">Why We Are The Best Solution</a><br>
 				<a href="/">Home</a><br>
-				<p>Start having fun by hovering on the items below. More Fun <%= link_to 'HERE', welcome_what_path %></p>
+				<p>Start having fun by hovering on the items below. More Fun <a href="/what">Here.</a></p>
 			</div>
 		</div>
 	</div>
