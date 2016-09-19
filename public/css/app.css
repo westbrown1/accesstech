@@ -306,11 +306,11 @@ div.slider.show {
     margin-left: 25px;
 }
 
-.basket:hover {
+.basketball:hover {
     -webkit-perspective: 1000px;
     perspective: 1000px;
     -webkit-animation: bounce 4s ease forwards;
-    animation: bounce 2s ease forwards;
+    animation: bounce 4s ease forwards;
 }
 
 
@@ -1050,6 +1050,8 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
 }
 
 .google:hover {
+	-webkit-perspective: 1000px;
+    perspective: 1000px;
 	cursor: pointer;
 	-webkit-animation: icon3 3s ease-in-out normal forwards;
 	-o-animation: icon3 3s ease-in-out normal forwards;
@@ -1057,16 +1059,22 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
 }
 
 @-webkit-keyframes icon3 {
-	0% { left: 0px; }
-	100% { left: 500px; }
+	0%   { -webkit-transform: left: 0px; }
+	     {transform: left: 0px; }
+	100% { -webkit-transform: left: 900px; }
+	     {transform: left 900px;}
 }
-@-o-keyframes icon3 {
-	0% { left: 0px; ;
-	100% { left: 500px; }
+@-o-keyfraes icon3 {
+	0%   { -webkit-transform: left: 0px; }
+	     {transform: left: 0px; }
+	100% { -webkit-transform: left: 900px; }
+	     {transform: left 900px;}
 }
 @keyframes icon3 {
-	0% { left: 0px; }
-	100% { left: 500px; }
+	0%   { -webkit-left: 0px; }
+	     {transform: left: 0px; }
+	100% { -webkit-transform: transf9rm: left: 900px; }
+	     {transform: left 900px;}
 }
 
 
