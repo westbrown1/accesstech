@@ -1045,7 +1045,7 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
 @keyframes icona {
 	0% { -webkit-transform: translateX(0px) translateY(0px); }
 	   { transform: translateX(0px) translateY(0px); }
-  100% { -webkit-transform: translateX(900px) translateY-(200px); }
+  100% { -webkit-transform: translateX(900px) translateY(-200px); }
        { transform: translateX(900px) translateY(-200px); }
 }
 
