@@ -1006,14 +1006,19 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
 }
 
 .google {
+	margin-left: 30px;
 	height: 150px;
-	widows: 150px;
+	width: 150px;
+	-webkit-transition: width 3s, height 3s;
+    transition: width 3s, height 3s;
 }
 
 .google:hover {
 	-webkit-perspective: 1000px;
     perspective: 1000px;
 	cursor: pointer;
+    height: 400px;
+    width: 400px;
 	-webkit-animation: icona 3s ease normal forwards running;
 	-o-animation: icona 3s ease normal forwards running;
 	animation: icona 3s ease normal forwards running;
