@@ -100,7 +100,7 @@
 <div class="container">	 
 	<div class="row">
 		<center><div class="col-md-12">
-			<a href="/">Home</a>
+			<a href="/">Home</a> | 
 			<a href="/pricing">Back To Pricing</a>
 		</div></center>
 	</div>
