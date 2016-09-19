@@ -372,7 +372,7 @@ div.slider.show {
     }
     100% {
                 -webkit-transform: translateX(320px) translateY(150px) rotate(1070deg);
-                transform: translateX(320px) translateY(150px) rotate(1070deg);
+                transform: translateX(320px) translateY(150px) rotate(1400deg);
     }
 
 }
@@ -420,7 +420,7 @@ div.slider.show {
     }
     100% {  
                 -webkit-transform: translateX(320px) translateY(150px) rotate(1070deg);
-                transform: translateX(320px) translateY(150px) rotate(1070deg);
+                transform: translateX(620px) translateY(150px) rotate(1400deg);
     }
 
 }
