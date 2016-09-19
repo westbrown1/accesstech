@@ -1178,7 +1178,7 @@ img.hover-shadow {
 
 /* The Close Button */
 .close {
-    position: relative;
+    position: absolute;
     top: 15px;
     right: 35px;
     color: white;
