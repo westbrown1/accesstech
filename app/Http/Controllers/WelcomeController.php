@@ -32,4 +32,27 @@ class WelcomeController extends Controller
     {
     	return view('welcome.what');
     }
+        public function postContact(Request $request)
+    {   
+        $this->validate($request, [
+            'email' => 'required|email',
+            'subject' => 'min:5',
+            'body' => 'min:10'
+            ]);     
+
+        $data = [
+            'email' => $request->email,
+            'subject' => $request->subject,
+            'body' => $request->body
+        ];
+
+        Mail::send('emails.contact', $data, function($m) use ($data) {
+            $m->from($data['email']);
+            $m->to('lawsonsdad@gmail.com');
+            $m->subject($data['subject']);
+        });
+
+        Session::flash('success', 'Your message was sent!');
+        return view('welcome.contact');
+    }
 }

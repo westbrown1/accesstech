@@ -17,15 +17,16 @@
 			<p>Wilmington, NC  28409</p></center><br>
 			<p>West is available anytime Monday through Friday 9:00 am - 6:00 pm.</p>
 			<a href="/">Home</a><br>
-			<a href="/about">About Us</a>
+			<a href="/about">About Us</a><br>
+			<a href="https://www.linkedin.com/in/jeffrey-west-brown-5a692262"></a> <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+			<a href="https://plus.google.com/109928388980385474816/photos"></a> <i class="fa fa-google-plus-official" aria-hidden="true"></i>
 		</div><!-- / west-->		
 	</div>
 	<div class="col-md-5 text-center">
 		<div id="googleMap" style="width:500px;height:500px;"></div>		
 		<h4>Wilmington, NC  USA</h4>
 	</div>
-
-</div>
+	</div>
 </div><!-- /container -->
 
 <script
