@@ -930,8 +930,8 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
 	margin-left: 60px;
 	height: 100px;
 	width: 100px;
-	-webkit-transition: width 2s, height 2s;
-    transition: width 2s, height 2s;
+	-webkit-transition: width 1500ms, height 2s;
+    transition: width 1500ms, height 2s;
     -webkit-transition-delay: 500ms;
     transition-delay: 500ms;
 }
@@ -941,9 +941,9 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
     perspective: 1000px;
     height: 175px;
     width: 175px;
-	-webkit-animation: icona 2s ease 500ms normal forwards running;
-	-o-animation: icona 2s ease 500ms normal forwards running;
-	animation: icona 2s ease 500ms normal forwards running;
+	-webkit-animation: icona 1500ms ease 500ms normal forwards running;
+	-o-animation: icona 1500ms ease 500ms normal forwards running;
+	animation: icona 1500ms ease 500ms normal forwards running;
 }
 
 @-webkit-keyframes icona {
