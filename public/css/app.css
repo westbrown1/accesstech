@@ -359,16 +359,16 @@ div.slider.show {
                 transform: translateX(125px) translateY(70px) rotate(375deg);
     }
     52% {
-                -webkit-transform: translateX(142px) translateY(150px) rotate(465deg);
-                transform: translateX(142px) translateY(150px) rotate(565deg);
+                -webkit-transform: translateX(142px) translateY(150px) rotate(485deg);
+                transform: translateX(142px) translateY(150px) rotate(485deg);
     }
     60% {
-                -webkit-transform: translateX(160px) translateY(95px) rotate(555deg);
-                transform: translateX(160px) translateY(95px) rotate(555deg);
+                -webkit-transform: translateX(160px) translateY(95px) rotate(575deg);
+                transform: translateX(160px) translateY(95px) rotate(575deg);
     }
     66% {
-                -webkit-transform: translateX(177px) translateY(150px) rotate(660deg);
-                transform: translateX(177px) translateY(150px) rotate(660deg);      
+                -webkit-transform: translateX(177px) translateY(150px) rotate(680deg);
+                transform: translateX(177px) translateY(150px) rotate(680deg);      
     }
     100% {
                 -webkit-transform: translateX(320px) translateY(150px) rotate(1070deg);
@@ -407,16 +407,16 @@ div.slider.show {
                 transform: translateX(125px) translateY(70px) rotate(375deg);
     }
     52% {
-                -webkit-transform: translateX(142px) translateY(150px) rotate(465deg);
-                transform: translateX(142px) translateY(150px) rotate(465deg);
+                -webkit-transform: translateX(142px) translateY(150px) rotate(485deg);
+                transform: translateX(142px) translateY(150px) rotate(485deg);
     }
     60% {
-                -webkit-transform: translateX(160px) translateY(95px) rotate(555deg);
-                transform: translateX(160px) translateY(95px) rotate(555deg);
+                -webkit-transform: translateX(160px) translateY(95px) rotate(575deg);
+                transform: translateX(160px) translateY(95px) rotate(575deg);
     }
     66% {
-                -webkit-transform: translateX(177px) translateY(150px) rotate(660deg);
-                transform: translateX(177px) translateY(150px) rotate(660deg);
+                -webkit-transform: translateX(177px) translateY(150px) rotate(680deg);
+                transform: translateX(177px) translateY(150px) rotate(680deg);
     }
     100% {  
                 -webkit-transform: translateX(320px) translateY(150px) rotate(1070deg);
