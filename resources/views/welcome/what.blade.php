@@ -95,7 +95,7 @@
 		</div>
 		<div class="row">
 			<div class="col-md-12">
-				<img src="/images/google-chrome-icon-2.png" alt="google chrome icon" class="google">
+				<img src="/images/google-chrome-icon-2.png" alt="google chrome icon" class="google"><h5>hover over Google</h5>
 			</div>
 		</div>
 	</div><!-- /container -->
