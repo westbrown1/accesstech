@@ -93,12 +93,12 @@
 				</div>				
 			</div>				
 		</div>
-		<div class="row">
+		<div class="row" id="bottom1">
 			<div class="col-md-5">
 				<img src="/images/google-chrome-icon-2.png" alt="google chrome icon" class="google"><h5 id="googtext">hover over Google Chrome icon</h5>
 			</div>
 			<div class="col-md-6">
-				<div class="col-md-8">
+				
 				<h2 style="text-align:center">Lightbox</h2>
 
 				<div class="row">
@@ -161,7 +161,7 @@
 				      <img class="demo cursor" src="/images/photo-1433567212640-211efabc03e1 (1).jpeg" style="width:100%" onclick="currentSlide(4)" alt="Rocky Coast">
 				    </div>
 				  </div>
-				</div>
+				
 			</div>
 			</div>
 		</div>
