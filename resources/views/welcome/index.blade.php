@@ -11,6 +11,7 @@
 	background-repeat: no-repeat;
 }
 </style>
+<div class="container">
 <body id="ocean">
 <div class="row">
 	<div class="col-md-4 col-md-offset-4">
@@ -20,6 +21,7 @@
 			 <h5 class="text-center">Let Us Build An Awesome Website For <b>You !</b></h5>
 		</div><!-- /popup --></center>
 	</div>
+</div>
 </div>
 </body>
 @stop
