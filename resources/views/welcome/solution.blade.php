@@ -4,7 +4,7 @@
 
 @section('content')
 <div class="row">
-	<div class="col-md-10 col-md-offset-1 well solution">
+	<div class="col-md-10 col-md-offset-1 well" id="solution">
 		<h2 class="text-center" id="eleven">11 Reasons To Choose Us</h2>
 		<ol class="text-justify reasons">
 			<li>Our designs are fully responsive.  They scale great with smart phones, tablets and any size computer. 1.5. We are super with animation (appearance of movement).</li>
