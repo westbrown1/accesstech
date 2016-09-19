@@ -20,25 +20,38 @@
 			<a href="/about">About Us</a>
 		</div><!-- / west-->		
 	</div>
-	<div class="col-md-5 text-center document">
-		<!-- <div id="googleMap" style="width:500px;height:500px;"></div> -->
-		<div id="map" style="width:100%;height:500px"></div>
+	<div class="col-md-5 text-center">
+		<div id="googleMap" style="width:500px;height:500px;"></div>		
 		<h4>Wilmington, NC  USA</h4>
 	</div>
 
 </div>
 </div><!-- /container -->
 
-<script>
-function myMap() {
-  var mapCanvas = document.getElementById("map");
-  var mapOptions = {
-    center: new google.maps.LatLng(34.223333, -77.912222),
-    zoom: 10
-  }
-  var map = new google.maps.Map(mapCanvas, mapOptions);
-}
+<script
+src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEVO00gprk&callback-initMap">
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
+<script>
+var myCenter=new google.maps.LatLng(34.223333, -77.912222);
+
+function initialize()
+{
+var mapProp = {
+  center:myCenter,
+  zoom:11,
+  mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+
+var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+var marker=new google.maps.Marker({
+  position:myCenter,
+  });
+
+marker.setMap(map);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
 @stop
