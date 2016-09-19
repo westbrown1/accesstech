@@ -18,7 +18,7 @@
 			<p>West is available anytime Monday through Friday 9:00 am - 6:00 pm.</p>
 			<a href="/">Home</a><br>
 			<a href="/about">About Us</a><br>
-			<a href="https://www.linkedin.com/in/jeffrey-west-brown-5a692262"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+			<a href="https://www.linkedin.com/in/jeffrey-west-brown-5a692262"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a> &copy; 
 			<a href="https://plus.google.com/109928388980385474816/photos"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i>
 </a>
 			
