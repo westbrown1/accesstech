@@ -11,7 +11,7 @@
 				<h4>AccessTech.io</h4>
 				<hr>			
 				<h4>We charge $40 per hour.</h4>
-				<h4>We can give you an estimate of how much time we think the work will take.</h4><br>
+				<h4>We can give you an estimate of how much time we think the work will take.</h4>
 				<h6>Note - We do not charge for any time it takes to fix our mistakes or for researching a solution.</h6>
 				<hr>				
 				<a href="/solution">Why We Are The Best Solution</a><br>
