@@ -1043,3 +1043,24 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
 #brand {
     padding-top: 45px;
 }
+
+.google:hover {
+	-webkit-animation: icon3 3s ease-in-out normal forwards;
+	-o-animation: icon3 3s ease-in-out normal forwards;
+	animation: icon3 3s ease-in-out normal forwards;
+}
+
+@-webkit-keyframes icon3 {
+	0% { scale(0.5) };
+	100% { scale(1.5) translateY(500px) };
+}
+@-o-keyframes icon3 {
+	0% { scale(0.5) };
+	100% { scale(1.5) translateY(500px) };
+}
+@keyframes icon3 {
+	0% { scale(0.5) };
+	100% { scale(1.5) translateY(500px) };
+}
+
+
