@@ -20,7 +20,7 @@
 				<!-- popup -->
 		<center><div id="popup">
 			 <h4 class="text-center" id="brand">AccessTech.io</h4>
-			 <h5 class="text-center">Let Us Build An Awesome Website For <b>You !</b></h5>
+			 <h5 class="text-center">Let Us Build An Awesome Website For You !</h5>
 		</div><!-- /popup --></center>
 	</div>
 </div>
