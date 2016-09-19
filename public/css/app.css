@@ -1051,15 +1051,15 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
 }
 
 @-webkit-keyframes icon3 {
-	0% { scale(0.5) };
+	0% { scale(0.2) };
 	100% { scale(1.5) translateY(500px) };
 }
 @-o-keyframes icon3 {
-	0% { scale(0.5) };
+	0% { scale(0.2) };
 	100% { scale(1.5) translateY(500px) };
 }
 @keyframes icon3 {
-	0% { scale(0.5) };
+	0% { scale(0.2) };
 	100% { scale(1.5) translateY(500px) };
 }
 
