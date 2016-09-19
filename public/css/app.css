@@ -324,8 +324,8 @@ div.slider.show {
 .basketball:hover {
     -webkit-perspective: 1000px;
     perspective: 1000px;
-    -webkit-animation: bounce 7s ease-in-out 0s 1 normal forwards running;
-    animation: bounce 7s ease-in-out 0s 1 normal forwards running;
+    -webkit-animation: bounce 7s linear 0s 1 normal forwards running;
+    animation: bounce 7s linear 0s 1 normal forwards running;
 }
 
 
