@@ -9,7 +9,6 @@
 	background-image: url("https://hd.unsplash.com/photo-1415018255745-0ec3f7aee47b");
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center;
 }
 </style>
 <div class="container">
