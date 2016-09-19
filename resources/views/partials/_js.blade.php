@@ -3,8 +3,6 @@
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
-
 <script>
 function myMap() {
   var mapCanvas = document.getElementById("map");
@@ -15,6 +13,8 @@ function myMap() {
   var map = new google.maps.Map(mapCanvas, mapOptions);
 }
 </script>
+
+<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
 
 <script>
 function openNav() {
