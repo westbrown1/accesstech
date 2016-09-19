@@ -132,6 +132,10 @@ span {
 	text-align: center;
 }
 
+#eleven {
+	padding-top: 0;
+}
+
 .reasons {
 	padding-top: 5px;
 }
@@ -142,7 +146,7 @@ span {
 
 .solution {
 	margin-top: 75px;
-    padding-top: 5px;
+    padding-top: 0;
 }
 
 .reasons li {
