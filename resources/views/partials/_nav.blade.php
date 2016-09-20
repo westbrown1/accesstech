@@ -7,6 +7,6 @@
 		<a href="/pricing">Pricing</a>
 		<a href="/contact">Contact Us</a>		
 		<a href="/solution">Why Choose Us?</a>
-		<a href="/what">What We Can Do</a>
+		<a href="/what">A Sample Of What We Can Do</a>
 
 </div>
