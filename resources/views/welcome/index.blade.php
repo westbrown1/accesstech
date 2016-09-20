@@ -11,6 +11,10 @@
 	background-size: cover;
 	background-position: center center;
 	background-attachment: fixed;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
 
 </style>
