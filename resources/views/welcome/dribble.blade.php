@@ -29,9 +29,9 @@
         <div class="item">16</div>
         <div class="item">17</div>
         <div class="item">18</div>
-        <div class="item">19</div>
-        <p>Masonry from dribble.com</p>
+        <div class="item">19</div>        
       </div>
+      <p>Masonry from dribble.com</p>
     </div>
   </div>
 </body>
