@@ -7,7 +7,7 @@
   <div class="container">
     <div class="website">
       <div class="header">
-        <div class="logo"> </div>
+        <div class="grid"></div>
         <div class="text">CSS Animation Build In</div>
       </div>
       <div class="grid">
