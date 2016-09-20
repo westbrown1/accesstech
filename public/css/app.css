@@ -161,6 +161,11 @@ span {
 #aboutus {
 	margin-top: 70px;
 }
+
+#contactus {
+    margin-top: 70px;
+}
+
 #myCarousel {
     z-index: 0;
     position: relative;
