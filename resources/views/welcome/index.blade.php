@@ -10,8 +10,7 @@
 	background-size: cover;
 	height: 100vh;
 	display: flex;
-	flex-direction: column;
-	margin-top: 40%;
+	flex-direction: column;	
 }
 
 </style>
