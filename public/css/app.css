@@ -1214,7 +1214,7 @@ body {
 }
 
 .text {
-  padding: 30px 10px;
+  padding: 10px 10px;
   font-size: 30px;
   color: #fff;
   text-transform: uppercase;
@@ -1320,8 +1320,8 @@ body {
 }
 
 .item.is-visible {
-  -webkit-animation: Items 600ms ease normal forwards running;
-          animation: Items 600ms ease normal forwards running;
+  -webkit-animation: Items 600ms ease-in-out normal forwards running;
+          animation: Items 600ms ease-in-out normal forwards running;
 }
 
 @-webkit-keyframes Items2 {
