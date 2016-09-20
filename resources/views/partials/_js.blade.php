@@ -14,7 +14,7 @@ function closeNav() {
 </script>
 
 <script>
-    $(document).ready(function($) {
+    $(document).ready(function() {
             $('#popup').hide().fadeIn(7000);
             $('#popup').fadeOut(15000);
         }); 
