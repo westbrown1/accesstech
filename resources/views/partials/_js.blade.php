@@ -27,7 +27,7 @@ function closeNav() {
   // Masonry Grid
   $('.grid').masonry({
     itemSelector: '.item',
-    columnWidth: 160,
+    width: 160,
     gutter: 10
   });
 
