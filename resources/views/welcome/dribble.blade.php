@@ -5,6 +5,7 @@
 @section('content')
 <link rel="stylesheet" href="app.scss">
 
+<div class="container">
 <div class="website">
   <div class="header">
     <div class="logo"> </div>
@@ -31,6 +32,7 @@
     <div class="item">18</div>
     <div class="item">19</div>
   </div>
+</div>
 </div>
 <script>
 // Masonry Grid
