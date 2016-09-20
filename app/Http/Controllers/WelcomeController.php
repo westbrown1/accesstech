@@ -32,6 +32,10 @@ class WelcomeController extends Controller
     {
     	return view('welcome.what');
     }
+    public function dribble()
+    {
+        return view('welcome.dribble');
+    }
         public function postContact(Request $request)
     {   
         $this->validate($request, [

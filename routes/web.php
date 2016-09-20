@@ -17,6 +17,7 @@ Route::get('contact', 'WelcomeController@contact');
 Route::get('pricing', 'WelcomeController@pricing');
 Route::get('solution', 'WelcomeController@solution');
 Route::get('what', 'WelcomeController@what');
+Route::get('dribble', 'WelcomeController@dribble');
 
 
 
