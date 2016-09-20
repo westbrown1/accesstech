@@ -27,15 +27,15 @@ function closeNav() {
   // Masonry Grid
   $('.grid').masonry({
     itemSelector: '.item',
-    columnWidth: 160,
-    gutter: 10
+    columnWidth: 160px,
+    gutter: 10px
   });
 
 
   $('.item').each(function(i){
     setTimeout(function(){
       $('.item').eq(i).addClass('is-visible');
-    }, 200 * i);
+    }, 200ms * i);
   });
 
 </script>
