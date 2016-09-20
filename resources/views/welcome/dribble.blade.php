@@ -3,7 +3,7 @@
 @section('title', '| Dribble')
 
 @section('content')
-<link rel="stylesheet" href="app.scss">
+<link rel="stylesheet" href="/app.scss">
 
 <div class="container">
 <div class="website">
