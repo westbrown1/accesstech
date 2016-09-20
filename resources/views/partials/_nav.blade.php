@@ -8,6 +8,6 @@
 		<a href="/contact">Contact Us</a>		
 		<a href="/solution">Why Choose Us?</a>
 		<a href="/what">A Sample Of What We Can Do</a>
-		<a href="/dribble">Cool Load Effect</a>
+		<a href="/dribble">Load Effect Sample</a>
 
 </div>
