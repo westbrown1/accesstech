@@ -17,10 +17,6 @@
 	background-image: url("https://hd.unsplash.com/photo-1415018255745-0ec3f7aee47b");
 	height: 100vh;
 	background-size: cover;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
 }
 
 </style>
