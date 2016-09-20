@@ -8,7 +8,6 @@
   <div class="container">
     <div class="website">
       <div class="header">
-        <div class=""> </div>
         <div class="text">CSS Animation Build In</div>
       </div>
       <div class="grid">
@@ -31,9 +30,9 @@
         <div class="item">17</div>
         <div class="item">18</div>
         <div class="item">19</div>
+        <p>Masonry from dribble.com</p>
       </div>
     </div>
-</div>
-
+  </div>
 </body>
 @stop
