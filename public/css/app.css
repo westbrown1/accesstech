@@ -1201,7 +1201,7 @@ img.hover-shadow {
     }
 }
 
-body {
+body.popin {
   background: #e3e3e3;
   padding: 20px;
   font-family: "Roboto Slab", serif;
