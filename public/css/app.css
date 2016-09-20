@@ -915,8 +915,7 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
 }
 
 #popup {
-	position: absolute;
-	top: 40%;
+	margin-top: 40%;
 	border-radius: 4px;
     height: 130px;
     width: 200px;
