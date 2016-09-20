@@ -4,6 +4,8 @@
 <meta name="title" content="A Wilmington NC Website Design Company | AccessTech.io | Mobile First Design | Responsive Websites | SEO Management | Adwords Management">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="E0dIcNs5_CN27MpHWntn7rv5HLUST-i5epp59fUsaPA" />
+<meta name="msvalidate.01" content="9E083C7F7449311A96036DFB9C6DD4EF" />
+
 <link rel="stylesheet" href="/css/app.css">
 
 <title>AccessTech.io</title>
