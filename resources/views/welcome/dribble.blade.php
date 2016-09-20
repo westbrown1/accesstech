@@ -3,8 +3,8 @@
 @section('title', '| Dribble')
 
 @section('content')
-
-<div class="container">
+<body>
+  <div class="container">
     <div class="website">
       <div class="header">
         <div class="logo"> </div>
@@ -35,8 +35,6 @@
 </div>
 <script>
 
-$(document).ready(function($) {
-
   // Masonry Grid
   $('.grid').masonry({
     itemSelector: '.item',
@@ -51,6 +49,6 @@ $(document).ready(function($) {
     }, 200 * i);
   });
 
-});
 </script>
+</body>
 @stop
