@@ -11,7 +11,7 @@
 	height: 100vh;
 	display: flex;
 	flex-direction: column;
-	justify-content: center;
+	margin-top: 40%;
 }
 
 </style>
