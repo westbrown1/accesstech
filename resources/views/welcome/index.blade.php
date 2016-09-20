@@ -29,10 +29,10 @@
 <div class="row">
 	<div class="col-md-4 col-md-offset-4">
 				<!-- popup -->
-		<center><div id="popup">
+		<div id="popup">
 			 <h4 class="text-center" id="brand">AccessTech.io</h4>
 			 <h5 class="text-center">Let Us Build An Awesome Website For You !</h5>
-		</div><!-- /popup --></center>
+		</div><!-- /popup -->
 	</div>
 </div>
 </div>
