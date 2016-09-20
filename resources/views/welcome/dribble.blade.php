@@ -3,7 +3,7 @@
 @section('title', '| Dribble')
 
 @section('content')
-<body>
+<body class="popin">
   <div class="container">
     <div class="website">
       <div class="header">
