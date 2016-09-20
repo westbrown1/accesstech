@@ -1201,7 +1201,7 @@ img.hover-shadow {
     }
 }
 
-.popin {
+body.popin {
   background: #e3e3e3;
   padding: 20px;
   font-family: "Roboto Slab", serif;
@@ -1210,11 +1210,11 @@ img.hover-shadow {
 .header {
   background: #00BCD4;
   text-align: center;
-  overflow: hidden;
+  overlfow: hidden;
 }
 
 .text {
-  padding: 10px 10px;
+  padding: 30px 10px;
   font-size: 30px;
   color: #fff;
   text-transform: uppercase;
@@ -1234,7 +1234,7 @@ img.hover-shadow {
   -webkit-perspective: 1000px;
           perspective: 1000px;
 }
-.grid. item {
+.grid .item {
   background: #ccc;
   height: 60px;
   margin-bottom: 10px;
@@ -1320,8 +1320,8 @@ img.hover-shadow {
 }
 
 .item.is-visible {
-  -webkit-animation: Items 600ms ease-in-out normal forwards running;
-          animation: Items 600ms ease-in-out normal forwards running;
+  -webkit-animation: Items 600ms ease-in forwards;
+          animation: Items 600ms ease-in forwards;
 }
 
 @-webkit-keyframes Items2 {
