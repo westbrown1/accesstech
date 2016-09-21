@@ -3,6 +3,13 @@
 @section('title', '| Contact Us')
 
 @section('content')
+<style>
+	img {		
+	-webkit-filter: saturate(800%); /* Chrome, Safari, Opera */
+    filter: saturate(800%);
+	}
+</style>
+
 <!-- container -->
 <div class="container">
 	 <div class="row">

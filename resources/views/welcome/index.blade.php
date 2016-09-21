@@ -10,9 +10,7 @@
 	background-size: cover;
 	height: 100vh;
 	display: flex;
-	flex-direction: column;
-	-webkit-filter: saturate(800%); /* Chrome, Safari, Opera */
-    filter: saturate(800%);	
+	flex-direction: column;	
 }
 
 </style>
