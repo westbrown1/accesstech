@@ -11,9 +11,9 @@
 			
 			<h5>West Brown aka 'we', 'our', 'us'</h5>		
 		<hr>
-			<p>Hi, I'm West Brown and I'm the founder of AccessTech.io. I'm a native of Wilmington, NC and a graduate of The University of North Carolina, Chapel Hill.  I received a degree in Economics, we'll just say a long time ago.  Not too long ago I discovered something I really love to do.  Design web applications and websites.  So, now I'm a web developer and design specialist.  It is our goal here at Access Tech to make sure your users' interface experience is clear, productive, seamless and enjoyable.  We are here to help you.  Together we'll make sure your customers know they are being taken care of. <br><br> 
+			<p>Hi.  I'm West Brown.  The founder of AccessTech.io.  I'm a native of Wilmington, NC.  And a graduate of The University of North Carolina, Chapel Hill.  I received a degree in Economics, we'll just say a long time ago.  Not too long ago I discovered something I really love to do.  Design web applications and websites.  So.  Now I'm a web developer and design specialist.  Our goal here at Access Tech is to make sure your users' interface experience is clear.  Productive.  Seamless.  And enjoyable.  We are here to help you.  Together.  We'll make sure your customers know.  They are being taken care of. <br><br> 
 
-			As for me, I also enjoy spending time with my 9 year old son.  He likes to surf, play basketball, tennis, golf and is one impressive swimmer.  He enjoys his time on beautiful Wrightsville Beach as much as I do.  Please allow me to assist you in your web development needs.  I am happy to help.  You can call/text me at 910-200-1391. <hr> {{Html::mailto('lawsonsdad@gmail.com', 'Email West')}}<br><a href="/contact">All Contact Info</a><br><a href="/">Home</a>
+			As for me.  I also enjoy spending time with my 9 year old son.  He likes to surf.  Play basketball.  Tennis.  Golf.  And is one impressive swimmer.  He enjoys his time on beautiful Wrightsville Beach as much as I do.  Please allow me to assist you in your web development needs.  I am happy to help.  You can call/text me at 910-200-1391. <hr> {{Html::mailto('lawsonsdad@gmail.com', 'Email West')}}<br><a href="/contact">All Contact Info</a><br><a href="/">Home</a>
 		</div>
 	</div>
 </div>
