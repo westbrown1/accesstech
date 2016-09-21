@@ -104,10 +104,10 @@
 <!-- container -->
 <div class="container">	 
 	<div class="row">
-		<div class="col-md-12" id="bottom">
-			<a href="/" class="text-center">Home</a> | 
-			<a href="/pricing" class="text-center">Back To Pricing</a>
-		</div>
+		<center><div class="col-md-12" id="bottom">
+			<a href="/">Home</a> | 
+			<a href="/pricing">Back To Pricing</a>
+		</div></center>
 	</div>
 </div><!-- /container -->
 
