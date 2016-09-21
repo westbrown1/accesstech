@@ -20,8 +20,7 @@
 			<a href="/about">About Us</a><br><br>
 			<a href="https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a> &nbsp;  
 			<a href="https://plus.google.com/109928388980385474816/photos"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i>
-</a>
-			
+</a>			
 		</div><!-- / west-->		
 	</div>
 	<div class="col-md-5 text-center">

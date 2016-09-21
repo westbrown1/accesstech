@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', '| Dribble')
+@section('title', '| Dribbble')
 
 @section('content')
 <body class="popin">
@@ -30,7 +30,7 @@
         <div class="item">18</div>
         <div class="item">19</div>        
       </div>
-      <p>Masonry from dribble.com</p>
+      <p>Masonry from dribbble.com</p>
     </div>
   </div>
 </body>
