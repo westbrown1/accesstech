@@ -1,6 +1,8 @@
-<!DOCTYPE html>
-<html lang="en" class="no-js">
-	<head>
+@extends('layouts.app')
+
+@section('title', '| The Aviator')
+
+@section('content')
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,13 +22,14 @@
 		<style>
 			body #cdawrap { background: none; border: 1px solid #d1b790; top: auto; bottom: 12px; left: 12px; right: auto; }
 		</style>
-	</head>
-	<body>
+
+
 		<div class="world" id="world"></div>
 		<nav class="meta">
 			<a class="demo-link" href="part1.html">Part 1</a>
 			<a class="demo-link demo-link--current" href="part2.html">Part 2</a>
 			<a class="demo-link" href="index.html">Game</a>
 		</nav>
-	</body>
-</html>
+
+@stop
+
