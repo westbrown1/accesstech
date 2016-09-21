@@ -9,7 +9,7 @@
 <hr>
 	<div class="col-md-6">
 		<!-- west -->
-		<div class="well west" id="contactus">
+		<div class="well" id="contactus">
 			 <img src="/images/photo.jpg" alt="" class="img-thumbnail">
 			 <h6>West Brown</h6>
 			 <p>Phone/Text # <a href="tel: +19102001391"> (910) 200-1391</a></p>

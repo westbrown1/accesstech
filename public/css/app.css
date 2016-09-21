@@ -7849,10 +7849,6 @@ span {
     padding-bottom: 0px;
 }
 
-.west {
-    text-align: center;
-}
-
 #eleven {
     padding-top: 0;
 }
@@ -7885,6 +7881,7 @@ span {
 
 #contactus {
     margin-top: 30px;
+    text-align: center;
 }
 
 #myCarousel {
@@ -9232,4 +9229,5 @@ body.popin {
 
 #bottom {
     padding-bottom: 40px;
+    text-align: center;
 }
