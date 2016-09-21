@@ -7,8 +7,8 @@
 	<div class="col-md-10 col-md-offset-1 well" id="solution">
 		<h2 class="text-center" id="eleven">11 Reasons To Choose Us</h2>
 		<ol class="text-justify reasons">
-			<li>Our designs are fully responsive.  They scale great with smart phones.  Tablets.  And any size computer.  1.5.  We are super with animation. The appearance of movement.</li>
-			<li>We use high quality.  Newer.  Fast Virtual Private Nginx Servers.  They have Ubuntu 16.04 x 64 bit.  A Linux operating system and distribution.  It only costs $5 per month for a standard business website.  You'll have your own space RESERVED.  On a private server 24/7/365.  This will allow fast.  Dependable.  Quality service.</li>
+			<li>Our designs are fully responsive.  They scale great with smart phones.  Tablets.  And any size computer.  NOTE:  We are super with animation (The appearance of movement).</li>
+			<li>We use high quality.  Newer.  Fast Virtual Private Nginx Servers.  They have Ubuntu 16.04 x 64 bit (a Linux operating system and distribution).  It only costs $5 per month for a standard business website.  You'll have your own space RESERVED.  On a private server 24/7/365.  This will allow fast.  Dependable.  Quality service.</li>
 			<li>We set up your server completely for a turnkey site.  All you have to do is search for it online.  This will save you +-$20 - $30 per month.</li>
 			<li>We advise against shared hosting.  Shared hosting companies typically cram 1,000's of websites on an older.  Average quality server.  It's basically first come first serve.  When a lot of people come to these sites at the same time, these servers typically go down.  It costs $4-$6 per month for a single website.  See #2 above... right?  But if you want.  We will accommodate.</li>						
 			<li>We develop Wordpress and Drupal websites.  These CMS's (Content Management Systems) do allow for quick.  And quality website development.  They provide easy to use backends.  Where you can manage the frontend.  However. They do have customizing limitations.</li>
