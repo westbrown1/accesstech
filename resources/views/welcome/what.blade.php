@@ -105,8 +105,8 @@
 <div class="container">	 
 	<div class="row">
 		<div class="col-md-12" id="bottom">
-			<a href="/">Home</a> | 
-			<a href="/pricing">Back To Pricing</a>
+			<a href="/" class="text-center">Home</a> | 
+			<a href="/pricing" class="text-center">Back To Pricing</a>
 		</div>
 	</div>
 </div><!-- /container -->
