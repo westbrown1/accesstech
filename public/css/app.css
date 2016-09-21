@@ -9229,3 +9229,7 @@ body.popin {
         opacity: 1;
     }
 }
+
+#bottom {
+    margin-bottom: 30px;
+}
