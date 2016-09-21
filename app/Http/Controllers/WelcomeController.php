@@ -38,6 +38,6 @@ class WelcomeController extends Controller
     }
     public function aviator()
     {
-          return view('welcome.TheAviator.part2');
+        return view('welcome.theaviator.part2');
     }  
 }
