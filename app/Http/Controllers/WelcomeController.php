@@ -37,7 +37,11 @@ class WelcomeController extends Controller
         return view('welcome.dribble');
     }
         public function postContact(Request $request)
-    {   
+    { 
+    public function aviator()
+      {
+          return view('welcome.TheAviator.index');
+      }  
         $this->validate($request, [
             'email' => 'required|email',
             'subject' => 'min:5',
