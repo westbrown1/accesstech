@@ -9,6 +9,6 @@
 		<a href="/solution">Why Choose Us?</a>
 		<a href="/what">A Sample Of What We Can Do</a>
 		<a href="/dribble">Load Effect Sample</a>
-		<a href="/index">Play The Aviator (By Karim Maaloul)</a>
+		<a href="part1.html">Play The Aviator (By Karim Maaloul)</a>
 
 </div>
