@@ -6,6 +6,10 @@
 <script src="https://unpkg.com/masonry-layout@4.1/dist/masonry.pkgd.min.js"></script>
 
 <script>
+$(document).ready(function() {
+  $('.nav').click(function() {
+    $(this).toggle();  
+
 function openNav() {
     document.getElementById("mySidenav").style.width = "100%";
 }
@@ -13,6 +17,8 @@ function openNav() {
 function closeNav() {
     document.getElementById("mySidenav").style.width = "0";
 }
+});
+});
 </script>
 
 <script>
