@@ -6,13 +6,19 @@
 <script src="https://unpkg.com/masonry-layout@4.1/dist/masonry.pkgd.min.js"></script>
 
 <script>
-function openNav() {
-    document.getElementById("mySidenav").style.width = "100%";
-}
+$(document).ready(function() {
+  $('#mySidenav').on('click', function(){
+    $(this).toggle();
+      function openNav() {
+        document.getElementById("mySidenav").style.width = "100%";
+    }
 
-function closeNav() {
-    document.getElementById("mySidenav").style.width = "0";
-}
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+    }
+  });
+});
+
 </script>
 
 <script>
