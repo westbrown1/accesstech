@@ -7,7 +7,7 @@
 
 <script>
 $(document).ready(function() {
-  $('.nav').click(function() {
+  $('.navbar-fixed-top').click(function() {
     $(this).toggle();  
 
 function openNav() {
