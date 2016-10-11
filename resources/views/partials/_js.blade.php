@@ -17,7 +17,7 @@
 
 <script>
     $(document).ready(function() {
-            $('#popup').delay("slow").fadeIn(7000);
+            $('#popup').hide().fadeIn(7000);
             $('#popup').fadeOut(15000);
         });  
 </script>
