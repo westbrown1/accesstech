@@ -20,7 +20,8 @@
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 </head>
-
+	<!-- container -->
+	<div class="container">
 		<header class="codrops-header" id="codrops">
 			<h1>Button Styles Inspiration <span>Some fresh styles &amp; hover effects for the modern button by Codrops</span></h1>
 			<div class="support" id="support-note">Please note that (mobile) Safari's behavior is very buggy and only some effects will work properly.</div>
@@ -410,6 +411,7 @@
 				<button class="button button--shikoba button--text-medium button--round-l button--inverted"><i class="button__icon icon icon-camera"></i><span>Take picture</span></button>
 			</div>
 		</section>
+	</div><!-- /container -->
 	<script>
 		(function() {
 			var isSafari = !!navigator.userAgent.match(/Version\/[\d\.]+.*Safari/);
