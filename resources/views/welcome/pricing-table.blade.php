@@ -29,7 +29,7 @@
         <![endif]-->
     </head>
     <div class="container">
-        <header class="codrops-header">
+        <header class="codrops-header" id="codrops">
             <div class="codrops-links">
             </div>
             <h1>Pricing Tables</h1>
