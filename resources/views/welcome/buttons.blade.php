@@ -27,24 +27,6 @@
 			<div class="support" id="support-note">Please note that (mobile) Safari's behavior is very buggy and only some effects will work properly.</div>
 		</header>
 		<section class="content">
-			<h2>Winona</h2>
-			<div class="box bg-1">
-				<button class="button button--winona button--border-thin button--round-s" data-text="Open Project"><span>Open Project</span></button>
-				<button class="button button--winona button--border-thin button--round-s" data-text="Create New"><span>Create New</span></button>
-				<button class="button button--winona button--border-thin button--round-s" data-text="Publish"><span>Publish</span></button>
-			</div>
-			<div class="box bg-2">
-				<button class="button button--winona button--border-thick button--round-l button--text-upper button--size-s button--text-thick" data-text="Open Project"><span>Open Project</span></button>
-				<button class="button button--winona button--border-thick button--round-l button--text-upper button--size-s button--text-thick" data-text="Create New"><span>Create New</span></button>
-				<button class="button button--winona button--border-thick button--round-l button--text-upper button--size-s button--text-thick" data-text="Publish"><span>Publish</span></button>
-			</div>
-			<div class="box bg-3">
-				<button class="button button--winona button--border-thin button--text-thick button--inverted" data-text="Open Project"><span>Open Project</span></button>
-				<button class="button button--winona button--border-thin button--text-thick button--inverted" data-text="Create New"><span>Create New</span></button>
-				<button class="button button--winona button--border-thin button--text-thick button--inverted" data-text="Publish"><span>Publish</span></button>
-			</div>
-		</section>
-		<section class="content">
 			<h2>Ujarak</h2>
 			<div class="box bg-1">
 				<button class="button button--ujarak button--border-thin button--text-thick">Publish</button>
@@ -62,6 +44,24 @@
 				<button class="button button--ujarak button--border-thick button--text-upper button--size-s button--inverted button--text-thick">Delete</button>
 			</div>
 		</section>
+		<section class="content">
+			<h2>Winona</h2>
+			<div class="box bg-1">
+				<button class="button button--winona button--border-thin button--round-s" data-text="Open Project"><span>Open Project</span></button>
+				<button class="button button--winona button--border-thin button--round-s" data-text="Create New"><span>Create New</span></button>
+				<button class="button button--winona button--border-thin button--round-s" data-text="Publish"><span>Publish</span></button>
+			</div>
+			<div class="box bg-2">
+				<button class="button button--winona button--border-thick button--round-l button--text-upper button--size-s button--text-thick" data-text="Open Project"><span>Open Project</span></button>
+				<button class="button button--winona button--border-thick button--round-l button--text-upper button--size-s button--text-thick" data-text="Create New"><span>Create New</span></button>
+				<button class="button button--winona button--border-thick button--round-l button--text-upper button--size-s button--text-thick" data-text="Publish"><span>Publish</span></button>
+			</div>
+			<div class="box bg-3">
+				<button class="button button--winona button--border-thin button--text-thick button--inverted" data-text="Open Project"><span>Open Project</span></button>
+				<button class="button button--winona button--border-thin button--text-thick button--inverted" data-text="Create New"><span>Create New</span></button>
+				<button class="button button--winona button--border-thin button--text-thick button--inverted" data-text="Publish"><span>Publish</span></button>
+			</div>
+		</section>		
 		<section class="content">
 			<h2>Wayra</h2>
 			<div class="box bg-1">
