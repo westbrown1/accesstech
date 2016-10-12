@@ -20,7 +20,6 @@
         	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
 	</head>
-	<body>
 		<div class="container demo-2">
 			<div class="content">
                 <div id="large-header" class="large-header">
