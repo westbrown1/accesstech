@@ -52,7 +52,6 @@ a:focus {
 }
 .container {
 	margin: 0 auto;
-	text-align: center;
 	overflow: hidden;
 }
 .content {
