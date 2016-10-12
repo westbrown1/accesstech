@@ -30,8 +30,6 @@
     </head>
     <div class="container">
         <header class="codrops-header" id="codrops">
-            <div class="codrops-links">
-            </div>
             <h1>Pricing Tables</h1>
             <h3>From Codrops at tympanus.net</h3>
         </header>
