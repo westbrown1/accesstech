@@ -28,7 +28,7 @@
 		</header>
 		<section class="content">
 			<h2>Moema</h2>
-			<p>Based on the "Add New Location" button concept by Charles Patterson. Better as a click effect than on hover.</p>
+			<p class="moema">Based on the "Add New Location" button concept by Charles Patterson. Better as a click effect than on hover.</p>
 			<div class="box bg-1">
 				<button class="button button--moema button--text-thick button--text-upper button--size-s">Make it so</button>
 				<button class="button button--moema button--text-thick button--text-upper button--size-s">Add to cart</button>
