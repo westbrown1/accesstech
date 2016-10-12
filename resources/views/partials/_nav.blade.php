@@ -11,6 +11,5 @@
 		<a href="/buttons">Example Buttons</a>
 		<a href="/dribble">Load Effect Sample</a>
 		<a href="/what">A Sample Of What We Can Do</a>
-		{{-- <a href="/part2">Play The Aviator (By Karim Maaloul)</a> --}}
 
 </div>
