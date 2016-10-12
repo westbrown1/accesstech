@@ -27,6 +27,25 @@
 			<div class="support" id="support-note">Please note that (mobile) Safari's behavior is very buggy and only some effects will work properly.</div>
 		</header>
 		<section class="content">
+			<h2>Moema</h2>
+			<p>Based on the "Add New Location" button concept by Charles Patterson. Better as a click effect than on hover.</p>
+			<div class="box bg-1">
+				<button class="button button--moema button--text-thick button--text-upper button--size-s">Make it so</button>
+				<button class="button button--moema button--text-thick button--text-upper button--size-s">Add to cart</button>
+				<button class="button button--moema button--text-thick button--text-upper button--size-s">Send now</button>
+			</div>
+			<div class="box bg-2">
+				<button class="button button--moema button--border-thick button--size-s">Make it so</button>
+				<button class="button button--moema button--border-thick button--size-s">Add to cart</button>
+				<button class="button button--moema button--border-thick button--size-s">Send now</button>
+			</div>
+			<div class="box bg-3">
+				<button class="button button--moema button--inverted button--text-thick button--size-s">Make it so</button>
+				<button class="button button--moema button--inverted button--text-thick button--size-s">Add to cart</button>
+				<button class="button button--moema button--inverted button--text-thick button--size-s">Send now</button>
+			</div>
+		</section>
+		<section class="content">
 			<h2>Ujarak</h2>
 			<div class="box bg-1">
 				<button class="button button--ujarak button--border-thin button--text-thick">Publish</button>
@@ -115,26 +134,7 @@
 				<button class="button button--pipaluk button--inverted  button--round-s button--text-thick">Cancel</button>
 				<button class="button button--pipaluk button--inverted  button--round-s button--text-thick">Reset</button>
 			</div>
-		</section>
-		<section class="content">
-			<h2>Moema</h2>
-			<p>Based on the "Add New Location" button concept by Charles Patterson. Better as a click effect than on hover.</p>
-			<div class="box bg-1">
-				<button class="button button--moema button--text-thick button--text-upper button--size-s">Make it so</button>
-				<button class="button button--moema button--text-thick button--text-upper button--size-s">Add to cart</button>
-				<button class="button button--moema button--text-thick button--text-upper button--size-s">Send now</button>
-			</div>
-			<div class="box bg-2">
-				<button class="button button--moema button--border-thick button--size-s">Make it so</button>
-				<button class="button button--moema button--border-thick button--size-s">Add to cart</button>
-				<button class="button button--moema button--border-thick button--size-s">Send now</button>
-			</div>
-			<div class="box bg-3">
-				<button class="button button--moema button--inverted button--text-thick button--size-s">Make it so</button>
-				<button class="button button--moema button--inverted button--text-thick button--size-s">Add to cart</button>
-				<button class="button button--moema button--inverted button--text-thick button--size-s">Send now</button>
-			</div>
-		</section>
+		</section>		
 		<section class="content">
 			<h2>Isi</h2>
 			<div class="box bg-1">
