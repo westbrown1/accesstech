@@ -62,6 +62,7 @@ a:focus {
 }
 .content h2 {
 	margin: 0 0 2em;
+	text-align: center;
 }
 .content p {
 	margin: 1em 0;
