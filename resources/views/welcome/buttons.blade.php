@@ -22,7 +22,7 @@
 
 	<!-- container -->
 	<div class="container">		 
-		<header class="codrops-header">
+		<header class="codrops-header" id="codrops">
 			<h1>Button Styles Inspiration <span>Some fresh styles &amp; hover effects for the modern button by Codrops</span></h1>
 			<div class="support" id="support-note">Please note that (mobile) Safari's behavior is very buggy and only some effects will work properly.</div>
 		</header>
