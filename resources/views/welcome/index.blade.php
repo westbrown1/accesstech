@@ -27,19 +27,6 @@
                     <canvas id="demo-canvas"></canvas>
                     <h1 class="main-title">Spirit</span></h1>
                 </div>
-                <div class="codrops-top clearfix">
-                    <a class="codrops-icon codrops-icon-prev" href="http://tympanus.net/Development/OffCanvasMenuEffects/"><span>Previous Demo</span></a>
-                    <a class="codrops-icon codrops-icon-drop" href="http://tympanus.net/codrops/?p=20153"><span>Back to the Codrops Article</span></a>
-                </div>
-                <div class="codrops-header">
-                    <h1>Animated Background Headers <span>Examples for creative website headers</span></h1>
-                    <nav class="codrops-demos">
-                        <a href="index.html">Demo 1</a>
-                        <a class="current-demo" href="index2.html">Demo 2</a>
-                        <a href="index3.html">Demo 3</a>
-                        <a href="index4.html">Demo 4</a>
-                    </nav>
-                </div>
             </div>
         </div><!-- /container -->
         <script src="js/rAF.js"></script>
