@@ -33,7 +33,7 @@
             <div class="codrops-links">
             </div>
             <h1>Pricing Tables</h1>
-            <h3>From Codrops</h3>
+            <h3>From Codrops at tympanus.net</h3>
         </header>
         <section class="pricing-section">
             <p class="intro">Pricing tables are an essential component on websites where digital services are offered. While there seems to be a common pattern, there are infinite styling possibilities.
