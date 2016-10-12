@@ -83,7 +83,7 @@ a:focus {
 
 /* Header */
 .codrops-header {
-	padding: 2em 190px 3em;
+	padding: 3em 190px 3em;
 	letter-spacing: -1px;
 }
 .codrops-header h1 {
@@ -91,6 +91,7 @@ a:focus {
 	font-size: 4em;
 	line-height: 1;
 	margin-bottom: 0;
+	padding-bottom: 20%;
 }
 .codrops-header h1 span {
 	display: block;
