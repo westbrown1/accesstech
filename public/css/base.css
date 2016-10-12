@@ -90,8 +90,7 @@ a:focus {
 	font-weight: 200;
 	font-size: 4em;
 	line-height: 1;
-	margin-bottom: 0;
-	padding-bottom: 20%;
+	margin-bottom: 100px;
 }
 .codrops-header h1 span {
 	display: block;
