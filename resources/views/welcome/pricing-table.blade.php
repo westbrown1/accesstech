@@ -344,7 +344,7 @@
                     <button class="pricing__action">Choose plan</button>
                 </div>
             </div>
-            <p>Inspired by <strong><a href="https://frankbody.com/">Frank Body</a></strong></p>
+            <p>Inspired by <strong>Frank Body</strong></p>
             <p><strong>Vintage vector</strong> designed by Vilmosv - Freepik.com</p>
         </section>
         <section class="pricing-section bg-7">
