@@ -38,6 +38,6 @@ class WelcomeController extends Controller
     }
     public function price_table()
     {
-        return view('welcome.pricing_table');
+        return view('welcome.pricing-table');
     }
 }
