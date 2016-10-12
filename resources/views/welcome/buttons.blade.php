@@ -25,8 +25,6 @@
 			<header class="codrops-header">
 				<h1>Button Styles Inspiration <span>Some fresh styles &amp; hover effects for the modern button</span></h1>
 				<div class="codrops-links">
-					<a class="codrops-icon codrops-icon--prev" href="http://tympanus.net/Tutorials/AnimatedTextFills/" title="Previous Demo"><span>Previous Demo</span></a>
-					<a class="codrops-icon codrops-icon--drop" href="http://tympanus.net/codrops/?p=23342" title="Back to the article"><span>Back to the Codrops article</span></a>
 				</div>
 				<div class="support" id="support-note">Please note that (mobile) Safari's behavior is very buggy and only some effects will work properly.</div>
 			</header>
@@ -140,7 +138,7 @@
 			</section>
 			<section class="content">
 				<h2>Moema</h2>
-				<p>Based on the <a href="https://dribbble.com/shots/1918524-Add-New-Location">"Add New Location"</a> button concept by Charles Patterson. Better as a click effect than on hover.</p>
+				<p>Based on the "Add New Location" button concept by Charles Patterson. Better as a click effect than on hover.</p>
 				<div class="box bg-1">
 					<button class="button button--moema button--text-thick button--text-upper button--size-s">Make it so</button>
 					<button class="button button--moema button--text-thick button--text-upper button--size-s">Add to cart</button>
@@ -361,7 +359,7 @@
 					<button class="button button--itzel button--size-l button--border-thin button--text-thin"><i class="button__icon icon icon-envelope"></i><span>Send Message</span></button>
 					<button class="button button--itzel button--size-l button--border-thin button--text-thin"><i class="button__icon icon icon-trash"></i><span>Delete Article</span></button>
 				</div>
-				<p><a href="http://caniuse.com/#feat=css-clip-path">clip-path</a> does not work in IE, so you'll see the line under the icon.</p>
+				<p>clip-path does not work in IE, so you'll see the line under the icon.</p>
 			</section>
 			<section class="content">
 				<h2>Naira</h2>
@@ -416,7 +414,7 @@
 			</section>
 			<section class="content">
 				<h2>Shikoba</h2>
-				<p>Based on <a href="https://dribbble.com/shots/1534868-Portfolio-update">Portfolio Update!</a> by Dennis Flinsenberg</p>
+				<p>Based on Portfolio Update! by Dennis Flinsenberg</p>
 				<div class="box bg-1">
 					<button class="button button--shikoba button--round-s button--border-thin"><i class="button__icon icon icon-microphone"></i><span>Start Recording</span></button>
 					<button class="button button--shikoba button--round-s button--border-thin"><i class="button__icon icon icon-next"></i><span>Next Song</span></button>
@@ -432,19 +430,6 @@
 					<button class="button button--shikoba button--text-medium button--round-l button--inverted"><i class="button__icon icon icon-next"></i><span>Next Song</span></button>
 					<button class="button button--shikoba button--text-medium button--round-l button--inverted"><i class="button__icon icon icon-camera"></i><span>Take picture</span></button>
 				</div>
-			</section>
-			<!-- Related demos -->
-			<section class="content content--related">
-				<p>Icons <a href="https://dribbble.com/shots/1663443-60-Vicons-Free-Icon-Set">&quot;Vicons&quot;</a> by Victor Erixon. Icon font made with <a href="https://icomoon.io/app">IcoMoon</a>.</p>
-				<p>If you enjoyed this demo you might also like:</p>
-				<a class="media-item" href="http://tympanus.net/Development/CreativeButtons/">
-					<img class="media-item__img" src="img/related/CreativeButtons.png">
-					<h3 class="media-item__title">Creative Button Styles</h3>
-				</a>
-				<a class="media-item" href="http://tympanus.net/Development/ProgressButtonStyles/">
-					<img class="media-item__img" src="img/related/ProgressButtonStyles.png">
-					<h3 class="media-item__title">Progress Button Styles</h3>
-				</a>
 			</section>
 		</div><!-- /container -->
 		<script>
