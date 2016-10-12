@@ -8,6 +8,7 @@
 		<a href="/contact">Contact Us</a>		
 		<a href="/solution">Why Choose Us?</a>
 		<a href="/what">A Sample Of What We Can Do</a>
+		<a href="/pricing-table">Example Pricing Tables</a>
 		<a href="/dribble">Load Effect Sample</a>
 		{{-- <a href="/part2">Play The Aviator (By Karim Maaloul)</a> --}}
 
