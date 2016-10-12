@@ -30,7 +30,7 @@
         <div class="item">18</div>
         <div class="item">19</div>        
       </div>
-      <p>Masonry from dribbble.com</p>
+      <p>Masonry from dribbble.com and DevTips Vlog</p>
     </div>
   </div>
 </body>
