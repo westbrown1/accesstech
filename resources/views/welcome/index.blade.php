@@ -23,7 +23,7 @@
        <div class="container demo-2">
             <div class="content">
                 <div id="large-header" class="large-header">
-                    <canvas id="demo-canvas"><img src="/img/demo-2-bg.jpg" alt=""></canvas>
+                    <canvas id="demo-canvas"><img src="demo-2-bg.jpg" alt=""></canvas>
                     <h1 class="main-title">Spirit</span></h1>
                 </div>
             </div>
