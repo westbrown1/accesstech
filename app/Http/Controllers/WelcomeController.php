@@ -36,10 +36,6 @@ class WelcomeController extends Controller
     {
         return view('welcome.dribble');
     }
-    /*public function aviator()
-    {
-        return view('welcome.theaviator.part2');
-    }*/ 
     public function price_table()
     {
         return view('welcome.pricing_table');
