@@ -20,5 +20,5 @@ Route::get('what', 'WelcomeController@what');
 Route::get('dribble', 'WelcomeController@dribble');
 Route::get('part2', 'WelcomeController@aviator');
 Route::get('pricing-table', 'WelcomeController@price_table');
-
+Route::get('buttons', 'WelcomeController@buttons');
 

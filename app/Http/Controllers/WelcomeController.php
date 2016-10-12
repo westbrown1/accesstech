@@ -40,4 +40,8 @@ class WelcomeController extends Controller
     {
         return view('welcome.pricing-table');
     }
+    public function buttons()
+    {
+        return view('welcome.buttons');
+    }
 }
