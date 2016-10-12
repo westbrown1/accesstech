@@ -18,10 +18,10 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="normalize.css" />
-    <link rel="stylesheet" type="text/css" href="demo.css" />
-    <link rel="stylesheet" type="text/css" href="icons.css" />
-    <link rel="stylesheet" type="text/css" href="component.css" />
+    <link rel="stylesheet" type="text/css" href="/resources/views/welcome/css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="/resources/views/welcome/css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="/resources/views/welcome/css/icons.css" />
+    <link rel="stylesheet" type="text/css" href="/resources/views/welcome/css/component.css" />
     <!--[if IE]>
   		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
