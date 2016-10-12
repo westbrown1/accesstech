@@ -83,24 +83,6 @@
 				</div>
 			</section>
 			<section class="content">
-				<h2>Tamaya</h2>
-				<div class="box bg-1">
-					<button class="button button--tamaya button--border-thick" data-text="Open"><span>Open</span></button>
-					<button class="button button--tamaya button--border-thick" data-text="Send"><span>Send</span></button>
-					<button class="button button--tamaya button--border-thick" data-text="Copy"><span>Copy</span></button>
-				</div>
-				<div class="box bg-2">
-					<button class="button button--tamaya button--round-l button--text-thick button--border-medium button--text-upper button--size-s button--inverted" data-text="Open"><span>Open</span></button>
-					<button class="button button--tamaya button--round-l button--text-thick button--border-medium button--text-upper button--size-s button--inverted" data-text="Send"><span>Send</span></button>
-					<button class="button button--tamaya button--round-l button--text-thick button--border-medium button--text-upper button--size-s button--inverted" data-text="Copy"><span>Copy</span></button>
-				</div>
-				<div class="box bg-3">
-					<button class="button button--tamaya button--round-s button--text-thick button--border-thin" data-text="Open"><span>Open</span></button>
-					<button class="button button--tamaya button--round-s button--text-thick button--border-thin" data-text="Send"><span>Send</span></button>
-					<button class="button button--tamaya button--round-s button--text-thick button--border-thin" data-text="Copy"><span>Copy</span></button>
-				</div>
-			</section>
-			<section class="content">
 				<h2>Rayen</h2>
 				<div class="box bg-1">
 					<button class="button button--rayen button--border-thin button--text-thick button--text-upper button--size-s" data-text="Send Message"><span>Send Message</span></button>
