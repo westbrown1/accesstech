@@ -31,8 +31,6 @@
     <div class="container">
         <header class="codrops-header">
             <div class="codrops-links">
-                <a class="codrops-icon codrops-icon--prev" href="http://tympanus.net/Tutorials/AnimatedMenuIcon/" title="Previous Demo"><span>Previous Demo</span></a>
-                <a class="codrops-icon codrops-icon--drop" href="http://tympanus.net/codrops/?p=25536" title="Back to the article"><span>Back to the Codrops article</span></a>
             </div>
             <h1><span>Inspiration for</span> Pricing Tables</h1>
         </header>
@@ -574,18 +572,6 @@
                 </div>
             </div>
             <p>Based on <a href="https://dribbble.com/shots/2353583-Daily-Design-007-Pricing-Table">Daily Design 007 - Pricing Table</a> by Mackenzie Child </p>
-        </section>
-        <!-- Related demos -->
-        <section class="content content--related">
-            <p>If you enjoyed this demo you might also like:</p>
-            <a class="media-item" href="http://tympanus.net/Development/CheckoutConcepts/">
-                <img class="media-item__img" src="img/related/CheckoutConcepts.png">
-                <h3 class="media-item__title">Checkout Concepts</h3>
-            </a>
-            <a class="media-item" href="http://tympanus.net/Development/ArrowNavigationStyles/">
-                <img class="media-item__img" src="img/related/ArrowNavigationEffects.png">
-                <h3 class="media-item__title">Arrow Navigation Styles</h3>
-            </a>
         </section>
     </div>
     <!-- /container -->
