@@ -20,7 +20,7 @@
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         <style>
-            #build .here {
+            #build {
                 position: absolute;
                 text-align: center;
                 font-size: 1.25em;
