@@ -19,6 +19,18 @@
         <!--[if IE]>
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
+        <style>
+            #build {
+                position: absolute;
+                text-align: center;
+                font-size: 1em;
+                margin: 0;
+                padding: 0;
+                top: 50%;
+                left: 50%;
+                color: #f9f1e9;
+            }
+        </style>
     </head>    
        <div class="demo-2">
             <div class="content">
