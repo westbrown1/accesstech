@@ -23,11 +23,9 @@
             #build {
                 position: absolute;
                 text-align: center;
-                font-size: 1em;
+                font-size: 1.5em;
                 margin: 0;
                 padding: 30px;
-                top: 50%;
-                left: 50%;
                 color: #f9f1e9;
             }
         </style>
