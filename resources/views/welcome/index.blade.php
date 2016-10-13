@@ -32,8 +32,8 @@
         <script src="js/demo-2.js"></script>
         <script>
             $(document).ready(function() {
-                $('.main-title').hide().fadeIn(7000);
-                $('.main-title').fadeOut(15000);
+                $('.main-title').hide().fadeIn('7000');
+                $('.main-title').fadeOut('15000');
             });
         </script>
 @stop
