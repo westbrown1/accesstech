@@ -24,16 +24,10 @@
             <div class="content">
                 <div id="large-header" class="large-header">
                     <canvas id="demo-canvas"></canvas>
-                    <h1 class="main-title" id="popup">AccessTech.io</h1>
+                    <h1 class="main-title">AccessTech.io</h1>
                 </div>
             </div>
        </div>
         <script src="js/rAF.js"></script>
         <script src="js/demo-2.js"></script>
-        <script>
-            $(document).ready(function() {
-                $('#popup').hide().fadeIn(7000);
-                $('#popup').fadeOut(15000);
-            }); 
-        </script>
 @stop
