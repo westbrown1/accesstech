@@ -28,6 +28,12 @@
                 </div>
             </div>
        </div>
+        <script>
+            $(document).ready(function() {
+                $('#popup').hide().fadeIn(7000);
+                $('#popup').fadeOut(15000);
+            }); 
+        </script>
         <script src="js/rAF.js"></script>
         <script src="js/demo-2.js"></script>
 @stop

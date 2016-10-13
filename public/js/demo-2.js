@@ -91,7 +91,3 @@
 
 })();
 
-$(document).ready(function() {
-        $('#popup').hide().fadeIn(7000);
-        $('#popup').fadeOut(15000);
-}); 
