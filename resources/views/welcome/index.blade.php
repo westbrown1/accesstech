@@ -39,7 +39,7 @@
             </div>            
        </div>
         <div>
-            <h4 class="main-title text-center" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact">HERE !</a>!</h4>
+            <h4 class="main-title text-center" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact" id="build">HERE !</a>!</h4>
         </div>
         <script src="js/rAF.js"></script>
         <script src="js/demo-2.js"></script>
