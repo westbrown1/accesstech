@@ -24,7 +24,7 @@
             <div class="content">
                 <div id="large-header" class="large-header">
                     <canvas id="demo-canvas"></canvas>
-                    <h1 class="main-title" onload="myFunction()">AccessTech.io Let Us Build A Website for You !</h1>
+                    <h1 class="main-title" onload="myFunction()">AccessTech.io <p>Let Us Build A Website for You !</p></h1>
                 </div>
             </div>
        </div>
