@@ -10,6 +10,6 @@
 		<a href="/pricing-table">Example Pricing Tables</a>
 		<a href="/buttons">Example Buttons</a>
 		<a href="/dribble">Load Effect Sample</a>
-		<a href="/what">A Sample Of What We Can Do</a>
+		<a href="/what">More Of What We Can Do</a>
 
 </div>

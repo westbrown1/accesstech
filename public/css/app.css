@@ -8653,15 +8653,6 @@ li:hover > ul.drop-menu.menu-4 li:nth-child(6) {
     }
 }
 
-#popup {
-    margin-top: 45%;
-    border-radius: 4px;
-    height: 130px;
-    width: 200px;
-    border: 3px solid #D9A764;
-    color: white;
-}
-
 #brand {
     padding-top: 14px;
 }
