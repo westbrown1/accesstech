@@ -26,7 +26,7 @@
                 font-size: 1.25em;
                 margin: 0;
                 padding-top: 60px;
-                color: #5A401B;
+                color: #E2982E;
             }
         </style>
     </head>    
