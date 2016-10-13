@@ -24,9 +24,9 @@
             <div class="content">
                 <div id="large-header" class="large-header">
                     <canvas id="demo-canvas"></canvas>
-                    <h1 class="main-title" onload="myFunction()">AccessTech.io</h1><br>
-                    <h4 class="main-title small" onload="myFunction()">Let Us Build An Awesome Website For You !</h4>
+                    <h1 class="main-title" onload="myFunction()">AccessTech.io</h1>                    
                 </div>
+                    <h4 class="text-center">Let Us Build An Awesome Website For You !</h4>
             </div>
        </div>
         <script src="js/rAF.js"></script>
