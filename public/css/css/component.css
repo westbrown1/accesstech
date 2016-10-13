@@ -19,6 +19,7 @@
 }
 
 .main-title {
+	position: absolute;
 	text-align: center;
 	margin: 0;
 	padding: 0;
