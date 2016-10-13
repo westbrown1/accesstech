@@ -24,8 +24,6 @@
 	color: #f9f1e9;
 	font-size: 4em;
 	text-align: center;
-	top: 50%;
-	left: 50%;
 	-webkit-transform: translate3d(-50%,-50%,0);
 	transform: translate3d(-50%,-50%,0);
 }
@@ -47,8 +45,6 @@
 	background: url(file:/Users/jeffreywestbrown/workspace/accesstech/public/img/deco.svg) no-repeat center center;
 	background-size: cover;
 	position: absolute;
-	top: 50%;
-	left: 50%;
 	border-radius: 50%;
 	z-index: 1;
 	-webkit-transform: translate3d(-50%,-50%,0);
