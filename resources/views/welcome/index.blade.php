@@ -21,11 +21,11 @@
         <![endif]-->
         <style>
             #build {
-                position: relative;
+                position: absolute;
                 text-align: center;
                 font-size: 1.5em;
                 margin: 0;
-                padding: 30px;
+                padding-top: 30px;
                 color: #f9f1e9;
             }
         </style>
