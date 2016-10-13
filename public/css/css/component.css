@@ -43,7 +43,7 @@
 	height: 20vw;
 	min-width: 3.5em;
 	min-height: 3.5em;
-	background: url(/public/img/deco.svg) no-repeat center center;
+	/*background: url(/public/img/deco.svg) no-repeat center center;*/
 	background-size: cover;
 	position: absolute;
 	top: 50%;
