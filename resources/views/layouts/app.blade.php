@@ -19,8 +19,8 @@
 	@include('partials._js')
         <script>
             $(document).ready(function() {
-                $('.main-title').hide().fadeIn('7000');
-                $('.main-title').fadeOut('15000');
+                $('.main-title').hide().fadeIn(7000);
+                $('.main-title').fadeOut(15000);
             });
         </script>
 </body>
