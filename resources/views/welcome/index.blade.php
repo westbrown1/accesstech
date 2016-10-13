@@ -19,8 +19,7 @@
         <!--[if IE]>
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
-    </head>
-    <body>    
+    </head>    
        <div class="demo-2">
             <div class="content">
                 <div id="large-header" class="large-header">
@@ -29,7 +28,6 @@
                 </div>
             </div>
        </div>
-   </body>
         <script src="js/rAF.js"></script>
         <script src="js/demo-2.js"></script>
 @stop
