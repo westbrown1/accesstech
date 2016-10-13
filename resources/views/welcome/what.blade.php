@@ -97,9 +97,30 @@
 			<div class="col-md-3">
 				<img src="/images/google-chrome-icon-2.png" alt="google chrome icon" class="google"><h5 id="googtext">hover over Google Chrome icon</h5>
 			</div>
+			<div class="col-md-8">
+				<nav id="menu" class="menu">
+					<span class="morph-shape" data-morph-active="M251,150c0,93.5-29.203,143-101,143S49,243.5,49,150C49,52.5,78.203,7,150,7S251,51.5,251,150z">
+						<svg width="100%" height="100%" viewBox="0 0 300 300" preserveAspectRatio="none">
+							<path d="M281,150c0,71.797-59.203,131-131,131S19,221.797,19,150S78.203,19,150,19S281,78.203,281,150z"/>
+						</svg>
+					</span>
+					<button class="trigger"><i class="fa fa-fw fa-share"></i><span>Share This</span></button>
+					<ul class="menu__items">
+						<li><a href="https://www.facebook.com/pages/Codrops/159107397912"><i class="fa fa-fw fa-facebook"></i><span>Codrops on Facebook</span></a></li>
+						<li><a href="http://feeds2.feedburner.com/tympanus"><i class="fa fa-fw fa-rss"></i><span>Codrops RSS Feed</span></a></li>
+						<li><a href="http://www.twitter.com/codrops"><i class="fa fa-fw fa-twitter"></i><span>Codrops on Twitter</span></a></li>
+						<li><a href="https://plus.google.com/101095823814290637419"><i class="fa fa-fw fa-google-plus"></i><span>Codrops on Google+</span></a></li>
+						<li><a href="https://github.com/codrops"><i class="fa fa-fw fa-github"></i><span>Codrops on GitHub</span></a></li>
+						<li><a href="http://www.pinterest.com/codrops/codrops/"><i class="fa fa-fw fa-pinterest"></i><span>Codrops on Pinterest</span></a></li>
+						<li><a href="https://www.tumblr.com/tagged/codrops"><i class="fa fa-fw fa-tumblr"></i><span>Codrops on Tumblr</span></a></li>
+						<li><a href="http://feedburner.google.com/fb/a/mailverify?uri=tympanus&loc=en_US"><i class="fa fa-fw fa-envelope"></i><span>Codrops RSS as Mail</span></a></li>
+					</ul>
+				</nav>
+			</div>
 			
 		</div>
-	</div><!-- /container -->
+		.
+</div><!-- /container -->
 
 <!-- container -->
 <div class="container">	 
