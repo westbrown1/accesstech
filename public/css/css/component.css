@@ -3,6 +3,7 @@
 	position: relative;
 	width: 100%;
 	background: white;
+	text-align: center;
 	overflow: hidden;
 	background-size: cover;
 	background-position: center center;
@@ -32,6 +33,7 @@
 .demo-2 .main-title {
 	font-family: 'Alex Brush Regular';
 	font-weight: normal;
+	text-align: center;
 	font-size: 4em;
 	padding-left: 10px;
 	text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
@@ -41,6 +43,7 @@
 	content: '';
 	/*width: 20vw;
 	height: 20vw;*/
+	text-align: center;
 	min-width: 3.5em;
 	min-height: 3.5em;
 	background: url(file:/Users/jeffreywestbrown/workspace/accesstech/public/img/deco.svg) no-repeat center center;
