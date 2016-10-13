@@ -18,6 +18,10 @@
     </div>
 	@include('partials._js')
         <script>
+        var myVar;
+        function myFunction() {
+            myVar = setTimeout(2000);
+        }
             $(document).ready(function() {
                 $('.main-title').hide().fadeIn(7000);
                 $('.main-title').fadeOut(15000);
