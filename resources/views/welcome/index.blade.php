@@ -32,8 +32,8 @@
         <script src="js/demo-2.js"></script>
                 <script>
             $(document).ready(function() {
-                $('#popup').hide().fadeIn(7000);
-                $('#popup').fadeOut(15000);
+                $('#large-header').hide().fadeIn(7000);
+                $('#large-header').fadeOut(15000);
             }); 
         </script>
 @stop
