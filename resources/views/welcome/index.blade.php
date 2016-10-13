@@ -24,7 +24,7 @@
             <div class="content">
                 <div id="large-header" class="large-header">
                     <canvas id="demo-canvas"></canvas>
-                    <h1 class="main-title">AccessTech.io</span></h1>
+                    <h1 class="main-title" id="popup">AccessTech.io</span></h1>
                 </div>
             </div>
        </div>
