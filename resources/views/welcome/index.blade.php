@@ -20,7 +20,7 @@
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
     </head>
-       <div class="container demo-2">
+       <div class="demo-2">
             <div class="content">
                 <div id="large-header" class="large-header">
                     <canvas id="demo-canvas"><img src="demo-2-bg.jpg" alt=""></canvas>
