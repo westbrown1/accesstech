@@ -20,7 +20,7 @@
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         <style>
-            #build {
+            #build .here {
                 position: absolute;
                 text-align: center;
                 font-size: 1.25em;
@@ -39,7 +39,7 @@
             </div>            
        </div>
         <div>
-            <h4 class="main-title text-center" id="build">Let Us Build An Awesome Website For You Today, <a href="/contact">Click Here !</a></h4>
+            <h4 class="main-title text-center" id="build">Let Us Build An Awesome Website For You Today, <a href="/contact" class="here">Click Here !</a></h4>
         </div>
         <script src="js/rAF.js"></script>
         <script src="js/demo-2.js"></script>
