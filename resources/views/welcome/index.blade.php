@@ -21,6 +21,8 @@
         <![endif]-->
         <style>
             #build {
+                font-family: "Alex Brush Regular";
+                text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
                 position: absolute;
                 text-align: center;
                 font-size: 1.25em;
