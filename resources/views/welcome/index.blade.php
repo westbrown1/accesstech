@@ -26,7 +26,7 @@
                     <canvas id="demo-canvas"></canvas>
                     <h1 class="main-title" onload="myFunction()">AccessTech.io</h1>                    
                 </div>
-                    <h4 class="text-center">Let Us Build An Awesome Website For You !</h4>
+                    <h4 class="main-title text-center">Let Us Build An Awesome Website For You !</h4>
             </div>
        </div>
         <script src="js/rAF.js"></script>
