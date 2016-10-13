@@ -17,5 +17,11 @@
         <center><p>&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p></center>
     </div>
 	@include('partials._js')
+        <script>
+            $(document).ready(function() {
+                $('.main-title').hide().fadeIn('7000');
+                $('.main-title').fadeOut('15000');
+            });
+        </script>
 </body>
 </html>

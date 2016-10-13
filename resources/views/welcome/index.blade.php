@@ -28,12 +28,6 @@
                 </div>
             </div>
        </div>
-        <script>
-            $(document).ready(function() {
-                $('.main-title').hide().fadeIn('7000');
-                $('.main-title').fadeOut('15000');
-            });
-        </script>
         <script src="js/rAF.js"></script>
         <script src="js/demo-2.js"></script>
 
