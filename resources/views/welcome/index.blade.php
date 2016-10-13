@@ -30,10 +30,10 @@
        </div>
         <script src="js/rAF.js"></script>
         <script src="js/demo-2.js"></script>
-                <script>
+        <script>
             $(document).ready(function() {
-                $('#large-header').hide().fadeIn(7000);
-                $('#large-header').fadeOut(15000);
+                $('#popup').hide().fadeIn(7000);
+                $('#popup').fadeOut(15000);
             }); 
         </script>
 @stop
