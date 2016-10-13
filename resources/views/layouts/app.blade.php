@@ -20,7 +20,7 @@
         <script>
         var myVar;
         function myFunction() {
-            myVar = setTimeout(2000);
+            myVar = setTimeout(3000);
         }
             $(document).ready(function() {
                 $('.main-title').hide().fadeIn(7000);
