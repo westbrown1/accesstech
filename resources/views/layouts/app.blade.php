@@ -20,12 +20,12 @@
         <script>
             var myVar;
             function myFunction() {
-                myVar = setTimeout(3000);
+                myVar = setTimeout(4000);
             }
             
             $(document).ready(function() {
                 $('.main-title').hide().fadeIn(7000);
-                $('.main-title').fadeOut(17000);
+                $('.main-title').fadeOut(20000);
             });
         </script>
 </body>
