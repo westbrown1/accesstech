@@ -21,7 +21,7 @@
         <![endif]-->
         <style>
             #build {
-                position: absolute;
+                position: relative;
                 text-align: center;
                 font-size: 1.5em;
                 margin: 0;
