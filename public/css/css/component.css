@@ -71,4 +71,5 @@
 	top: 50%;
 	left: 50%;
 	color: #f9f1e9;
+	z-index: 2;
 }
