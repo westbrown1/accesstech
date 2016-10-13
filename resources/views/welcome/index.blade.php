@@ -20,14 +20,14 @@
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
     </head>
-   <body class="demo-2">
+   <div class="demo-2" id="large-header">
         <div class="content">
-            <div id="large-header" class="large-header">
+            <div class="large-header">
                 <canvas id="demo-canvas"></canvas>
                 <h1 class="main-title">AccessTech.io</span></h1>
             </div>
         </div>
-   </body>
+   </div>
         <script src="js/rAF.js"></script>
         <script src="js/demo-2.js"></script>
 @stop
