@@ -23,9 +23,9 @@
             #build {
                 position: absolute;
                 text-align: center;
-                font-size: 1.5em;
+                font-size: 1.25em;
                 margin: 0;
-                padding-top: 45px;
+                padding-top: 55px;
                 color: #f9f1e9;
             }
         </style>
