@@ -3,6 +3,7 @@
 <head>
 <title>AccessTech @yield('title')</title>
     @include('partials._head')
+    @include('partials._circlemenu')
 </head>
 
 <body class="popin">
