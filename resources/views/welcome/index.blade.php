@@ -25,7 +25,7 @@
                 text-align: center;
                 font-size: 1.5em;
                 margin: 0;
-                padding-top: 30px;
+                padding-top: 45px;
                 color: #f9f1e9;
             }
         </style>
