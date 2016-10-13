@@ -12,6 +12,7 @@
 .demo-2 .large-header {
 	background-image: url("https://hd.unsplash.com/photo-1415018255745-0ec3f7aee47b");
 	background-size: cover;
+	text-align: center;
 	height: 100vh;
 	display: flex;
 	flex-direction: column;
@@ -20,7 +21,7 @@
 
 .main-title {
 	margin: 0;
-	padding: 0 0 500px 500px;
+	padding: 0;
 	color: #f9f1e9;
 	font-size: 4em;
 	text-align: center;
