@@ -24,7 +24,7 @@
             <div class="content">
                 <div id="large-header" class="large-header">
                     <canvas id="demo-canvas"><img src="demo-2-bg.jpg" alt=""></canvas>
-                    <h1 class="main-title">Spirit</span></h1>
+                    <h1 class="main-title">AccessTech.io</span></h1>
                 </div>
             </div>
         </div><!-- /container -->
