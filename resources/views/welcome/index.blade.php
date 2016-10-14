@@ -35,12 +35,8 @@
        <div class="demo-2">
             <div class="content">
                 <div id="large-header" class="large-header">
-                    <div class="row">
-                        <div class="col-md-6 col-md-offset-3">
                             <canvas id="demo-canvas"></canvas>
                             <h1 class="main-title text-center" onload="myFunction()">AccessTech.io</h1> 
-                        </div>
-                    </div>
                 </div>
                 <div>
                         <h4 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact">HERE !</a></h4>
