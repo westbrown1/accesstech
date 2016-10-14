@@ -9227,10 +9227,11 @@ body.popin {
 }
 
 .map {
-    height: 30px;
+    height: 50px;
     width: 300px;
-    border: 1px solid blue;
-    border-radius: 3px;    
+    border: 2px solid blue;
+    border-radius: 3px;
+    background: yellow;  
 }
 
 
