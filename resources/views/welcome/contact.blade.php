@@ -35,7 +35,7 @@ src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEV
 </script>
 
 <script>
-var myCenter=new google.maps.LatLng(34.223333, -77.912222);
+var myCenter=new google.maps.LatLng(34.193333, -77.871229);
 
 function initialize()
 {
