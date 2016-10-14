@@ -51,12 +51,14 @@ var marker=new google.maps.Marker({
   position:myCenter,
   });
 
-marker.setMap(map);
-}
   var infowindow = new google.maps.InfoWindow({
     content: "Hello World!"
   });
   infowindow.open(map,marker);
+
+marker.setMap(map);
+}
+
 google.maps.event.addDomListener(window, 'load', initialize);
 </script>
 @stop
