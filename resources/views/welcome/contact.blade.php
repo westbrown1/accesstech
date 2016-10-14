@@ -30,11 +30,12 @@
   </div>
 </div><!-- /container -->
 
-<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEVO00gprk&callback-initMap">
+<script
+src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEVO00gprk&callback-initMap">
 </script>
 
 <script>
-var myCenter=new google.maps.LatLng(34.193333, -77.871229);
+var myCenter=new google.maps.LatLng(34.223333, -77.912222);
 
 function initialize()
 {
