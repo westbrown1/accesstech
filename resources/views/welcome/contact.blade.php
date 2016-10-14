@@ -34,7 +34,7 @@
 </script>
 
 <script>
-var myCenter=new google.maps.LatLng(34.1918230, -77.8746005);
+var myCenter=new google.maps.LatLng(34.193333, -77.871229);
 
 function initialize()
 {
