@@ -30,9 +30,6 @@
 	</div>
 </div><!-- /container -->
 
-<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEVO00gprk&callback=myMap">
-</script>
-
 <script>
 function myMap() {
   var myCenter = new google.maps.LatLng(34.193333, -77.871229);
@@ -47,6 +44,9 @@ function myMap() {
   });
   infowindow.open(map, marker);
 }
+</script>
+
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEVO00gprk&callback=myMap">
 </script>
 
 <script>
