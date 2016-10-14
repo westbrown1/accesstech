@@ -115,13 +115,15 @@ var marker=new google.maps.Marker({
   });
 
 marker.setMap(map);
+}
 
-var infowindow = new google.maps.InfoWindow({
-content:"Hello!"
-});
-infowindow.open(map,marker);
+  var infowindow = new google.maps.InfoWindow({
+    content: "Hello World!"
+  });
+  infowindow.open(map,marker);
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
 </script>
+
 @stop
