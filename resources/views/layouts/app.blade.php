@@ -24,8 +24,10 @@
             }
             
             $(document).ready(function() {
-                $('.main-title .title').hide().fadeIn(7000);
-                $('.main-title .title').fadeOut(20000);
+                $('.main-title').hide().fadeIn(7000);
+                $('.main-title').fadeOut(20000);
+                $('.title').hide().fadeIn(7000);
+                $('.title').fadeOut(20000);
             });
         </script>
 </body>
