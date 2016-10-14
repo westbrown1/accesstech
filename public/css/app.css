@@ -9227,8 +9227,8 @@ body.popin {
 }
 
 .map {
-    height: 40px;
-    width: 300px;
+    font-weight: bold;
+    font-size: 20px; 
     color: blue;
 }
 
