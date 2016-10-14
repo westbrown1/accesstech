@@ -30,27 +30,11 @@
 	</div>
 </div><!-- /container -->
 
-<script>
-function myMap() {
-  var myCenter = new google.maps.LatLng(34.193333, -77.871229);
-  var mapCanvas = document.getElementById("map");
-  var mapOptions = {center: myCenter, zoom: 5};
-  var map = new google.maps.Map(mapCanvas, mapOptions);
-  var marker = new google.maps.Marker({position:myCenter});
-  marker.setMap(map);
 
-  var infowindow = new google.maps.InfoWindow({
-    content: "AccessTech.io Website design and development"
-  });
-  infowindow.open(map, marker);
-}
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEVO00gprk&callback=myMap">
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
-{{-- <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEVO00gprk&callback=myMap">
-</script> --}}
-
-{{-- <script>
+<script>
 var myCenter=new google.maps.LatLng(34.193333, -77.871229);
 
 function initialize()
@@ -71,5 +55,5 @@ marker.setMap(map);
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
-</script> --}}
+</script>
 @stop
