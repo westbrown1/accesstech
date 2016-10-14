@@ -33,7 +33,16 @@
 <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEVO00gprk&callback-initMap">
 </script>
 
-
+<script>
+function myMap() {
+  var myCenter = new google.maps.LatLng(34.223333,-77.912222);
+  var mapCanvas = document.getElementById("googleMap");
+  var mapOptions = {center: myCenter, zoom: 5};
+  var map = new google.maps.Map(mapCanvas, mapOptions);
+  var marker = new google.maps.Marker({position:myCenter});
+  marker.setMap(map);
+}
+</script>
 
 <script>
 var myCenter=new google.maps.LatLng(34.223333, -77.912222);
