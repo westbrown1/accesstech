@@ -9227,15 +9227,10 @@ body.popin {
 }
 
 .map {
-    background-image: url('https://hd.unsplash.com/photo-1461749280684-dccba630e2f6');
-    background-size: cover;
-    margin: 0;
-    padding: 0;
     height: 40px;
     width: 300px;
-    border: 2px solid blue;
-    border-radius: 3px;
-    color: white;
+    border: 1px solid white;
+    color: blue;
 }
 
 
