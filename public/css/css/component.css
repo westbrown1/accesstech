@@ -62,7 +62,7 @@
 	background-size: cover;
 	position: absolute;
 	border-radius: 50%;
-	z-index: 0;
+	z-index: 1;
 	-webkit-transform: translate3d(-50%,-50%,0);
 	transform: translate3d(-50%,-50%,0);
 }
