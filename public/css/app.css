@@ -9225,3 +9225,12 @@ body.popin {
     margin-bottom: 50px;
     text-align: center;
 }
+
+.map {
+    height: 30px;
+    width: 300px;
+    border: 1px solid blue;
+    border-radius: 3px;    
+}
+
+
