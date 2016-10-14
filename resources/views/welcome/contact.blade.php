@@ -117,7 +117,7 @@ var marker=new google.maps.Marker({
 marker.setMap(map);
 
 var infowindow = new google.maps.InfoWindow({
-content: "Hello!"
+content:"Hello!"
 });
 infowindow.open(map,marker);
 }
