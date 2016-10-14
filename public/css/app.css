@@ -9226,4 +9226,8 @@ body.popin {
     text-align: center;
 }
 
-
+.gmap {
+    font-size: 20px;
+    font-weight: bold;
+    color: #3CED19;
+}

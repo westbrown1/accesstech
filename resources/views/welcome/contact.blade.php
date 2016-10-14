@@ -52,7 +52,7 @@ var marker=new google.maps.Marker({
   });
 
   var infowindow = new google.maps.InfoWindow({
-    content: "Hello World!"
+    content: "<div class='gmap'>AccessTech.io</div><div>website design and developement</div><div>Wilmington, NC  28409</div"
   });
   infowindow.open(map,marker);
 
