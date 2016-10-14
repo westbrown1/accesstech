@@ -9231,11 +9231,10 @@ body.popin {
     background-size: cover;
     margin: 0;
     padding: 0;
-    height: 50px;
+    height: 15px;
     width: 300px;
     border: 2px solid blue;
     border-radius: 3px;
-    background: yellow;  
 }
 
 
