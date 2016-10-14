@@ -43,7 +43,7 @@
                     </div>
                 </div>
                 <div>
-                        <h4 class="main-title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact">HERE !</a></h4>
+                        <h4 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact">HERE !</a></h4>
                 </div>                                
             </div>            
        </div>
