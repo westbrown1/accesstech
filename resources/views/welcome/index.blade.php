@@ -36,13 +36,13 @@
             <div class="content">
                 <div id="large-header" class="large-header">
                     <div class="row">
-                        <div class="col-md-4 col-md-offset-4">
+                        <div class="col-md-6 col-md-offset-3">
                             <canvas id="demo-canvas"></canvas>
                             <h1 class="main-title text-center" onload="myFunction()">AccessTech.io</h1> 
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-4 col-md-offset-4">
+                        <div class="col-md-6 col-md-offset-3">
                             <h4 class="main-title text-center" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact">HERE !</a></h4> 
                         </div>
                     </div>                             
