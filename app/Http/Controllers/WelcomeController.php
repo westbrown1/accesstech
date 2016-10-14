@@ -34,7 +34,7 @@ class WelcomeController extends Controller
     }
     public function dribble()
     {
-        return view('welcome.dribble');
+        return view('welcome.dribbble');
     }
     public function price_table()
     {
