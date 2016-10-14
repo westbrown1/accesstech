@@ -50,7 +50,7 @@ function myMap() {
 {{-- <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEVO00gprk&callback=myMap">
 </script> --}}
 
-<script>
+{{-- <script>
 var myCenter=new google.maps.LatLng(34.193333, -77.871229);
 
 function initialize()
@@ -71,5 +71,5 @@ marker.setMap(map);
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
-</script>
+</script> --}}
 @stop
