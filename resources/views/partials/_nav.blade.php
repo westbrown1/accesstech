@@ -9,7 +9,7 @@
 		<a href="/solution">Why Choose Us?</a>
 		<a href="/pricing-table">Example Pricing Tables</a>
 		<a href="/buttons">Example Buttons</a>
-		<a href="/dribble">Load Effect Sample</a>
+		<a href="/dribbble">Load Effect Sample</a>
 		<a href="/what">More Of What We Can Do</a>
 
 </div>
