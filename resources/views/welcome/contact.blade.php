@@ -162,15 +162,6 @@ google.maps.event.addListener(infowindow, 'domready', function() {
 
 });
 
-  google.maps.event.addListener(marker, 'click', function() {
-    infowindow.open(map,marker);
-  });
-
-  // Event that closes the Info Window with a click on the map
-  google.maps.event.addListener(map, 'click', function() {
-    infowindow.close();
-  });
-
   // *
   // START INFOWINDOW CUSTOMIZE.
   // The google.maps.event.addListener() event expects
