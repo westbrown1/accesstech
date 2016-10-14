@@ -41,10 +41,10 @@
                             <h1 class="main-title text-center" onload="myFunction()">AccessTech.io</h1> 
                         </div>
                     </div>
-                    <div class="awesome">
-                            <h4 class="main-title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact">HERE !</a></h4>
-                    </div>
-                </div>                                 
+                </div>
+                <div>
+                        <h4 class="main-title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact">HERE !</a></h4>
+                </div>                                
             </div>            
        </div>
         <script src="js/rAF.js"></script>
