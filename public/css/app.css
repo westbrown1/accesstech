@@ -7845,7 +7845,13 @@ span {
 }
 
 .pricingcolumn {
-    padding-top: 8%;
+    padding-top: 6%;
+}
+
+@media screen and (max-width: 720px) {
+    .pricingcolumn {
+        padding-top: 10%;
+    }
 }
 
 .pricingwell {
