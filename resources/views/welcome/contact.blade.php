@@ -24,7 +24,7 @@
 		</div><!-- / west-->		
 	</div>
 	<div class="col-md-5 text-center">
-		<div id="map" style="width:500px;height:500px;"></div>		
+		<div id="googleMap" style="width:500px;height:500px;"></div>		
 		<h4>Wilmington, NC  USA</h4>
 	</div>
 	</div>
