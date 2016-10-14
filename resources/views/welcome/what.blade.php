@@ -166,7 +166,7 @@ span.onclick = function() {
     modal.style.display = "none";
 }
 </script>
-<script src="js/classie.js"></script>
+<script src="{{ asset('js/classie.js') }} "></script>
 <script>
 	(function() {
 
