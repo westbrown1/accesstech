@@ -3,20 +3,6 @@
 @section('title', '| What We Can Do')
 
 @section('content')
-<head>
-	<meta name="description" content="Adding elasticity with SVG shape animations" />
-	<meta name="keywords" content="svg, morph, snap.svg, effect, animation, css, shape" />
-	<meta name="author" content="Codrops" />
-	<link rel="shortcut icon" href="../favicon.ico">
-	<link rel="stylesheet" type="text/css" href="{{ asset('css/normalize.css') }} " />
-	<link rel="stylesheet" type="text/css" href="{{ asset('fonts/font-awesome-4.2.0/css/font-awesome.min.css') }} " />
-	<link rel="stylesheet" type="text/css" href="{{ asset('circledemo/demo.css') }} " />
-	<link rel="stylesheet" type="text/css" href="{{ asset('css/circlemenu.css') }} " />
-	<script src="{{ asset('js/snap.svg-min.js') }} "></script>
-	<!--[if IE]>
-		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-</head>
 <!-- container -->
 	<div class="container">
 		 <div class="row">
@@ -110,30 +96,8 @@
 		<div class="row" id="bottom1">
 			<div class="col-md-3">
 				<img src="/images/google-chrome-icon-2.png" alt="google chrome icon" class="google"><h5 id="googtext">hover over Google Chrome icon</h5>
-			</div>
-			<div class="col-md-8">
-				<nav id="menu" class="menu">
-					<span class="morph-shape" data-morph-active="M251,150c0,93.5-29.203,143-101,143S49,243.5,49,150C49,52.5,78.203,7,150,7S251,51.5,251,150z">
-						<svg width="100%" height="100%" viewBox="0 0 300 300" preserveAspectRatio="none">
-							<path d="M281,150c0,71.797-59.203,131-131,131S19,221.797,19,150S78.203,19,150,19S281,78.203,281,150z"/>
-						</svg>
-					</span>
-					<button class="trigger"><i class="fa fa-share"></i><span>Share This</span></button>
-					<ul class="menu__items">
-						<li><a href=""><i class="fa fa-facebook"></i><span>Facebook</span></a></li>
-						<li><a href=""><i class="fa fa-rss"></i><span>RSS Feed</span></a></li>
-						<li><a href=""><i class="fa fa-twitter"></i><span>Twitter</span></a></li>
-						<li><a href=""><i class="fa fa-google-plus"></i><span>Google+</span></a></li>
-						<li><a href=""><i class="fa fa-github"></i><span>GitHub</span></a></li>
-						<li><a href=""><i class="fa fa-pinterest"></i><span>Pinterest</span></a></li>
-						<li><a href=""><i class="fa fa-tumblr"></i><span>Tumblr</span></a></li>
-						<li><a href=""><i class="fa fa-envelope"></i><span>Mail</span></a></li>
-					</ul>
-				</nav>
-			</div>
-			
-		</div>
-		.
+			</div>			
+		</div>		.
 </div><!-- /container -->
 
 <!-- container -->
@@ -179,55 +143,5 @@ var span = document.getElementsByClassName("close")[0];
 span.onclick = function() {
     modal.style.display = "none";
 }
-</script>
-<script src="{{ asset('js/classie.js') }} "></script>
-<script>
-	(function() {
 
-		function SVGMenu( el, options ) {
-			this.el = el;
-			this.init();
-		}
-
-		SVGMenu.prototype.init = function() {
-			this.trigger = this.el.querySelector( 'button.trigger' );
-			this.shapeEl = this.el.querySelector( 'span.morph-shape' );
-
-			var s = Snap( this.shapeEl.querySelector( 'svg' ) );
-			this.pathEl = s.select( 'path' );
-			this.paths = {
-				reset : this.pathEl.attr( 'd' ),
-				active : this.shapeEl.getAttribute( 'data-morph-active' )
-			};
-
-			this.isOpen = false;
-
-			this.initEvents();
-		};
-
-		SVGMenu.prototype.initEvents = function() {
-			this.trigger.addEventListener( 'click', this.toggle.bind(this) );
-		};
-
-		SVGMenu.prototype.toggle = function() {
-			var self = this;
-
-			if( this.isOpen ) {
-				classie.remove( this.el, 'menu--open' );
-			}
-			else {
-				setTimeout( function() { classie.add( self.el, 'menu--open' ); }, 175 );
-			}
-			
-			this.pathEl.stop().animate( { 'path' : this.paths.active }, 150, mina.easein, function() {
-				self.pathEl.stop().animate( { 'path' : self.paths.reset }, 800, mina.elastic );
-			} );
-
-			this.isOpen = !this.isOpen;
-		};
-
-		new SVGMenu( document.getElementById( 'menu' ) );
-
-	})();
-</script>
 @stop
