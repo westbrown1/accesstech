@@ -35,7 +35,7 @@
 
 <script>
 function myMap() {
-  var myCenter = new google.maps.LatLng(34.1918230,-77.8746005;
+  var myCenter = new google.maps.LatLng(34.1918230, -77.8746005);
   var mapCanvas = document.getElementById("googleMap");
   var mapOptions = {center: myCenter, zoom: 5};
   var map = new google.maps.Map(mapCanvas, mapOptions);
@@ -45,7 +45,7 @@ function myMap() {
 </script>
 
 <script>
-var myCenter=new google.maps.LatLng(34.223333, -77.912222);
+var myCenter=new google.maps.LatLng(34.1918230, -77.8746005);
 
 function initialize()
 {
