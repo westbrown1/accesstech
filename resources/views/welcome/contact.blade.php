@@ -54,7 +54,7 @@ var marker=new google.maps.Marker({
 marker.setMap(map);
 
 var infowindow = new google.maps.InfoWindow({
-content: "<p class='map'>AccessTech.io website design and development</p>"
+content: "<div class='map'>AccessTech.io website design and development</div>"
 });
 infowindow.open(map,marker);
 }
