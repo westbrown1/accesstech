@@ -35,10 +35,18 @@
        <div class="demo-2">
             <div class="content">
                 <div id="large-header" class="large-header">
-                    <canvas id="demo-canvas"></canvas>
-                    <h1 class="main-title text-center" onload="myFunction()">AccessTech.io</h1><br><br>
-                    <h4 class="main-title text-center" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact">HERE !</a></h4>                                 
-                </div>                    
+                    <div class="row">
+                        <div class="col-md-4 col-md-offset-4">
+                            <canvas id="demo-canvas"></canvas>
+                            <h1 class="main-title text-center" onload="myFunction()">AccessTech.io</h1> 
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4 col-md-offset-4">
+                            <h4 class="main-title text-center" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact">HERE !</a></h4> 
+                        </div>
+                    </div>                             
+                </div>                                 
             </div>            
        </div>
         <script src="js/rAF.js"></script>
