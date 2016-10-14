@@ -24,7 +24,7 @@
 		</div><!-- / west-->		
 	</div>
 	<div class="col-md-5 text-center">
-		<div id="googleMap" style="width:500px;height:500px;"></div>		
+		<div id="map" style="width:500px;height:500px;"></div>		
 		<h4>Wilmington, NC  USA</h4>
 	</div>
 	</div>
@@ -33,7 +33,7 @@
 <script>
 function myMap() {
   var myCenter = new google.maps.LatLng(34.193333, -77.871229);
-  var mapCanvas = document.getElementById("googleMap");
+  var mapCanvas = document.getElementById("map");
   var mapOptions = {center: myCenter, zoom: 5};
   var map = new google.maps.Map(mapCanvas, mapOptions);
   var marker = new google.maps.Marker({position:myCenter});
