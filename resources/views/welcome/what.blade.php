@@ -8,7 +8,7 @@
 	<meta name="keywords" content="svg, morph, snap.svg, effect, animation, css, shape" />
 	<meta name="author" content="Codrops" />
 	<link rel="shortcut icon" href="../favicon.ico">
-	<link rel="stylesheet" type="text/css" href="{{ asset('circledemo/normalize.css') }} " />
+	<link rel="stylesheet" type="text/css" href="{{ asset('css/normalize.css') }} " />
 	<link rel="stylesheet" type="text/css" href="{{ asset('fonts/font-awesome-4.2.0/css/font-awesome.min.css') }} " />
 	<link rel="stylesheet" type="text/css" href="{{ asset('circledemo/demo.css') }} " />
 	<link rel="stylesheet" type="text/css" href="{{ asset('css/circlemenu.css') }} " />
