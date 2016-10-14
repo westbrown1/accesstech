@@ -54,7 +54,7 @@ marker.setMap(map);
 }
 
 var infowindow = new google.maps.InfoWindow({
-content: "Hello World!",
+content: "Hello World!";
 });
 infowindow.open(map,marker);
 
