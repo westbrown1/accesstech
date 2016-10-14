@@ -27,7 +27,6 @@
 		<div id="googleMap" style="width:500px;height:500px;"></div>		
 		<h4>Wilmington, NC  USA</h4>
 	</div>
-
   </div>
 </div><!-- /container -->
 
@@ -54,11 +53,10 @@ var marker=new google.maps.Marker({
 marker.setMap(map);
 }
 
-var infowindow = new google.maps.InfoWindow({
-content: "Hello World!"
-});
-infowindow.open(map,marker);
-}
+  var infowindow = new google.maps.InfoWindow({
+    content: "Hello World!"
+  });
+  infowindow.open(map,marker);
 
 google.maps.event.addDomListener(window, 'load', initialize);
 </script>
