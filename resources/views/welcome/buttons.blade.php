@@ -411,8 +411,7 @@
 				<button class="button button--shikoba button--text-medium button--round-l button--inverted"><i class="button__icon icon icon-camera"></i><span>Take picture</span></button>
 			</div>
 		</section>
-	</div><!-- /container -->
-	<script>
+			<script>
 		(function() {
 			var isSafari = !!navigator.userAgent.match(/Version\/[\d\.]+.*Safari/);
 			if(isSafari) {
@@ -420,4 +419,5 @@
 			}
 		})();
 	</script>
+	</div><!-- /container -->
 @stop
