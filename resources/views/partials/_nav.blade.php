@@ -11,5 +11,6 @@
 		<a href="/buttons">Example Buttons</a>
 		<a href="/dribbble">Load Effect Sample</a>
 		<a href="/what">More Of What We Can Do</a>
+		<a href="/parallax">Parallax Scrolling Homepage</a>
 
 </div>
