@@ -8,7 +8,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
         <meta name="viewport" content="width=device-width, initial-scale=1"> 
         <title>Animated Background Headers | Demo 2</title>
-        <meta name="description" content="AccessTech.io is a website design firm located in Wilmington NC, if you need a new website or just want to update a website, we develop Wordpress and Drupal sites, SEO management, an internet marketing company">
+        <meta name="description" content="AccessTech.io is a website design and website development company located in Wilmington NC, if you need a new website or just want to update a website, we develop Wordpress and Drupal sites, SEO management, an internet marketing company">
         <meta name="keywords" content="header, canvas, animated, creative, inspiration, javascript" />
         <meta name="author" content="Codrops" />
         <link rel="shortcut icon" href="../favicon.ico">

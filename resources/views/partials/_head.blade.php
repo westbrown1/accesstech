@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="AccessTech.io is a website design firm located in Wilmington NC, if you need a new website or just want to update a website, we develop Wordpress and Drupal sites, SEO management, an internet marketing company">
+<meta name="description" content="AccessTech.io is a website design and website development company located in Wilmington NC, if you need a new website or just want to update a website, we develop Wordpress and Drupal sites, SEO management, an internet marketing company">
 <meta name="title" content="A Wilmington NC Website Design Company | AccessTech.io | Mobile First Design | Responsive Websites | SEO Management | Adwords Management">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="E0dIcNs5_CN27MpHWntn7rv5HLUST-i5epp59fUsaPA" />
