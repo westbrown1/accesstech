@@ -21,7 +21,7 @@ body, html {
 
 }
 .bgimg-1 {
-  background-image: url("img_parallax.jpg");
+  background-image: url("https://unsplash.com/search/surfing?photo=grg6-DNJuaU");
   min-height: 100%;
 }
 
