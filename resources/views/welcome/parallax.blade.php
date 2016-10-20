@@ -21,7 +21,7 @@ body, html {
 
 }
 .bgimg-1 {
-  background-image: url("https://unsplash.com/search/surfing?photo=grg6-DNJuaU");
+  background-image: url("https://images.unsplash.com/uploads/141219200475673afcb68/f5bd8360?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=2b8c7a77706cf036d04a018b3e124068");
   min-height: 100%;
 }
 
