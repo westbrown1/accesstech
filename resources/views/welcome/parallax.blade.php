@@ -26,12 +26,12 @@ body, html {
 }
 
 .bgimg-2 {
-  background-image: url("img_parallax2.jpg");
+  background-image: url("https://hd.unsplash.com/photo-1444658293155-105ae40f8278");
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-image: url("img_parallax3.jpg");
+  background-image: url("https://hd.unsplash.com/photo-1452390211826-8d50e8ee0b62");
   min-height: 400px;
 }
 
