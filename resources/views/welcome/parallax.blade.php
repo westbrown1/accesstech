@@ -13,7 +13,7 @@ body, html {
 
 .bgimg-1, .bgimg-2, .bgimg-3 {
   position: relative;
-  opacity: 0.80;
+  opacity: 1;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -46,8 +46,7 @@ body, html {
 
 .caption span.border {
   background-color: #111;
-  color: #fff;
-  padding: 18px;
+  color: black;
   font-size: 25px;
   letter-spacing: 10px;
 }
