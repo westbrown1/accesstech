@@ -21,7 +21,7 @@ body, html {
 
 }
 .bgimg-1 {
-  background-image: url("https://images.unsplash.com/uploads/141219200475673afcb68/f5bd8360?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=2b8c7a77706cf036d04a018b3e124068");
+  background-image: url("https://images.unsplash.com/photo-1455264646464-fb8b45ab4c57?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=4e9aa5741e8a1b7ae3909cc5f89fd7f3");
   min-height: 100%;
 }
 
@@ -45,7 +45,6 @@ body, html {
 }
 
 .caption span.border {
-  background-color: #111;
   color: black;
   font-size: 25px;
   letter-spacing: 10px;
