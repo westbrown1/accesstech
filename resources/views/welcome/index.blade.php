@@ -33,9 +33,9 @@
         </style>
     </head>    
        <div class="demo-2">
-            <div class="content">
-                <img src="{{ asset('images/onlinelogomaker-102416-1320-2855.png') }} " alt="">
+            <div class="content">                
                 <div id="large-header" class="large-header">
+                            <img src="{{ asset('images/onlinelogomaker-102416-1320-2855.png') }} " alt="">
                             <canvas id="demo-canvas"></canvas>
                             <h1 class="main-title text-center" onload="myFunction()">AccessTech.io</h1> 
                 </div>
