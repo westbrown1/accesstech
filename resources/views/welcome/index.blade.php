@@ -36,7 +36,7 @@
             <div class="content">                
                 <div id="large-header" class="large-header">                            
                             <canvas id="demo-canvas"></canvas>
-                            <h1 class="main-title text-center" onload="myFunction()">AccessTech.io <img src="{{ asset('images/onlinelogomaker-102416-1320-2855.png') }} " alt=""></h1> 
+                            <h1 class="main-title text-center" onload="myFunction()">AccessTech.io <img src="{{ asset('images/onlinelogomaker-102416-1320-2855.png') }} " alt="" style="background-color: transparent;"></h1> 
                 </div>
 
                 <div>
