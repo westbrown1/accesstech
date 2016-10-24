@@ -34,11 +34,11 @@
     </head>    
        <div class="demo-2">
             <div class="content">                
-                <div id="large-header" class="large-header">
-                            <img src="{{ asset('images/onlinelogomaker-102416-1320-2855.png') }} " alt="">
+                <div id="large-header" class="large-header">                            
                             <canvas id="demo-canvas"></canvas>
                             <h1 class="main-title text-center" onload="myFunction()">AccessTech.io</h1> 
                 </div>
+                <img src="{{ asset('images/onlinelogomaker-102416-1320-2855.png') }} " alt="">
                 <div>
                         <h4 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact">HERE !</a></h4>
                 </div>                                
