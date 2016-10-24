@@ -19,18 +19,8 @@
         <!--[if IE]>
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
-        <style>
-            #build {
-                font-family: "Alex Brush Regular";
-                text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
-                position: absolute;
-                text-align: center;
-                font-size: 1.25em;
-                margin: 0;
-                padding-top: 60px;
-                color: #F3C45F;
-            }
-        </style>
+
+
     </head>    
        <div class="demo-2">
             <div class="content">
