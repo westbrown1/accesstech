@@ -27,8 +27,8 @@
                 $('.main-title').hide().fadeIn(7000);
                 $('.main-title').fadeOut(20000);
 
-                $('.title').hide().fadeIn(7500);
-                $('.title').fadeOut(21000);
+                $('.title').hide().fadeIn(6500);
+                $('.title').fadeOut(19500);
             });
         </script>
 </body>
