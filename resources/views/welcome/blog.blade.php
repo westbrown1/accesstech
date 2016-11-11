@@ -4,7 +4,7 @@
 
 @section('content')
 <style>
-	#aboutus {
+	#blog {
 		margin-top: 0;
 		padding-top: 0;
 	}
@@ -12,7 +12,7 @@
 	<!-- container -->
 	<div class="container">
 		 <div class="row">
-		 	<div class="col-md-8 col-md-offset-2" id="aboutus">
+		 	<div class="col-md-8 col-md-offset-2" id="blog">
 		 		<div class="well">
 		 			<h3 class="text-center">Duke Blue Devils Football Team ends UNC Tarheels Chances at ACC Football Championship.</h3>
 		 			<h4 class="text-center">Could Marsha Brady have broken up with Mitch Trubisky in some sort of strange time warp brought on by that hardlined 1970's telephone? </h4>
