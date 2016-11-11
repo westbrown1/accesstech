@@ -6,7 +6,7 @@
 <style>
 	#blog {
 		margin-top: 50px;
-		padding-top: 30px;
+		padding-top: 10px;
 	}
 </style>
 	<!-- container -->
