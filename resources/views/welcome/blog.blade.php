@@ -21,7 +21,7 @@
 		 			<br><br>
 		 			We speculate that Mitch may have talking to Marsha Brady on the 1970's phone.  Maybe some kind of time warp double life he has been living.  Maybe Marsha broke up with Mitch during the third quarter.  It's hard to tell.  Then came the mixed signal with Bug Howard in the fourth quarter and suddenly it was over.  The interception was thrown and Mitch looked at Bug like, can't you see I'm not my usual self.<br><br>
 		 		 	Listen, don't get me wrong, I'm a huge fan of Mitch Trubisky.  I still think he is the best professional style quarterback in the country.  You know the drop back passer type that will be around long after Cam Newton breaks both his knees and one elbow.  The type with the strong, accurate arm.  The one who is atheletic and can really move when he needs to but doesn't overdo it.  If I were the NFL coach and GM with the #1 draft pick, there would be no hesitation.  I'll take Mitch Trubisky, Thank You.  But listen Mitch.  Girls like Marsha Brady are bound to break your heart.  Get off the phone and get on the sideline and pump up your offense and defense buddy.  Stay fired up and good things will happen.<br><br>
-		 		 	Written by West Brown, 1988 graduate of THE University of North Carolina, Chapel Hill<br>No, West does not take drugs...</p>
+		 		 	Written by West Brown, 1988 graduate of The University of North Carolina, Chapel Hill<br>No, West does not take drugs...</p>
 		 		</div>
 		 	</div>
 		 </div>
