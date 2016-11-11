@@ -3,6 +3,7 @@
 	<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>		
 		
 		<a href="/">Home</a>
+		<a href="/blog">Our Blog</a>
 		<a href="/about">About Us</a>
 		<a href="/contact">Contact Us</a>		
 		<a href="/solution">Why Choose Us?</a>
