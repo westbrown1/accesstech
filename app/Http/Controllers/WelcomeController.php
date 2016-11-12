@@ -50,6 +50,6 @@ class WelcomeController extends Controller
     }
         public function blog()
     {
-        return view('welcome.blog');
+        return view('blog.tarheels');
     }
 }
