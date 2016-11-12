@@ -16,7 +16,7 @@
 		 	<div class="col-md-8 col-md-offset-2">
 		 		<!-- well -->
 		 		<div class="well" id="blog">
-		 			 <h3>Rethinking Google after election 2016</h3>
+		 			 <h3 class="text-center">Rethinking Google after election 2016</h3>
 		 			 <p>You know what?  I got mad at google for making the error of posting Pennsylvania as being 99% reported on election 2016 eve, then posting PA as 89% reported about 2:30am-ish the 9th.  I called Google and complained not because I am a Donald Trump supporter, because Not so much.  It was out of what I thought was fairness for the democratic process.  Google is such a smart company how could anyone at Google make such a mistake?  Well, you know what?  Google is comprised of humans like, well, almost all companies....<br><br>
 
 					Today, I was contacted by what turns out to be a scam artist whose ultimate goal was to get me to join a transaction website other than Paypal, of which I am currently a member.  They were going to attempt to get me so excited about the opportunity to make money, that I would end up giving him access to what little money I have.  How did I know this was their ultimate goal?  I googled the dudes email address.  Up came all the info I needed to stay away from this crook.  Then I thought, they contacted through my gmail account.  An account which Google allows me to use FREE of charge.  And I continued thinking,  basically Google Search allows me to search the entire world for whatever information I feel I need.  Wow, that's pretty darn cool.  They provide all types of resources to make my life better and it's all free of charge.  So I say Google Rocks!  Thank you Google and keep up the good work.</p>
