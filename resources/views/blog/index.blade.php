@@ -13,7 +13,7 @@
 	<div class="container">
 		<div class="well" id="blog">
 			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
+				<div class="col-md-6 col-md-offset-3">
 					<h1 class="text-center">Blog Index Page</h1>
 					<ol>
 						<li><a href="/google">Rethinking Google after PA election error</a></li><br>
