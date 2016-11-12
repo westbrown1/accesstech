@@ -83,4 +83,8 @@ class BlogController extends Controller
     {
         //
     }
+            public function blog()
+    {
+        return view('blog.tarheels');
+    }
 }

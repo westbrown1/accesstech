@@ -48,8 +48,5 @@ class WelcomeController extends Controller
     {
         return view('welcome.parallax');
     }
-        public function blog()
-    {
-        return view('blog.tarheels');
-    }
+
 }
