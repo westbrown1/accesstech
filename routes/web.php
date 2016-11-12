@@ -23,4 +23,7 @@ Route::get('pricing-table', 'WelcomeController@price_table');
 Route::get('buttons', 'WelcomeController@buttons');
 Route::get('parallax', 'WelcomeController@parallax');
 Route::get('blog', 'WelcomeController@blog');
+Route::get('google', function() {
+	return view('welcome.google');
+});
 
