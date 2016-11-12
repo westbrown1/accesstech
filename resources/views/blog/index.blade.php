@@ -15,7 +15,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
 					<h1 class="text-center">Blog Index Page</h1>
-					<ol class="text-center">
+					<ol>
 						<li><a href="/google">Rethinking Google after PA election error</a></li><br>
 						<li><a href="/tarheels">Tarheel Football loses to Duke</a></li>
 					</ol>
