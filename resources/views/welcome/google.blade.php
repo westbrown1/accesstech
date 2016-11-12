@@ -3,12 +3,19 @@
 @section('title', '| Rethinking Google')
 
 @section('content')
+<style>
+	#blog {
+		margin-top: 50px;
+		padding-top: 10px;
+	}
+</style>
+
 	<!-- container -->
 	<div class="container">
 		 <div class="row">
 		 	<div class="col-md-8 col-md-offset-2">
 		 		<!-- well -->
-		 		<div class="well">
+		 		<div class="well" id="blog">
 		 			 <h3>Rethinking Google after election 2016</h3>
 		 			 <p>You know what?  I got mad at google for making the error of posting Pennsylvania as being 99% reported on election 2016 eve, then posting PA as 89% reported about 2:30am-ish the 9th.  I called Google and complained not because I am a Donald Trump supporter, because Not so much.  It was out of what I thought was fairness for the democratic process.  Google is such a smart company how could anyone at Google make such a mistake?  Well, you know what?  Google is comprised of humans like, well, almost all companies....<br><br>
 
