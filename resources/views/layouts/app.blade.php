@@ -24,11 +24,10 @@
             }
             
             $(document).ready(function() {
-                $('.main-title').hide().fadeIn(7000);
-                $('.main-title').fadeOut(20000);
-
-                $('.title').hide().fadeIn(7000);
-                $('.title').fadeOut(20000);
+                $('#builder').hide().fadeIn(7000);
+                $('#builder').fadeOut(20000);
+                $('#build').hide().fadeIn(7000);
+                $('#build').fadeOut(20000);
             });
         </script>
 </body>
