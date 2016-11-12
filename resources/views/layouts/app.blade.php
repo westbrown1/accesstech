@@ -24,10 +24,10 @@
             }
             
             $(document).ready(function() {
-                $('#builder').hide().fadeIn(7000);
-                $('#builder').fadeOut(20000);
                 $('#build').hide().fadeIn(7000);
                 $('#build').fadeOut(20000);
+                $('#builder').hide().fadeIn(7000);
+                $('#builder').fadeOut(20000);
             });
         </script>
 </body>
