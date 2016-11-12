@@ -14,7 +14,7 @@
 		 <div class="row">
 		 	<div class="col-md-8 col-md-offset-2">
 		 		<div class="well" id="blog">
-		 		<a href="blog/index">Back To Index</a>
+		 		{{ URL::previous() }}
 		 			<h3 class="text-center">Duke Blue Devils Football Team ends UNC Tarheels Chances at ACC Football Championship.</h3>
 		 			<h4 class="text-center">Could The Brady Bunches' Marcia Brady have broken up with Mitch Trubisky in some sort of strange time warp connection on that hardlined 1970's telephone? </h4>
 		 			<p class="reasons">Last night, the 10th of November 2016. On Thursday Night College Football. The Duke Blue Devils handed the nation's 17th ranked North Carolina Tarheel football team quite a blow, 28-27.  The game was close in the first half, despite the Tarheels' lack of defense.  Yes, UNC your defense needs just a tiny, little bit of work.  It was also close in the second half. In the end, David Cutcliffe's Duke squad seemed to simply want it a little more.  As a result, The Tarheels' slim chances of even facing Dabo Swinney and the #2 ranked Clemson Tigers seemed to disappear.  What happened?  We're not sure but we suspect it had something to do with 1970's sideline telephone Mitch Trubisky was talking on during the game. <br><br>
