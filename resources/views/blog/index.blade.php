@@ -16,8 +16,8 @@
 				<div class="col-md-8 col-md-offset-2">
 					<h1 class="text-center">Blog Index Page</h1>
 					<ol>
-						<li class="text-center"><a href="/google">Rethinking Google after PA election error</a></li><br>
-						<li class="text-center"><a href="/tarheels">Tarheel Football loses to Duke</a></li>
+						<li><a href="/google">Rethinking Google after PA election error</a></li><br>
+						<li><a href="/tarheels">Tarheel Football loses to Duke</a></li>
 					</ol>
 					
 					
