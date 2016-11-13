@@ -26,6 +26,4 @@ Route::resource('blog', 'BlogController');
 Route::get('google', function() {
 	return view('blog.google');
 });
-Route::get('tarheels', function() {
-	return view('blog.tarheels');
-});
+
