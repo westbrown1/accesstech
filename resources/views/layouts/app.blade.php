@@ -13,6 +13,9 @@
     margin-right: auto;
 }*/
 #main-footer {
+    position: relative;
+    font-family: "Alex Brush Regular";
+    font-style: italic;
     bottom: 7px;
     margin-left: auto;
     margin-right: auto;
