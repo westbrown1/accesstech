@@ -7,7 +7,7 @@
 <style>
 	.close {
 		color: white;
-		opacity: 0;
+		opacity: 0.8;
 	}
 </style>
 
