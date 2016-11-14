@@ -3,6 +3,13 @@
 @section('title', '| What We Can Do')
 
 @section('content')
+
+<style>
+	.close {
+		color: white;
+	}
+</style>
+
 <!-- container -->
 	<div class="container">
 		 <div class="row">
