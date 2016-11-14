@@ -35,6 +35,10 @@
 a {
 	color: green;
 }
+
+a:hover {
+	color: #337ab7;
+}
 </style>
 
 
