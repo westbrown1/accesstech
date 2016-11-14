@@ -10,8 +10,8 @@
 <!-- container -->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12 id="main-footer">
-            <div>
+        <div class="col-md-12>
+            <div id="main-footer">
                 <p class="text-center">&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p>
             </div> 
         </div>
