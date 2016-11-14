@@ -65,7 +65,7 @@
                 <li class="pricing__feature">a given, right?</li>
                 <li class="pricing__feature">or time to research a solution</li>
             </ul>
-            <a href="/about" class="pricing__action">Choose plan</a>
+            <a href="/contact" class="pricing__action">Choose plan</a>
         </div>
         <div class="pricing__item">
             <div class="icon icon--bus"></div>
@@ -77,7 +77,7 @@
                 <li class="pricing__feature">a given, right?</li>
                 <li class="pricing__feature">or time to research a solution</li>
             </ul>
-            <a href="/about" class="pricing__action">Choose plan</a>
+            <a href="/contact" class="pricing__action">Choose plan</a>
         </div>
         <div class="pricing__item">
             <div class="icon icon--train"></div>
@@ -89,7 +89,7 @@
                 <li class="pricing__feature">a given, right?</li>
                 <li class="pricing__feature">or time to research a solution</li>
             </ul>
-            <a href="/about" class="pricing__action">Choose plan</a>
+            <a href="/contact" class="pricing__action">Choose plan</a>
         </div>
     </div>
 </section>
