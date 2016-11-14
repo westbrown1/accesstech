@@ -4,11 +4,15 @@
 <title>AccessTech @yield('title')</title>
     @include('partials._head')
 <style>
-#footer {
+/*#footer {
     font-family: "Alex Brush Regular";
     position: fixed;
     bottom: 7px;
     font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+#main-footer {
     margin-left: auto;
     margin-right: auto;
 }
