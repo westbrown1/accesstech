@@ -13,56 +13,54 @@
   }
 </style>
 
-
 <body class="popin">
   	<div class="container" id="nav">
      <span class="navbar-fixed-top" onclick="openNav()"><h4>&#9776; <i>AccessTech.io</i></h4></span>
      <?php require "nav.html"; ?>
 </div>
 
-
-  <section class="todoapp">
-    <header class="header">
-      <h3 id="commentsection">Comments</h3><br>
-      <p><b>Warning:</b> do not input any personal information under any circumstance.</p>
-      <textarea class="new-todo"
-        autofocus autocomplete="off"
-        placeholder="Comment Here!"
-        v-model="newTodo"
-        @keyup.enter="addTodo"
-        cols="80"
-        rows="8"></textarea>
-    </header>
-    <section class="main" v-show="todos.length" v-cloak>
-      <ul class="todo-list">
-        <li v-for="todo in filteredTodos"
-          class="todo"
-          :key="todo.id"
-          :class="{ completed: todo.completed, editing: todo == editedTodo }">
-        <div class="view">
-            <label @dblclick="editTodo(todo)">{{ todo.title }}</label>
-            <button class="destroy" @click="removeTodo(todo)"></button>
-        </div>
-            <input class="edit" type="text"
-            v-model="todo.title"
-            v-todo-focus="todo == editedTodo"
-            @blur="doneEdit(todo)"
-            @keyup.enter="doneEdit(todo)"
-            @keyup.esc="cancelEdit(todo)">
-        </li>
-      </ul>
-    </section>
-    <footer class="footer" v-show="todos.length" v-cloak>
-      <span class="todo-count">
-        <strong>{{ remaining }}</strong> {{ remaining | pluralize }} left
-      </span>
-      <ul class="filters">          
-      </ul>
-      <button class="clear-completed" @click="removeCompleted" v-show="todos.length > remaining">
-        Clear completed
-      </button>
-    </footer>
+<section class="todoapp">
+  <header class="header">
+    <h3 id="commentsection">Comments</h3><br>
+    <p><b>Warning:</b> do not input any personal information under any circumstance.</p>
+    <textarea class="new-todo"
+      autofocus autocomplete="off"
+      placeholder="Comment Here!"
+      v-model="newTodo"
+      @keyup.enter="addTodo"
+      cols="80"
+      rows="8"></textarea>
+  </header>
+  <section class="main" v-show="todos.length" v-cloak>
+    <ul class="todo-list">
+      <li v-for="todo in filteredTodos"
+        class="todo"
+        :key="todo.id"
+        :class="{ completed: todo.completed, editing: todo == editedTodo }">
+      <div class="view">
+          <label @dblclick="editTodo(todo)">{{ todo.title }}</label>
+          <button class="destroy" @click="removeTodo(todo)"></button>
+      </div>
+          <input class="edit" type="text"
+          v-model="todo.title"
+          v-todo-focus="todo == editedTodo"
+          @blur="doneEdit(todo)"
+          @keyup.enter="doneEdit(todo)"
+          @keyup.esc="cancelEdit(todo)">
+      </li>
+    </ul>
   </section>
+  <footer class="footer" v-show="todos.length" v-cloak>
+    <span class="todo-count">
+      <strong>{{ remaining }}</strong> {{ remaining | pluralize }} left
+    </span>
+    <ul class="filters">          
+    </ul>
+    <button class="clear-completed" @click="removeCompleted" v-show="todos.length > remaining">
+      Clear completed
+    </button>
+  </footer>
+</section>
 
 
 
