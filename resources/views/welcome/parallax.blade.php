@@ -4,6 +4,10 @@
 
 @section('content')
 <style>
+.navbar-fixed-top {
+  color: white;
+}
+
 body, html {
   height: 100%;
   margin: 0;
