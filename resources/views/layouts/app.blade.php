@@ -3,13 +3,17 @@
 <head>
 <title>AccessTech @yield('title')</title>
     @include('partials._head')
+<style>
+#footer {
+    font-family: "Alex Brush Regular";
+    position: fixed;
+    bottom: 7px;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
 
-    {{-- <style>
-     #main-footer {
-        margin-left: auto;
-        margin-right: auto;
-    }
-    </style> --}}
 </head>
 
 <body class="popin">
