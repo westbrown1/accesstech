@@ -27,6 +27,12 @@
 <!--[if IE]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
+<style>
+.navbar-fixed-top {
+  color: white;
+}
+</style>
+
 
 {{-- <div class="row">
 	<div class="col-md-8 col-md-offset-2 pricingcolumn">
@@ -47,43 +53,43 @@
 	</div>
 </div> --}}
 <section class="pricing-section bg-4">
-    <h2 class="pricing-section__title">Yonten</h2>
+    <h2 class="pricing-section__title">AccessTech.io</h2>
     <div class="pricing pricing--yonten">
         <div class="pricing__item">
             <div class="icon icon--bicycle"></div>
             <h3 class="pricing__title">Beginner</h3>
-            <div class="pricing__price"><span class="pricing__currency">$</span>9<span class="pricing__period">/ month</span></div>
+            <div class="pricing__price"><span class="pricing__currency">$</span>40<span class="pricing__period">/ hour</span></div>
             <ul class="pricing__feature-list">
-                <li class="pricing__feature">1 GB of space</li>
-                <li class="pricing__feature">Unlimited traffic</li>
-                <li class="pricing__feature">Forum access</li>
-                <li class="pricing__feature">Support at $25/hour</li>
+                <li class="pricing__feature">We do not charge</li>
+                <li class="pricing__feature">to fix our mistakes</li>
+                <li class="pricing__feature">a given, right?</li>
+                <li class="pricing__feature">or time to research a solution</li>
             </ul>
-            <button class="pricing__action">Choose plan</button>
+            <a hret="/about" class="pricing__action">Choose plan</a>
         </div>
         <div class="pricing__item">
             <div class="icon icon--bus"></div>
             <h3 class="pricing__title">Advanced</h3>
-            <div class="pricing__price"><span class="pricing__currency">$</span>259<span class="pricing__period">/ year</span></div>
+            <div class="pricing__price"><span class="pricing__currency">$</span>40<span class="pricing__period">/ hour</span></div>
             <ul class="pricing__feature-list">
-                <li class="pricing__feature">5 GB of space</li>
-                <li class="pricing__feature">Unlimited traffic</li>
-                <li class="pricing__feature">Forum access</li>
-                <li class="pricing__feature">Support at $5/hour</li>
+                <li class="pricing__feature">We do not charge</li>
+                <li class="pricing__feature">to fix our mistakes</li>
+                <li class="pricing__feature">a given, right?</li>
+                <li class="pricing__feature">or time to research a solution</li>
             </ul>
-            <button class="pricing__action">Choose plan</button>
+            <a hret="/about" class="pricing__action">Choose plan</a>
         </div>
         <div class="pricing__item">
             <div class="icon icon--train"></div>
             <h3 class="pricing__title">Professional</h3>
-            <div class="pricing__price"><span class="pricing__currency">$</span>699<span class="pricing__period">/ year</span></div>
+            <div class="pricing__price"><span class="pricing__currency">$</span>40<span class="pricing__period">/ hour</span></div>
             <ul class="pricing__feature-list">
-                <li class="pricing__feature">20 GB of space</li>
-                <li class="pricing__feature">Unlimited traffic</li>
-                <li class="pricing__feature">Forum access</li>
-                <li class="pricing__feature">Free support</li>
+                <li class="pricing__feature">We do not charge</li>
+                <li class="pricing__feature">to fix our mistakes</li>
+                <li class="pricing__feature">a given, right?</li>
+                <li class="pricing__feature">or time to research a solution</li>
             </ul>
-            <button class="pricing__action">Choose plan</button>
+            <a hret="/about" class="pricing__action">Choose plan</a>
         </div>
     </div>
 </section>
