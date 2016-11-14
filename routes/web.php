@@ -11,6 +11,9 @@
 |
 */
 
+//add extra extension to render pure html alongside with php
+View::addExtension('html', 'php');
+
 Route::get('/', 'WelcomeController@index');
 Route::get('about', 'WelcomeController@about');
 Route::get('contact', 'WelcomeController@contact');
