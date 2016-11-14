@@ -57,7 +57,7 @@
     <div class="pricing pricing--yonten">
         <div class="pricing__item">
             <div class="icon icon--bicycle"></div>
-            <h3 class="pricing__title">Beginner</h3>
+            <h3 class="pricing__title">Transparent Pricing</h3>
             <div class="pricing__price"><span class="pricing__currency">$</span>40<span class="pricing__period">/ hour</span></div>
             <ul class="pricing__feature-list">
                 <li class="pricing__feature">We do not charge</li>
@@ -65,11 +65,11 @@
                 <li class="pricing__feature">a given, right?</li>
                 <li class="pricing__feature">or time to research a solution</li>
             </ul>
-            <a hret="/about" class="pricing__action">Choose plan</a>
+            <a href="/about" class="pricing__action">Choose plan</a>
         </div>
         <div class="pricing__item">
             <div class="icon icon--bus"></div>
-            <h3 class="pricing__title">Advanced</h3>
+            <h3 class="pricing__title">Transparent Pricing</h3>
             <div class="pricing__price"><span class="pricing__currency">$</span>40<span class="pricing__period">/ hour</span></div>
             <ul class="pricing__feature-list">
                 <li class="pricing__feature">We do not charge</li>
@@ -77,11 +77,11 @@
                 <li class="pricing__feature">a given, right?</li>
                 <li class="pricing__feature">or time to research a solution</li>
             </ul>
-            <a hret="/about" class="pricing__action">Choose plan</a>
+            <a href="/about" class="pricing__action">Choose plan</a>
         </div>
         <div class="pricing__item">
             <div class="icon icon--train"></div>
-            <h3 class="pricing__title">Professional</h3>
+            <h3 class="pricing__title">Transparent Pricing</h3>
             <div class="pricing__price"><span class="pricing__currency">$</span>40<span class="pricing__period">/ hour</span></div>
             <ul class="pricing__feature-list">
                 <li class="pricing__feature">We do not charge</li>
@@ -89,7 +89,7 @@
                 <li class="pricing__feature">a given, right?</li>
                 <li class="pricing__feature">or time to research a solution</li>
             </ul>
-            <a hret="/about" class="pricing__action">Choose plan</a>
+            <a href="/about" class="pricing__action">Choose plan</a>
         </div>
     </div>
 </section>
