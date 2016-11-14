@@ -97,6 +97,9 @@
 <div class="row">
 	<h3 class="text-center">Just a sample of what we can do.</h3>
 	<h5 class="text-center">Hover over items below.</h5>
+		<hr>				
+		<a href="/solution">Why We Are The Best Solution</a><br>
+		<a href="/">Home</a><br>
 	<div class="col-md-3" id="logodiv">
 		<img src="/images/onlinelogomaker-091016-1355-2013.png" class="logo">
 	</div>
