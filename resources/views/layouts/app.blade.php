@@ -22,19 +22,18 @@
 
 </head>
 
-<body class="popin">
+<body>
   	<div class="container" id="nav">
      <span class="navbar-fixed-top" onclick="openNav()"><h4>&#9776; <i>AccessTech.io</i></h4></span>
      @include('partials._nav')
     </div>
     
     @yield('content')
-    <!-- container -->
-    <div class="container">
+
     <div id="main-footer">
         <p class="text-center">&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p>
     </div> 
-    </div><!-- /container -->
+
 
 	@include('partials._js')
         <script>
