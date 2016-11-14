@@ -24,13 +24,6 @@
           :key="todo.id"
           :class="{ completed: todo.completed, editing: todo == editedTodo }">
         <div class="view">
-            <!-- display current user gravatar -->
-            <?php 
-            use App\User;
-              $user = Auth::user();  
-              if (1) { ?>            
-              <img v-show="todos.length" src="<?php echo 'https://www.gravatar.com/avatar/' . md5(strtolower(trim($user->email))) . '?d=retro'; ?>" alt="gravatar">
-              <?php } ?>
             <label @dblclick="editTodo(todo)">{{ todo.title }}</label>
             <button class="destroy" @click="removeTodo(todo)"></button>
         </div>
