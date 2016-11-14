@@ -15,8 +15,6 @@
 #main-footer {
     position: fixed;
     bottom: 7px;
-    margin-left: auto;
-    margin-right: auto;
 }
 </style>
 
