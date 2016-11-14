@@ -13,6 +13,7 @@
     margin-right: auto;
 }*/
 #main-footer {
+    position: fixed;
     margin-left: auto;
     margin-right: auto;
 }
