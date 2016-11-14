@@ -14,11 +14,8 @@
 }*/
 #main-footer {
     position: fixed;
-    font-family: "Alex Brush Regular";
-    font-style: italic;
-    bottom: 7px;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin-left: auto;
+    margin-right: auto;
 }
 </style>
 
@@ -33,7 +30,7 @@
     @yield('content')
 
     <div id="main-footer">
-        <center><p>&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p></center>
+        <p class="text-center">&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p>
     </div>
 	@include('partials._js')
         <script>
