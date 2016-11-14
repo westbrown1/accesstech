@@ -435,6 +435,7 @@
                         <li class="pricing__feature">Support at $25/hour</li>
                     </ul>
                     <button class="pricing__action">Choose plan</button>
+                </div>
                 <div class="pricing__item">
                     <div class="icon icon--bus"></div>
                     <h3 class="pricing__title">Advanced</h3>
