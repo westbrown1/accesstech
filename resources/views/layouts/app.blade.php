@@ -14,8 +14,7 @@
 #main-footer {
     position: fixed;
     bottom: 7px;
-    margin-left: auto;
-    margin-right: auto;
+    left: center;
 }
 </style>
 
@@ -29,7 +28,9 @@
     
     @yield('content')
 
-
+    <div id="main-footer">
+        <p class="text-center">&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p>
+    </div>  
 
 	@include('partials._js')
         <script>
@@ -41,8 +42,4 @@
             });
         </script>
 </body>
-    <div id="main-footer">
-        <p class="text-center">&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p>
-    </div>   
-
 </html>
