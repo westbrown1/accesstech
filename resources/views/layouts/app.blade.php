@@ -14,7 +14,6 @@
 #main-footer {
     position: fixed;
     bottom: 7px;
-    left: 30%;
 }
 </style>
 
@@ -27,10 +26,14 @@
     </div>
     
     @yield('content')
-
-    <div id="main-footer">
-        <p class="text-center">&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p>
-    </div>  
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <div id="main-footer">
+                <p class="text-center">&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p>
+            </div> 
+        </div>
+    </div>
+  
 
 	@include('partials._js')
         <script>
