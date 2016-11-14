@@ -3,7 +3,32 @@
 @section('title', '| Pricing')
 
 @section('content')
-<div class="row">
+
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Inspiration for Pricing Tables | Codrops</title>
+<meta name="description" content="Various styles and inspiration for responsive, flexbox-based HTML pricing tables" />
+<meta name="keywords" content="pricing table, inspiration, ui, modern, responsive, flexbox, html, component" />
+<meta name="author" content="Codrops" />
+<link rel="shortcut icon" href="favicon.ico">
+<link href='https://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Sahitya:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:900' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700,800' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+<link rel="stylesheet" type="text/css" href="css/demo.css" />
+<link rel="stylesheet" type="text/css" href="css/icons.css" />
+<link rel="stylesheet" type="text/css" href="css/component.css" />
+<!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+{{-- <div class="row">
 	<div class="col-md-8 col-md-offset-2 pricingcolumn">
 		<div class="well" id="pricing">
 			<div class="text-center">
@@ -20,7 +45,48 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> --}}
+<section class="pricing-section bg-4">
+    <h2 class="pricing-section__title">Yonten</h2>
+    <div class="pricing pricing--yonten">
+        <div class="pricing__item">
+            <div class="icon icon--bicycle"></div>
+            <h3 class="pricing__title">Beginner</h3>
+            <div class="pricing__price"><span class="pricing__currency">$</span>9<span class="pricing__period">/ month</span></div>
+            <ul class="pricing__feature-list">
+                <li class="pricing__feature">1 GB of space</li>
+                <li class="pricing__feature">Unlimited traffic</li>
+                <li class="pricing__feature">Forum access</li>
+                <li class="pricing__feature">Support at $25/hour</li>
+            </ul>
+            <button class="pricing__action">Choose plan</button>
+        </div>
+        <div class="pricing__item">
+            <div class="icon icon--bus"></div>
+            <h3 class="pricing__title">Advanced</h3>
+            <div class="pricing__price"><span class="pricing__currency">$</span>259<span class="pricing__period">/ year</span></div>
+            <ul class="pricing__feature-list">
+                <li class="pricing__feature">5 GB of space</li>
+                <li class="pricing__feature">Unlimited traffic</li>
+                <li class="pricing__feature">Forum access</li>
+                <li class="pricing__feature">Support at $5/hour</li>
+            </ul>
+            <button class="pricing__action">Choose plan</button>
+        </div>
+        <div class="pricing__item">
+            <div class="icon icon--train"></div>
+            <h3 class="pricing__title">Professional</h3>
+            <div class="pricing__price"><span class="pricing__currency">$</span>699<span class="pricing__period">/ year</span></div>
+            <ul class="pricing__feature-list">
+                <li class="pricing__feature">20 GB of space</li>
+                <li class="pricing__feature">Unlimited traffic</li>
+                <li class="pricing__feature">Forum access</li>
+                <li class="pricing__feature">Free support</li>
+            </ul>
+            <button class="pricing__action">Choose plan</button>
+        </div>
+    </div>
+</section>
 <div class="row">
 	<div class="col-md-3" id="logodiv">
 		<img src="/images/onlinelogomaker-091016-1355-2013.png" class="logo">
