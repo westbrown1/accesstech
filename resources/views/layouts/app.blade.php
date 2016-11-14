@@ -27,7 +27,7 @@
     
     @yield('content')
     <div class="row">
-        <div class="col-md-6 col-md-offset-3">
+        <div class="col-sm-6 col-sm-offset-3">
             <div id="main-footer">
                 <p class="text-center">&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p>
             </div> 
