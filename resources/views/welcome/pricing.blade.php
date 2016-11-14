@@ -37,7 +37,7 @@ a {
 }
 
 a:hover {
-	color: lighten(#337ab7, 30%);
+	color: #85c34a;
 }
 </style>
 
