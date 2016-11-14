@@ -14,7 +14,7 @@
 #main-footer {
     position: fixed;
     bottom: 7px;
-    left: center;
+    left: 31%;
 }
 </style>
 
