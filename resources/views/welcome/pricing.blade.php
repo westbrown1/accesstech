@@ -62,7 +62,7 @@ a:hover {
 </div> --}}
 <section class="pricing-section bg-4">
     <h2 class="pricing-section__title">AccessTech.io</h2>
-    <h4 class="pricig-section">Let Us Make An Awesome Website For You Today!</h4>
+    <h4 class="pricing-section__title">Let Us Make An Awesome Website For You Today!</h4>
     <div class="pricing pricing--yonten">
         <div class="pricing__item">
             <div class="icon icon--bicycle"></div>
