@@ -3,6 +3,13 @@
 <head>
 <title>AccessTech @yield('title')</title>
     @include('partials._head')
+
+    <style>
+     #main-footer {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    </style>
 </head>
 
 <body class="popin">
@@ -13,7 +20,7 @@
     
     @yield('content')
 
-    <div id="footer">
+    <div id="main-footer">
         <center><p>&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p></center>
     </div>
 	@include('partials._js')
