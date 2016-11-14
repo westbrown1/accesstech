@@ -17,8 +17,8 @@
     font-family: "Alex Brush Regular";
     font-style: italic;
     bottom: 7px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 </style>
 
