@@ -7831,7 +7831,7 @@ span {
     position: fixed;
     bottom: 7px;
     font-style: italic;
-    left: 32.25%;
+    text-align: center;
 }
 
 #panmargin {
