@@ -13,7 +13,7 @@
     margin-right: auto;
 }*/
 #main-footer {
-    position: relative;
+    position: fixed;
     font-family: "Alex Brush Regular";
     font-style: italic;
     bottom: 7px;
