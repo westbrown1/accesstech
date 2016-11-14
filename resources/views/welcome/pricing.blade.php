@@ -33,7 +33,7 @@
 }
 
 a {
-	color: #85c34a;
+	color: green;
 }
 </style>
 
@@ -99,10 +99,11 @@ a {
 </section>
 
 <div class="row">
-	<h3 class="text-center">Just a sample of what we can do.</h3>
-	<h5 class="text-center">Hover over items below.</h5>			
+	<h3 class="text-center">Just a sample of what we can do.</h3>			
 		<center><a href="/solution">Why We Are The Best Solution</a></center>
-		<center><a href="/">Home</a></center><br>
+		<center><a href="/">Home</a></center>
+	<h5 class="text-center">Hover over items below.</h5>
+		<br>
 	<div class="col-md-3" id="logodiv">
 		<img src="/images/onlinelogomaker-091016-1355-2013.png" class="logo">
 	</div>
