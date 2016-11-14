@@ -8,6 +8,9 @@
 		margin-top: 90px;
 		padding-top: 0;
 	}
+	a {
+		color: #00BCD4;
+	}
 </style>
 	<!-- container -->
 	<div class="container">		
