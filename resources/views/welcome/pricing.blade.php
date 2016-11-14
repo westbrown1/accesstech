@@ -62,8 +62,8 @@
             <ul class="pricing__feature-list">
                 <li class="pricing__feature">We do not charge</li>
                 <li class="pricing__feature">to fix our mistakes</li>
+                <li class="pricing__feature">or to research a solution</li>
                 <li class="pricing__feature">a given, right?</li>
-                <li class="pricing__feature">or time to research a solution</li>
             </ul>
             <a href="/contact" class="pricing__action">Choose plan</a>
         </div>
@@ -74,8 +74,8 @@
             <ul class="pricing__feature-list">
                 <li class="pricing__feature">We do not charge</li>
                 <li class="pricing__feature">to fix our mistakes</li>
+                <li class="pricing__feature">or to research a solution</li>
                 <li class="pricing__feature">a given, right?</li>
-                <li class="pricing__feature">or time to research a solution</li>
             </ul>
             <a href="/contact" class="pricing__action">Choose plan</a>
         </div>
@@ -86,8 +86,8 @@
             <ul class="pricing__feature-list">
                 <li class="pricing__feature">We do not charge</li>
                 <li class="pricing__feature">to fix our mistakes</li>
+                <li class="pricing__feature">or to research a solution</li>
                 <li class="pricing__feature">a given, right?</li>
-                <li class="pricing__feature">or time to research a solution</li>
             </ul>
             <a href="/contact" class="pricing__action">Choose plan</a>
         </div>
