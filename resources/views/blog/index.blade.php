@@ -9,7 +9,7 @@
 		padding-top: 0;
 	}
 	a {
-		color: #00BCD4;
+		color: #333;
 	}
 </style>
 	<!-- container -->
