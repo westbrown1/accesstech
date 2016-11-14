@@ -28,9 +28,9 @@
     
     @yield('content')
 
-    <center><div id="main-footer">
+    <center id="main-footer">
         <p class="text-center">&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p>
-    </div> </center>   
+    </center>   
 
 
 	@include('partials._js')
