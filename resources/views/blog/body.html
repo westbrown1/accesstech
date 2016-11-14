@@ -1,7 +1,6 @@
 <body class="popin">
   	<div class="container" id="nav">
      <span class="navbar-fixed-top" onclick="openNav()"><h4>&#9776; <i>AccessTech.io</i></h4></span>
-     @include('partials._nav')
 </div>
 
 <!-- container -->
@@ -10,15 +9,16 @@
     <header class="header">
       <h1></h1><br>
       <p><b>Warning:</b> do not input any personal information under any circumstance.</p>
-      <input class="new-todo"
+      <textarea class="new-todo"
         autofocus autocomplete="off"
         placeholder="Comment Here!"
         v-model="newTodo"
-        @keyup.enter="addTodo">
+        @keyup.enter="addTodo"
+        cols="80"
+        rows="8"></textarea>
     </header>
     <section class="main" v-show="todos.length" v-cloak>
       <ul class="todo-list">
-
         <li v-for="todo in filteredTodos"
           class="todo"
           :key="todo.id"
