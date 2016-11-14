@@ -95,7 +95,7 @@
 </section>
 
 <div class="row">
-	<h3>Just a sample of what we can do.</h3>
+	<h3 class="text-center">Just a sample of what we can do.</h3>
 	<div class="col-md-3" id="logodiv">
 		<img src="/images/onlinelogomaker-091016-1355-2013.png" class="logo">
 	</div>
