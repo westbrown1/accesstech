@@ -9489,6 +9489,7 @@ label[for='toggle-all'] {
 
 .todo-count {
     margin-left: 5px;
+    margin-top: 20px;
     float: left;
     text-align: left;
 }
