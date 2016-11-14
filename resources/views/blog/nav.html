@@ -1,5 +1,4 @@
 <div id="mySidenav" class="sidenav">
-
 	<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>		
 		
 		<a href="/">Home</a>
@@ -11,7 +10,18 @@
 		<a href="/buttons">Example Buttons</a>
 		<a href="/dribbble">Load Effect Sample</a>
 		<a href="/parallax">Parallax Scrolling Homepage</a>
-		<a href="/what">More Of What We Can Do</a>
-		
+		<a href="/what">More Of What We Can Do</a>		
 
 </div>
+
+<script>
+
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "100%";
+    }
+
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+    }
+
+</script>
