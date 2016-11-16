@@ -59,11 +59,14 @@
       position: fixed;
       top: 0;
       bottom: 0;
-      margin-top: 18%;
-      left: 70px;
+      margin-top: 10%;
+      left: 100px;
     }
     #contactIndex {
       padding-top: 70px;
+    }
+    .westPhoto {
+      margin-left: 60px;
     }
 </style>
     </head>
@@ -90,13 +93,23 @@
 <div class="container">
   <div class="row">
      <div class="col-md-5 item--secondary"
-      data-aos="fade-right"
-      data-aos-anchor="#trigger-left"
-     >
-    <img src="images/photo.jpg" alt="west" width="200" height="200">
+          data-aos="fade-right"
+          data-aos-anchor="#trigger-left"
+         >
+         <!-- item--secondary -->
+         <div class="item--secondary">         
+           <!-- img-thumbnail -->
+           <div class="img-thumbnail">
+              <img src="images/photo.jpg" alt="west" width="200" height="200"><br><br>
+              <p class="text-center">West Brown</p>
+              <p class="text-center">Cell: 910-200-1391</p>
+              <p class="text-center"><a href="mailto:lawsonsdad@gmail.com">Email West</a></p>
+           </div><!-- /img-thumbnail -->
+         </div><!-- /item--secondary -->
      </div><!-- col-md-5 -->
+
      <div class="col-md-5 item--primary">
-             <img src="images/photo-1443397646383-16272048780e (1).jpeg" alt="boat on beach" class="item--primary"
+             <img src="images/photo-1443397646383-16272048780e (1).jpeg" alt="boat on beach" class="img-thumbnail item--primary"
              width="550"
              height="360" 
              data-aos="fade-left"
