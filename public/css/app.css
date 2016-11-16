@@ -336,7 +336,7 @@ th {
 
 .img-thumbnail,
 body {
-
+background-color: #fff;
 }
 
 @font-face {
@@ -9013,7 +9013,7 @@ img.hover-shadow {
 }
 
 body.popin {
-    background: #e3e3e3;
+    background: #fff;
 }
 
 .header {
@@ -9245,6 +9245,7 @@ button {
 }
 
 body {
+    background-color: #fff;
     font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
     line-height: 1.4em;
     color: black;
