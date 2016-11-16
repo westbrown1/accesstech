@@ -62,6 +62,9 @@
       margin-top: 12%;
       left: 70px;
     }
+    #contactIndex {
+      padding-top: 70px;
+    }
 </style>
     </head>
     <body>
@@ -101,7 +104,7 @@
              data-aos-anchor="#trigger-right">
 
              <hr>
-             <a href="/contact">Contact Us!</a>
+             <a href="/contact"><p class="text-center" id="contactIndex">Contact Us!</p></a>
      </div>
 
       <div class="item"></div>
