@@ -37,7 +37,7 @@
   </div>
 </div><!-- /container -->
 
-<div class="row">
+{{-- <div class="row">
 	 <div class="col-md-8 col-md-offset-2">
 	 <!-- panel panel-primary -->
 	 	<div class="panel panel-primary" id="myPanel">
@@ -63,7 +63,7 @@
 			</div><!-- /panel-body -->
 	 	</div><!-- /panel panel-primary -->		
 	 </div><!-- col-md-7 -->
-</div><!-- /row -->
+</div><!-- /row --> --}}
 
 <script
 src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEVO00gprk&callback-initMap">
