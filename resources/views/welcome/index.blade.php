@@ -32,6 +32,7 @@
     }
 
     body {
+      background-color: #fff;
       overflow-x: hidden;
     }  
 
