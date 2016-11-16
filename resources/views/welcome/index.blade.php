@@ -93,17 +93,15 @@
       data-aos="fade-right"
       data-aos-anchor="#trigger-left"
      >
-        <div id="googleMap" style="width:500px;height:500px;"></div>    
-        <h4 class="text-center">Wilmington, NC  USA</h4>
+    <img src="images/photo.jpg" alt="west" width="300" height="360">
      </div><!-- col-md-5 -->
      <div class="col-md-5 item--primary">
+     <a href="/contact"><p class="text-center">Contact Us!</p></a>
              <img src="images/photo-1443397646383-16272048780e (1).jpeg" alt="boat on beach" class="item--primary"
              width="550"
              height="360" 
              data-aos="fade-left"
              data-aos-anchor="#trigger-right">
-
-             <a href="/contact"><p class="text-center" id="contactIndex">Contact Us!</p></a>
      </div>
 
       <div class="item"></div>
@@ -121,38 +119,6 @@
 
 
 @include('partials._footer')
-
-<script
-src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEVO00gprk&callback-initMap">
-</script>
-
-<script>
-var myCenter=new google.maps.LatLng(34.193333, -77.871229);
-
-function initialize()
-{
-var mapProp = {
-  center:myCenter,
-  zoom:11,
-  mapTypeId:google.maps.MapTypeId.ROADMAP
-  };
-
-var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
-
-var marker=new google.maps.Marker({
-  position:myCenter,
-  });
-
-  var infowindow = new google.maps.InfoWindow({
-    content: "<div class='gmap'>AccessTech.io</div><div>website design and developement</div><div>Wilmington, NC  28409</div"
-  });
-  infowindow.open(map,marker);
-
-marker.setMap(map);
-}
-
-google.maps.event.addDomListener(window, 'load', initialize);
-</script>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js" integrity="sha256-T8PcNT5ErjZNHcDr8rQOERjKe3xFxDsChEttV/5Fi9o=" crossorigin="anonymous"></script>
