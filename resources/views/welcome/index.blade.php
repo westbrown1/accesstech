@@ -103,7 +103,6 @@
              data-aos="fade-left"
              data-aos-anchor="#trigger-right">
 
-             <hr>
              <a href="/contact"><p class="text-center" id="contactIndex">Contact Us!</p></a>
      </div>
 
