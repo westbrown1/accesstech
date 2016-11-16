@@ -59,7 +59,7 @@
       position: fixed;
       top: 0;
       bottom: 0;
-      margin-top: 14%;
+      margin-top: 18%;
       left: 70px;
     }
     #contactIndex {
