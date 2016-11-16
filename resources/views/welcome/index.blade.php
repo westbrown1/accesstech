@@ -99,9 +99,11 @@
              height="360" 
              data-aos="fade-left"
              data-aos-anchor="#trigger-right">
+
+             <hr>
+             <a href="/contact">Contact Us!</a>
      </div>
-     <hr>
-     <a href="/contact">Contact Us!</a>
+
       <div class="item"></div>
       <div class="item" id="trigger-left"></div>
       <div class="item"></div>
