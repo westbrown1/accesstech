@@ -15,14 +15,7 @@
 
     @include('partials._footer')
 
-	@include('partials._js')
-        <script>
-            $(document).ready(function() {
-                $('#build').hide().fadeIn(7000);
-                $('#build').fadeOut(20000);
-                $('#builder').hide().fadeIn(7000);
-                $('#builder').fadeOut(20000);
-            });
-        </script>
+    @include('partials._js')
+
 </body>
 </html>
