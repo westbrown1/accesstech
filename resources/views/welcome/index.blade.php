@@ -100,6 +100,8 @@
              data-aos="fade-left"
              data-aos-anchor="#trigger-right">
      </div>
+     <hr>
+     <a href="/contact">Contact Us!</a>
       <div class="item"></div>
       <div class="item" id="trigger-left"></div>
       <div class="item"></div>
