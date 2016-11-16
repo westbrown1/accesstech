@@ -336,7 +336,7 @@ th {
 
 .img-thumbnail,
 body {
-    background-color: #f5f8fa
+    background-color: #333;
 }
 
 @font-face {
@@ -2020,6 +2020,7 @@ pre {
 
 .container,
 .container-fluid {
+    background-color: #333;
     margin-right: auto;
     margin-left: auto
 }
@@ -2034,6 +2035,7 @@ pre code {
 
 .container,
 .container-fluid {
+    background-color: #333;
     padding-left: 15px;
     padding-right: 15px
 }
