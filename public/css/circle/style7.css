@@ -26,6 +26,7 @@
 	width: 100%;
 	height: 100%;
 	border-radius: 50%;
+	cursor: pointer;
 	background-position: center center;
 	-webkit-transition: all 0.4s linear;
 	-moz-transition: all 0.4s linear;
@@ -54,15 +55,15 @@
 }
 
 .ch-img-1 { 
-	background-image: url(../images/19.jpg);
+	background-image: url(/images/unnamed.png);
 }
 
 .ch-img-2 { 
-	background-image: url(../images/20.jpg);
+	background-image: url(/images/cool-iphone-wallpapers-free-1.jpg);
 }
 
 .ch-img-3 { 
-	background-image: url(../images/21.jpg);
+	background-image: url(/images/flower-302889_640.jpg);
 }
 
 .ch-info h3 {

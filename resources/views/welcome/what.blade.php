@@ -8,22 +8,30 @@
     <meta name="keywords" content="circle, border-radius, hover, css3, transition, image, thumbnail, effect, 3d" />
     <meta name="author" content="Codrops" />
     <link rel="shortcut icon" href="../favicon.ico"> 
-    <link rel="stylesheet" type="text/css" href="css/demo.css" />
-	<link rel="stylesheet" type="text/css" href="css/common.css" />
-    <link rel="stylesheet" type="text/css" href="css/style7.css" />
+    <link rel="stylesheet" type="text/css" href="css/circle/demo.css" />
+	<link rel="stylesheet" type="text/css" href="css/circle/common.css" />
+    <link rel="stylesheet" type="text/css" href="css/circle/style7.css" />
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css' />
-	<script type="text/javascript" src="js/modernizr.custom.79639.js"></script> 
+	<script type="text/javascript" src="js/circle/modernizr.custom.79639.js"></script> 
 	<!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
-</head>
 
 <style>
 	.close {
 		color: white;
 		opacity: 0.8;
 	}
+	#circlehead {
+		padding-top: 0;
+		margin-top: 0;
+	}
+	.secondrow {
+		padding-top: 30px;
+		margin-top: 30px;
+	}
 </style>
+</head>
 
-<!-- container -->
+	<!-- container -->
 	<div class="container">
 		 <div class="row">
 			<!-- col-md-12 -->
@@ -32,91 +40,67 @@
 			</div><!-- /col-md-12 -->		
 		</div>	
 		<div class="row">
-				 	<div class="col-md-12">
-				 		<div class="container">
-		
-			<!-- Codrops top bar -->
-            <div class="codrops-top">
-                <a href="http://tympanus.net/Development/AnimatedResponsiveImageGrid/">
-                    <strong>&laquo; Previous Demo: </strong>Animated Responsive Image Grid
-                </a>
-                <span class="right">
-                    <a href=" http://tympanus.net/codrops/2012/08/08/circle-hover-effects-with-css-transitions/">
-                        <strong>Back to the Codrops Article</strong>
-                    </a>
-                </span>
-                <div class="clr"></div>
-            </div><!--/ Codrops top bar -->
-			
-			<header>
-			
-				<h1><strong>Circle</strong> Hover Effects</h1>
-				<h2>Pretty hover effects on circles with CSS Transitions</h2>
+		 	<div class="col-md-12">	
+				<header>			
+					<h1 class="text-center" id="circlehead"><strong>Circle</strong> Hover Effects</h1>
+					<h2 class="text-center">Nice hover effects on circles (These are links) with CSS Transitions</h2>
+					
+					<div class="support-note"><!-- let's check browser support with modernizr -->
+						<!--span class="no-cssanimations">CSS animations are not supported in your browser</span-->
+						<span class="no-csstransforms">CSS transforms are not supported in your browser</span>
+						<span class="no-csstransforms3d">CSS 3D transforms are not supported in your browser</span>
+						<span class="no-csstransitions">CSS transitions are not supported in your browser</span>
+						<span class="note-ie">Sorry, only modern browsers.</span>
+					</div>				
+				</header>
 				
-				<nav class="codrops-demos">
-					<a href="index.html">Demo 1</a>
-					<a href="index2.html">Demo 2</a>
-					<a href="index3.html">Demo 3</a>
-					<a href="index4.html">Demo 4</a>
-					<a href="index5.html">Demo 5</a>
-					<a href="index6.html">Demo 6</a>
-					<a class="current-demo" href="index7.html">Demo 7</a>
-				</nav>
-				
-				<div class="support-note"><!-- let's check browser support with modernizr -->
-					<!--span class="no-cssanimations">CSS animations are not supported in your browser</span-->
-					<span class="no-csstransforms">CSS transforms are not supported in your browser</span>
-					<span class="no-csstransforms3d">CSS 3D transforms are not supported in your browser</span>
-					<span class="no-csstransitions">CSS transitions are not supported in your browser</span>
-					<span class="note-ie">Sorry, only modern browsers.</span>
-				</div>
-				
-			</header>
-			
-			<section class="main">
-			
-				<ul class="ch-grid">
-					<li>
-						<div class="ch-item">				
-							<div class="ch-info">
-								<div class="ch-info-front ch-img-1"></div>
-								<div class="ch-info-back">
-									<h3>Mouse</h3>
-									<p>by Alexander Shumihin <a href="http://drbl.in/eAoj">View on Dribbble</a></p>
-								</div>	
-							</div>
-						</div>
-					</li>
-					<li>
-						<div class="ch-item">
-							<div class="ch-info">
-								<div class="ch-info-front ch-img-2"></div>
-								<div class="ch-info-back">
-									<h3>You</h3>
-									<p>by Zoe Ingram <a href="http://drbl.in/eCcV">View on Dribbble</a></p>
+				<section class="main">			
+					<ul class="ch-grid">
+						<li>
+							<a href="/contact">
+								<div class="ch-item">				
+									<div class="ch-info">
+										<div class="ch-info-front ch-img-1"></div>
+										<div class="ch-info-back">
+											<h3>Hover</h3>
+											<p>AccessTechio is here for you.</p>
+										</div>	
+									</div>
 								</div>
-							</div>
-						</div>
-					</li>
-					<li>
-						<div class="ch-item">
-							<div class="ch-info">
-								<div class="ch-info-front ch-img-3"></div>
-								<div class="ch-info-back">
-									<h3>Love</h3>
-									<p>by Eileen Tjan <a href="http://drbl.in/ewTL">View on Dribbble</a></p>
+							</a>
+						</li>
+						<li>
+							<a href="/contact">
+								<div class="ch-item">
+									<div class="ch-info">
+										<div class="ch-info-front ch-img-2"></div>
+										<div class="ch-info-back">
+											<h3>Over</h3>
+											<p>Please let us build your site.</p>
+										</div>
+									</div>
 								</div>
-							</div>
-						</div>
-					</li>
-				</ul>
-				
-			</section>
-        </div>
-				 	</div>
-				 </div>		 
+							</a>
+						</li>
+						<li>
+							<a href="/contact">
+								<div class="ch-item">
+									<div class="ch-info">
+										<div class="ch-info-front ch-img-3"></div>
+										<div class="ch-info-back">
+											<h3>Me</h3>
+											<p>Click Me!</p>
+										</div>
+									</div>
+								</div>
+							</a>
+						</li>
+					</ul>				
+				</section>    			
+			</div>
+		</div>		 
 
-		 <div class="row">
+		 <div class="row secondrow">
 		 	<div class="col-md-4">
 		 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
 				    <!-- Indicators -->
@@ -149,7 +133,7 @@
 			          <p>Coast</p>			         
 			        </div>
 			      </div>
-			  		<p>Carousel</p>
+			  		<p class="text-center">Carousel</p>
 			    </div>			  
 			</div>
 		</div>
@@ -165,7 +149,7 @@
 				<p>click on the image (modal)</p></center>			 
 				</div>
 			</div>
-		<div class="row">
+		<div class="row secondrow">
 			<div class="col-md-5">
 				<h4>Animated Accordion</h4>
 
@@ -197,7 +181,7 @@
 				</div>				
 			</div>				
 		</div>
-		<div class="row" id="bottom1">
+		<div class="row secondrow" id="bottom1">
 			<div class="col-md-3">
 				<img src="/images/google-chrome-icon-2.png" alt="google chrome icon" class="google"><h5 id="googtext">hover over Google Chrome icon</h5>
 			</div>			
@@ -206,7 +190,7 @@
 
 <!-- container -->
 <div class="container">	 
-	<div class="row">
+	<div class="row secondrow">
 		<div class="col-md-12" id="bottom">
 			<a href="/">Home</a> | 
 			<a href="/pricing">Back To Pricing</a>
