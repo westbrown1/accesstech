@@ -59,7 +59,7 @@
       position: fixed;
       top: 0;
       bottom: 0;
-      margin-top: 10%;
+      margin-top: 12%;
       left: 70px;
     }
     #contactIndex {
@@ -93,7 +93,7 @@
       data-aos="fade-right"
       data-aos-anchor="#trigger-left"
      >
-    <img src="images/photo.jpg" alt="west" width="300" height="360">
+    <img src="images/photo.jpg" alt="west" width="200" height="200">
      </div><!-- col-md-5 -->
      <div class="col-md-5 item--primary">
      <a href="/contact"><p class="text-center">Contact Us!</p></a>
