@@ -96,7 +96,7 @@
     <img src="images/photo.jpg" alt="west" width="200" height="200">
      </div><!-- col-md-5 -->
      <div class="col-md-5 item--primary">
-             <img src="<?php echo  '<a href="contact.blasde.php"><img src="images/photo-1443397646383-16272048780e (1).jpeg"  /></a>'; ?>" alt="boat on beach" class="item--primary"
+             <img src="images/photo-1443397646383-16272048780e (1).jpeg" alt="boat on beach" class="item--primary"
              width="550"
              height="360" 
              data-aos="fade-left"
