@@ -57,33 +57,33 @@
 				<section class="main">			
 					<ul class="ch-grid">
 						<li>
-							<a href="/contact">
+							<a href="index">
 								<div class="ch-item">				
 									<div class="ch-info">
 										<div class="ch-info-front ch-img-1"></div>
 										<div class="ch-info-back">
 											<h3>Hover</h3>
-											<p>AccessTechio is here for you.</p>
+											<p>We Want All Your Business, Click For More</p>
 										</div>	
 									</div>
 								</div>
 							</a>
 						</li>
 						<li>
-							<a href="/contact">
+							<a href="index">
 								<div class="ch-item">
 									<div class="ch-info">
 										<div class="ch-info-front ch-img-2"></div>
 										<div class="ch-info-back">
 											<h3>Over</h3>
-											<p>Please let us build your site.</p>
+											<p>Click Me To See More</p>
 										</div>
 									</div>
 								</div>
 							</a>
 						</li>
 						<li>
-							<a href="/contact">
+							<a href="index">
 								<div class="ch-item">
 									<div class="ch-info">
 										<div class="ch-info-front ch-img-3"></div>

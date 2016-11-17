@@ -39,3 +39,29 @@ Route::get('aos', function() {
 	return view('welcome.aos');
 });
 
+
+Route::get('index', function() {
+	return view('circle.index');
+});
+Route::get('index2', function() {
+	return view('circle.index2');
+});
+Route::get('index3', function() {
+	return view('circle.index3');
+});
+Route::get('index4', function() {
+	return view('circle.index4');
+});
+Route::get('index5', function() {
+	return view('circle.index5');
+});
+Route::get('index6', function() {
+	return view('circle.index6');
+});
+Route::get('index7', function() {
+	return view('circle.index7');
+});
+
+
+
+

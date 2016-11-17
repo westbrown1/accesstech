@@ -15,6 +15,11 @@
         <link href='http://fonts.googleapis.com/css?family=Raleway:200,400,800|Clicker+Script' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css" integrity="sha256-T2BVEQmlUCoftgGysWhy/vUjLn+SusHDt3mnXoGdPxY=" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css.map">
+        <link rel="stylesheet" type="text/css" href="css/circle/demo.css" />
+        <link rel="stylesheet" type="text/css" href="css/circle/common.css" />
+        <link rel="stylesheet" type="text/css" href="css/circle/style7.css" />
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css' />
+        <script type="text/javascript" src="js/circle/modernizr.custom.79639.js"></script>
         <!--[if IE]>
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>            
         <![endif]-->
@@ -28,7 +33,7 @@
         font-size: 1.25em;
         margin: 0;
         padding-top: 60px;
-        color: #F3C45F;
+        color: #FCDFA2;
     }
 
     body {
@@ -53,14 +58,14 @@
       position: fixed;
       top: 0;
       bottom: 0;
-      margin: auto;
+      margin-top: 7%;
       right: 100px;
     }
     .item--secondary {
       position: fixed;
       top: 0;
       bottom: 0;
-      margin-top: 10%;
+      margin-top: 8%;
       left: 100px;
     }
     #contactIndex {
@@ -69,9 +74,21 @@
     .westPhoto {
       margin-left: 60px;
     }
+    .here {
+      color: #FCDFA2;
+    }
+    .well {
+      margin-top: 0;
+      padding-top: 5px;
+      float: left;
+    }
+    .cirtext {
+      clear: both;
+      margin-top: 0;
+    }
 </style>
-    </head>
-    <body>
+</head>
+<body>
 
     <div class="container" id="nav">
      <span class="navbar-fixed-top" onclick="openNav()"><h4>&#9776; <i>AccessTech.io</i></h4></span>
@@ -86,10 +103,10 @@
                 </div>
 
                 <div>
-                        <h4 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact">HERE !</a></h4>
+                    <h4 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact" class="here">Here</a></h4>
                 </div>                                
-            </div>            
-       </div>
+            </div>
+       </div>            
 <!-- container -->
 <div class="container">
   <div class="row">
@@ -110,12 +127,29 @@
      </div><!-- col-md-5 -->
 
      <div class="col-md-5 item--primary">
-             <img src="images/photo-1443397646383-16272048780e (1).jpeg" alt="boat on beach" class="img-thumbnail item--primary"
-             width="550"
-             height="360" 
-             data-aos="fade-left"
-             data-aos-anchor="#trigger-right">
+       <!-- cirtext -->
+       <div class="cirtext" 
+       data-aos="fade-left"
+       data-aos-anchor="#trigger-right">
+          <div class="well">There is an ongoing debate on the extent to which the writing of programs is an art form, a craft, or an engineering discipline.[3] In general, good programming is considered to be the measured application of all three.  
+              <ul class="ch-grid">
+                <li>
+                  <a href="/contact">
+                    <div class="ch-item">       
+                      <div class="ch-info">
+                        <div class="ch-info-front ch-img-1"></div>
+                        <div class="ch-info-back">
+                          <h3>Click Me</h3>
+                          <p>Please Let AccessTech.io Work For You. Click Me!</p>
+                        </div>  
+                      </div>
+                    </div>  
+                  </a>
+                </li>
+              </ul>Because the discipline covers many areas, which may or may not include critical applications, it is debatable whether licensing is required for the profession as a whole. In most cases, the discipline is self-governed.</div>
+        </div><!-- /cirtext -->
      </div>
+
 
       <div class="item"></div>
       <div class="item" id="trigger-left"></div>
@@ -129,18 +163,18 @@
   </div><!-- /row -->
 </div><!-- /container -->
 
-
-
 @include('partials._footer')
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js" integrity="sha256-T8PcNT5ErjZNHcDr8rQOERjKe3xFxDsChEttV/5Fi9o=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js.map"></script>
+
 <script>
    AOS.init({
  duration: 1000
 }); 
 </script>
+
 <script>
     function openNav() {
         document.getElementById("mySidenav").style.width = "100%";
@@ -150,6 +184,7 @@
         document.getElementById("mySidenav").style.width = "0";
     }
 </script>
+
 <script>
     $(document).ready(function() {
         $('#build').hide().fadeIn(7000);
