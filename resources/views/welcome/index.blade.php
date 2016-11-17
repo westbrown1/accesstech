@@ -146,7 +146,7 @@
                     </div>  
                   </a>
                 </li>
-              </ul>Because the discipline covers many areas, which may or may not include critical applications, it is debatable whether licensing is required for the profession as a whole. In most cases, the discipline is self-governed.</div>
+              </ul>Because the discipline covers many areas, which may or may not include critical applications, it is debatable whether licensing is required for the profession as a whole. In most cases, the discipline is self-governed. (Wikipedia - Programming)</div>
         </div><!-- /cirtext -->
      </div>
 
