@@ -55,10 +55,12 @@
       font-size: 1rem;
     }
     .item--primary {
+      float: left;
       position: fixed;
+      left: 45%;
       top: 0;
       bottom: 0;
-      margin-top: 7%;
+      margin-top: 10%;
       right: 100px;
     }
     .item--secondary {
@@ -74,17 +76,8 @@
     .westPhoto {
       margin-left: 60px;
     }
-    .here {
-      color: #FCDFA2;
-    }
-    .well {
-      margin-top: 0;
-      padding-top: 5px;
-      float: left;
-    }
-    .cirtext {
-      clear: both;
-      margin-top: 0;
+    .clearfix {
+      overflow: auto;
     }
 </style>
 </head>
@@ -126,13 +119,13 @@
          </div><!-- /item--secondary -->
      </div><!-- col-md-5 -->
 
-     <div class="col-md-5 item--primary">
+     <div class="col-md-6 item--primary clearfix">
        <!-- cirtext -->
        <div class="cirtext" 
        data-aos="fade-left"
        data-aos-anchor="#trigger-right">
-          <div class="well">There is an ongoing debate on the extent to which the writing of programs is an art form, a craft, or an engineering discipline.[3] In general, good programming is considered to be the measured application of all three.  
-              <ul class="ch-grid">
+       <p class="around">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat enim reprehenderit molestiae odit id saepe nisi eaque autem pariatur iusto at tempore corporis temporibus quod, iure labore nulla sit rem. Debitis veniam error nobis perferendis totam, quasi, tempore ex similique ducimus quibusdam, repellat aliquam consequuntur vel temporibus consequatur corrupti. Temporibus.</p>                 
+               <ul class="ch-grid">
                 <li>
                   <a href="/contact">
                     <div class="ch-item">       
@@ -146,8 +139,9 @@
                     </div>  
                   </a>
                 </li>
-              </ul>Because the discipline covers many areas, which may or may not include critical applications, it is debatable whether licensing is required for the profession as a whole. In most cases, the discipline is self-governed. (Wikipedia - Programming)</div>
-        </div><!-- /cirtext -->
+              </ul>
+       <p class="around1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa doloremque nostrum accusantium expedita molestias, repudiandae veniam aperiam sapiente! Quisquam, iste quo quam esse voluptates tempore magnam id explicabo ea suscipit delectus quos, adipisci dolores aliquam accusantium fugit aspernatur eius in praesentium eligendi temporibus. Odit maiores quis et, maxime quas?</p>           
+      </div><!-- /cirtext -->
      </div>
 
 

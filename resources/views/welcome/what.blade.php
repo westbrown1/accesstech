@@ -28,6 +28,19 @@
 		padding-top: 30px;
 		margin-top: 30px;
 	}
+	a {
+		color: green;
+	}
+
+	a:hover {
+		color: #85c34a;
+	}
+	#last {
+		margin-top: 450px;
+	}
+	#dev {
+		padding-left: 0;
+	}
 </style>
 </head>
 
@@ -187,13 +200,76 @@
 			</div>			
 		</div>		.
 </div><!-- /container -->
-
 <!-- container -->
-<div class="container">	 
+<div class="container">
+	<div class="row">		
+
+		<h4 class="text-center">Hover over items below.</h4>
+
+		<div class="col-md-3" id="logodiv">
+			<img src="/images/onlinelogomaker-091016-1355-2013.png" class="logo">
+		</div>
+
+		<div class="col-md-7">
+			
+			<nav>
+			  <ul>
+			    <li>style 1
+			      <ul class="drop-menu menu-1">
+			        <li>uno</li>
+			        <li>dos</li>
+			        <li>tres</li>
+			        <li>cuatro</li>
+			        <li>cinco</li>
+			        <li>seis</li>
+			      </ul>
+			    </li>
+			    <li>style 2
+			      <ul class="drop-menu menu-2">
+			        <li>uno</li>
+			        <li>dos</li>
+			        <li>tres</li>
+			        <li>cuatro</li>
+			        <li>cinco</li>
+			        <li>seis</li>
+			      </ul>
+			    </li>
+			    <li>style 3
+			      <ul class="drop-menu menu-3">
+			        <li>uno</li>
+			        <li>dos</li>
+			        <li>tres</li>
+			        <li>cuatro</li>
+			        <li>cinco</li>
+			        <li>seis</li>
+			      </ul>
+			    </li>
+			    <li>style 4
+			      <ul class="drop-menu menu-4">
+			        <li>uno</li>
+			        <li>dos</li>
+			        <li>tres</li>
+			        <li>cuatro</li>
+			        <li>cinco</li>
+			        <li>seis</li>
+			      </ul>
+			    </li>
+			  </ul>
+			</nav>			
+		</div>
+		<div id="dev">
+			<p>Dropdown Menu from DevTips</p>
+		</div>		
+	</div>
+</div><!-- /container -->
+<!-- container -->
+<div class="container" id="last">	 
 	<div class="row secondrow">
 		<div class="col-md-12" id="bottom">
 			<a href="/">Home</a> | 
-			<a href="/pricing">Back To Pricing</a>
+			<a href="/pricing">Back To Pricing</a> |
+			<a href="/about">About Us</a> |
+			<a href="/contact">Contact Us</a>
 		</div>
 	</div>
 </div><!-- /container -->
