@@ -36,7 +36,7 @@
 		color: #85c34a;
 	}
 	#last {
-		margin-top: 450px;
+		margin-top: 400px;
 	}
 	#dev {
 		padding-left: 0;
@@ -127,21 +127,21 @@
 			    <div class="carousel-inner" role="listbox">
 
 			      <div class="item active">
-			      	<img src="/images/photo-1468876132872-ad7696f484e0.jpeg" alt="" height="200" width="300">
+			      	<img src="/images/photo-1468876132872-ad7696f484e0.jpeg" alt="" height="220" width="300">
 			        <div class="carousel-caption">			          
 			          <p>Mountain Scene</p>
 			        </div>
 			      </div>
 
 			      <div class="item">
-			      	<img src="/images/photo-1432057322224-8916b9ed202a.jpeg" alt="" height="200" width="300">
+			      	<img src="/images/photo-1432057322224-8916b9ed202a.jpeg" alt="" height="220" width="300">
 			        <div class="carousel-caption">			          
 			          <p>Mountain Lake</p>
 			        </div>
 			      </div>
 
 			      <div class="item">
-			      	<img src="/images/photo-1433190152045-5a94184895da.jpeg" alt="" height="200" width="300">
+			      	<img src="/images/photo-1433190152045-5a94184895da.jpeg" alt="" height="220" width="300">
 			        <div class="carousel-caption">
 			          <p>Coast</p>			         
 			        </div>
