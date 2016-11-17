@@ -103,7 +103,7 @@
                 </div>
 
                 <div>
-                    <h4 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today, Click <a href="/contact" class="here">Here</a></h4>
+                    <h4 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h4>
                 </div>                                
             </div>
        </div>            
