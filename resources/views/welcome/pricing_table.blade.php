@@ -1,32 +1,40 @@
-@extends('layouts.app')
+<!DOCTYPE html>
+<html lang="en" class="no-js">
 
-@section('title', '| Pricing Table Examples')
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Inspiration for Pricing Tables | Codrops</title>
+    <meta name="description" content="Various styles and inspiration for responsive, flexbox-based HTML pricing tables" />
+    <meta name="keywords" content="pricing table, inspiration, ui, modern, responsive, flexbox, html, component" />
+    <meta name="author" content="Codrops" />
+    <link rel="shortcut icon" href="favicon.ico">
+    <link href='https://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Sahitya:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Playfair+Display:900' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/icons.css" />
+    <link rel="stylesheet" type="text/css" href="css/component.css" />
+    <!--[if IE]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
 
-@section('content')
-        <title>Pricing Tables/title>
-        <meta name="description" content="Various styles and inspiration for responsive, flexbox-based HTML pricing tables" />
-        <meta name="keywords" content="pricing table, inspiration, ui, modern, responsive, flexbox, html, component" />
-        <link rel="shortcut icon" href="favicon.ico">
-        <link href='https://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Sahitya:400,700' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Playfair+Display:900' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700,800' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
-        <link href='https://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" type="text/css" href="css/normalize.css" />
-        <link rel="stylesheet" type="text/css" href="css/demo.css" />
-        <link rel="stylesheet" type="text/css" href="css/icons.css" />
-        <link rel="stylesheet" type="text/css" href="css/component.css" />
-        <!--[if IE]>
-            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
-
+<body>
     <div class="container">
-        <header class="codrops-header" id="codrops">
-            <h1>Pricing Tables</h1>
-            <h3>From Codrops at tympanus.net</h3>
+        <header class="codrops-header">
+            <div class="codrops-links">
+                <a class="codrops-icon codrops-icon--prev" href="http://tympanus.net/Tutorials/AnimatedMenuIcon/" title="Previous Demo"><span>Previous Demo</span></a>
+                <a class="codrops-icon codrops-icon--drop" href="http://tympanus.net/codrops/?p=25536" title="Back to the article"><span>Back to the Codrops article</span></a>
+            </div>
+            <h1><span>Inspiration for</span> Pricing Tables</h1>
         </header>
         <section class="pricing-section">
             <p class="intro">Pricing tables are an essential component on websites where digital services are offered. While there seems to be a common pattern, there are infinite styling possibilities.
@@ -49,7 +57,7 @@
                 </div>
                 <div class="pricing__item">
                     <h3 class="pricing__title">Standard</h3>
-                    <div class="pricing__price"><span class="pricing__currency">$</span>29.90</div>
+                    <div class="pricing__price"><span class="pricing__currency">$</span>29,90</div>
                     <p class="pricing__sentence">Medium business solution</p>
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited calls</li>
@@ -62,7 +70,7 @@
                 </div>
                 <div class="pricing__item">
                     <h3 class="pricing__title">Professional</h3>
-                    <div class="pricing__price"><span class="pricing__currency">$</span>59.90</div>
+                    <div class="pricing__price"><span class="pricing__currency">$</span>59,90</div>
                     <p class="pricing__sentence">Gigantic business solution</p>
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited calls</li>
@@ -92,7 +100,7 @@
                 </div>
                 <div class="pricing__item">
                     <h3 class="pricing__title">Medium</h3>
-                    <div class="pricing__price"><span class="pricing__currency">$</span>29.90</div>
+                    <div class="pricing__price"><span class="pricing__currency">$</span>29,90</div>
                     <p class="pricing__sentence">Medium business solution</p>
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited calls</li>
@@ -105,7 +113,7 @@
                 </div>
                 <div class="pricing__item">
                     <h3 class="pricing__title">Large</h3>
-                    <div class="pricing__price"><span class="pricing__currency">$</span>59.90</div>
+                    <div class="pricing__price"><span class="pricing__currency">$</span>59,90</div>
                     <p class="pricing__sentence">Gigantic business solution</p>
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited calls</li>
@@ -135,7 +143,7 @@
                 </div>
                 <div class="pricing__item">
                     <h3 class="pricing__title">Small business</h3>
-                    <div class="pricing__price"><span class="pricing__currency">$</span>29.90</div>
+                    <div class="pricing__price"><span class="pricing__currency">$</span>29,90</div>
                     <p class="pricing__sentence">Suitable for small businesses with up to 5 employees</p>
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited calls</li>
@@ -148,7 +156,7 @@
                 </div>
                 <div class="pricing__item">
                     <h3 class="pricing__title">Larger business</h3>
-                    <div class="pricing__price"><span class="pricing__currency">$</span>59.90</div>
+                    <div class="pricing__price"><span class="pricing__currency">$</span>59,90</div>
                     <p class="pricing__sentence">Great for large businesses with more than 5 employees</p>
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited calls</li>
@@ -209,10 +217,10 @@
                     <p class="pricing__sentence">Single user license</p>
                     <div class="pricing__price">
                         <span class="pricing__anim pricing__anim--1">
-								<span class="pricing__currency">$</span>9
+                                <span class="pricing__currency">$</span>9
                         </span>
                         <span class="pricing__anim pricing__anim--2">
-								<span class="pricing__period">per year</span>
+                                <span class="pricing__period">per year</span>
                         </span>
                     </div>
                     <ul class="pricing__feature-list">
@@ -228,10 +236,10 @@
                     <p class="pricing__sentence">Up to 5 users</p>
                     <div class="pricing__price">
                         <span class="pricing__anim pricing__anim--1">
-								<span class="pricing__currency">$</span>79
+                                <span class="pricing__currency">$</span>79
                         </span>
                         <span class="pricing__anim pricing__anim--2">
-								<span class="pricing__period">per year</span>
+                                <span class="pricing__period">per year</span>
                         </span>
                     </div>
                     <ul class="pricing__feature-list">
@@ -247,10 +255,10 @@
                     <p class="pricing__sentence">Unlimited users</p>
                     <div class="pricing__price">
                         <span class="pricing__anim pricing__anim--1">
-								<span class="pricing__currency">$</span>499
+                                <span class="pricing__currency">$</span>499
                         </span>
                         <span class="pricing__anim pricing__anim--2">
-								<span class="pricing__period">per year</span>
+                                <span class="pricing__period">per year</span>
                         </span>
                     </div>
                     <ul class="pricing__feature-list">
@@ -337,8 +345,8 @@
                     <button class="pricing__action">Choose plan</button>
                 </div>
             </div>
-            <p>Inspired by <strong>Frank Body</strong></p>
-            <p><strong>Vintage vector</strong> designed by Vilmosv - Freepik.com</p>
+            <p>Inspired by <strong><a href="https://frankbody.com/">Frank Body</a></strong></p>
+            <p><strong><a href="http://www.freepik.com/free-photos-vectors/vintage">Vintage vector</a></strong> designed by Vilmosv - Freepik.com</p>
         </section>
         <section class="pricing-section bg-7">
             <h2 class="pricing-section__title">Norbu</h2>
@@ -502,13 +510,13 @@
                     <div class="pricing__deco">
                         <svg class="pricing__deco-img" version="1.1" id="Layer_1" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="100px" viewBox="0 0 300 100" enable-background="new 0 0 300 100" xml:space="preserve">
                             <path class="deco-layer deco-layer--1" opacity="0.6" fill="#FFFFFF" d="M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729
-	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z" />
+    c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z" />
                             <path class="deco-layer deco-layer--2" opacity="0.6" fill="#FFFFFF" d="M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729
-	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z" />
+    c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z" />
                             <path class="deco-layer deco-layer--3" opacity="0.7" fill="#FFFFFF" d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716
-	H42.401L43.415,98.342z" />
+    H42.401L43.415,98.342z" />
                             <path class="deco-layer deco-layer--4" fill="#FFFFFF" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428
-	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" />
+    c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" />
                         </svg>
                         <div class="pricing__price"><span class="pricing__currency">$</span>29<span class="pricing__period">/ mo</span></div>
                         <h3 class="pricing__title">Freelance</h3>
@@ -524,13 +532,13 @@
                     <div class="pricing__deco">
                         <svg class="pricing__deco-img" version="1.1" id="Layer_1" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="100px" viewBox="0 0 300 100" enable-background="new 0 0 300 100" xml:space="preserve">
                             <path class="deco-layer deco-layer--1" opacity="0.6" fill="#FFFFFF" d="M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729
-	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z" />
+    c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z" />
                             <path class="deco-layer deco-layer--2" opacity="0.6" fill="#FFFFFF" d="M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729
-	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z" />
+    c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z" />
                             <path class="deco-layer deco-layer--3" opacity="0.7" fill="#FFFFFF" d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716
-	H42.401L43.415,98.342z" />
+    H42.401L43.415,98.342z" />
                             <path class="deco-layer deco-layer--4" fill="#FFFFFF" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428
-	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" />
+    c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" />
                         </svg>
                         <div class="pricing__price"><span class="pricing__currency">$</span>59<span class="pricing__period">/ mo</span></div>
                         <h3 class="pricing__title">Business</h3>
@@ -546,13 +554,13 @@
                     <div class="pricing__deco">
                         <svg class="pricing__deco-img" version="1.1" id="Layer_1" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="100px" viewBox="0 0 300 100" enable-background="new 0 0 300 100" xml:space="preserve">
                             <path class="deco-layer deco-layer--1" opacity="0.6" fill="#FFFFFF" d="M30.913,43.944c0,0,42.911-34.464,87.51-14.191c77.31,35.14,113.304-1.952,146.638-4.729
-	c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z" />
+    c48.654-4.056,69.94,16.218,69.94,16.218v54.396H30.913V43.944z" />
                             <path class="deco-layer deco-layer--2" opacity="0.6" fill="#FFFFFF" d="M-35.667,44.628c0,0,42.91-34.463,87.51-14.191c77.31,35.141,113.304-1.952,146.639-4.729
-	c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z" />
+    c48.653-4.055,69.939,16.218,69.939,16.218v54.396H-35.667V44.628z" />
                             <path class="deco-layer deco-layer--3" opacity="0.7" fill="#FFFFFF" d="M43.415,98.342c0,0,48.283-68.927,109.133-68.927c65.886,0,97.983,67.914,97.983,67.914v3.716
-	H42.401L43.415,98.342z" />
+    H42.401L43.415,98.342z" />
                             <path class="deco-layer deco-layer--4" fill="#FFFFFF" d="M-34.667,62.998c0,0,56-45.667,120.316-27.839C167.484,57.842,197,41.332,232.286,30.428
-	c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" />
+    c53.07-16.399,104.047,36.903,104.047,36.903l1.333,36.667l-372-2.954L-34.667,62.998z" />
                         </svg>
                         <div class="pricing__price"><span class="pricing__currency">$</span>99<span class="pricing__period">/ mo</span></div>
                         <h3 class="pricing__title">Enterprise</h3>
@@ -565,8 +573,22 @@
                     <button class="pricing__action">Choose plan</button>
                 </div>
             </div>
-            <p>Based on Daily Design 007 - Pricing Table by Mackenzie Child </p>
+            <p>Based on <a href="https://dribbble.com/shots/2353583-Daily-Design-007-Pricing-Table">Daily Design 007 - Pricing Table</a> by Mackenzie Child </p>
+        </section>
+        <!-- Related demos -->
+        <section class="content content--related">
+            <p>If you enjoyed this demo you might also like:</p>
+            <a class="media-item" href="http://tympanus.net/Development/CheckoutConcepts/">
+                <img class="media-item__img" src="img/related/CheckoutConcepts.png">
+                <h3 class="media-item__title">Checkout Concepts</h3>
+            </a>
+            <a class="media-item" href="http://tympanus.net/Development/ArrowNavigationStyles/">
+                <img class="media-item__img" src="img/related/ArrowNavigationEffects.png">
+                <h3 class="media-item__title">Arrow Navigation Styles</h3>
+            </a>
         </section>
     </div>
     <!-- /container -->
-    @stop
+</body>
+
+</html>
