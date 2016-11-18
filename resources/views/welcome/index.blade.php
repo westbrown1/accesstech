@@ -185,9 +185,9 @@
 <script>
     $(document).ready(function() {
         $('#build').hide().fadeIn(7000);
-        $('#build').fadeOut(25000);
+        $('#build').fadeOut(30000);
         $('#builder').hide().fadeIn(7000);
-        $('#builder').fadeOut(25000);
+        $('#builder').fadeOut(30000);
     });
 </script>
 
