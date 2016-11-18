@@ -29,6 +29,7 @@
 </head>
 
 <body>
+@include('partials._head')
 @include('partials._nav')
     <div class="container">
         <header class="codrops-header">
