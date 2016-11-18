@@ -130,18 +130,20 @@
        data-aos="fade-left"
        data-aos-anchor="#trigger-right">
        <p class="around">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat enim reprehenderit molestiae odit id saepe nisi eaque autem pariatur iusto at tempore corporis temporibus quod, iure labore nulla sit rem. Debitis veniam error nobis perferendis totam, quasi, tempore ex similique ducimus quibusdam, repellat aliquam consequuntur vel temporibus consequatur corrupti. Temporibus.</p>                 
-               <ul class="ch-grid">
+              <ul class="ch-grid">
                 <li>
                   <a href="/contact">
-                    <div class="ch-item">       
-                      <div class="ch-info">
-                        <div class="ch-info-front ch-img-1"></div>
-                        <div class="ch-info-back">
-                          <h3>Click Me</h3>
-                          <p>Please Let AccessTech.io Work For You. Click Me!</p>
-                        </div>  
+                    <div class="ch-item ch-img-3">
+                      <div class="ch-info-wrap">
+                        <div class="ch-info">
+                          <div class="ch-info-front ch-img-3"></div>
+                          <div class="ch-info-back">
+                            <h3>Become A Leader</h3>
+                            <p>by Dustin Leer View on Dribbble</p>
+                          </div>
+                        </div>
                       </div>
-                    </div>  
+                    </div>
                   </a>
                 </li>
               </ul>
