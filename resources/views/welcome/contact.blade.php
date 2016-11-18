@@ -5,7 +5,13 @@
 @section('content')
 <style>
 	#myPanel {
+		margin-top: 100px;
+	}
+	#googleMap {
 		margin-top: 60px;
+	}
+	.bottom {
+		padding-bottom: 50px;
 	}
 </style>
 <!-- container -->
@@ -26,13 +32,12 @@
 			<a href="/pricing">Back to Pricing</a><br>
 			<a href="/index">Back to More Fun</a><br><br>
 			<a href="https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a> &nbsp;  
-			<a href="https://plus.google.com/109928388980385474816/photos"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i>
-</a>			
+			<a href="https://plus.google.com/109928388980385474816/photos"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a>			
 		</div><!-- / west-->		
 	</div>
 	<div class="col-md-5 text-center">
 		<div id="googleMap" style="width:500px;height:500px;"></div>		
-		<h4>Wilmington, NC  USA</h4>
+		<h4 class="bottom">Wilmington, NC  USA</h4>
 	</div>
   </div>
 </div><!-- /container -->
