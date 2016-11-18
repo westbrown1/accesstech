@@ -28,6 +28,7 @@
 </head>
 
 <body>
+@include('partials._nav')
     <div class="container">
         <header class="codrops-header">
 
@@ -578,6 +579,7 @@
         </section>
     </div>
     <!-- /container -->
+    @include('partials._footer')
 </body>
 
 </html>
