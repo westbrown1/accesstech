@@ -116,7 +116,7 @@
               <img src="images/photo.jpg" alt="west" width="200" height="200"><br><br>
               <p class="text-center">West Brown</p>
               <p class="text-center">Cell: 910-200-1391</p>
-              <p class="text-center"><a href="mailto:lawsonsdad@gmail.com">Email West</a></p>
+              <p class="text-center"><a href="mailto:lawsonsdad@gmail.com" style="color: #333">Email West</a></p>
            </div><!-- /img-thumbnail -->
          </div><!-- /item--secondary -->
      </div><!-- col-md-5 -->
@@ -160,10 +160,6 @@
       <div class="item"></div>
       <div class="item"></div>
       <div class="item"></div>
-
-
-
-
 
 @include('partials._footer')
 
