@@ -44,78 +44,75 @@
 </style>
 
 </head>
-
-	<!-- container -->
-	<div class="container">
-		 <div class="row">
-			<!-- col-md-12 -->
-			<div class="col-md-12">
-				<h4 id="what">Let's Have Some Fun!</h4> 
-			</div><!-- /col-md-12 -->		
-		</div>	
-		<div class="row">
-		 	<div class="col-md-12">	
-				<header>			
-					<h1 class="text-center" id="circlehead"><strong>Circle</strong> Hover Effects</h1>
-					<h2 class="text-center">Nice hover effects on circles (These are links) with CSS Transitions</h2>
-					
-					<div class="support-note"><!-- let's check browser support with modernizr -->
-						<!--span class="no-cssanimations">CSS animations are not supported in your browser</span-->
-						<span class="no-csstransforms">CSS transforms are not supported in your browser</span>
-						<span class="no-csstransforms3d">CSS 3D transforms are not supported in your browser</span>
-						<span class="no-csstransitions">CSS transitions are not supported in your browser</span>
-						<span class="note-ie">Sorry, only modern browsers.</span>
-					</div>				
-				</header>
+	<div class="row">
+		<!-- col-md-12 -->
+		<div class="col-md-12">
+			<h4 id="what">Let's Have Some Fun!</h4> 
+		</div><!-- /col-md-12 -->		
+	</div>	
+	<div class="row">
+	 	<div class="col-md-12">	
+			<header>			
+				<h1 class="text-center" id="circlehead"><strong>Circle</strong> Hover Effects</h1>
+				<h2 class="text-center">Nice hover effects on circles (These are links) with CSS Transitions</h2>
 				
-				<section class="main">			
-					<ul class="ch-grid">
-						<li>
-							<a href="index">
-								<div class="ch-item">				
-									<div class="ch-info">
-										<div class="ch-info-front ch-img-1"></div>
-										<div class="ch-info-back">
-											<h3>Hover</h3>
-											<p>We Want All Your Business, Click For More</p>
-										</div>	
+				<div class="support-note"><!-- let's check browser support with modernizr -->
+					<!--span class="no-cssanimations">CSS animations are not supported in your browser</span-->
+					<span class="no-csstransforms">CSS transforms are not supported in your browser</span>
+					<span class="no-csstransforms3d">CSS 3D transforms are not supported in your browser</span>
+					<span class="no-csstransitions">CSS transitions are not supported in your browser</span>
+					<span class="note-ie">Sorry, only modern browsers.</span>
+				</div>				
+			</header>
+			
+			<section class="main">			
+				<ul class="ch-grid">
+					<li>
+						<a href="index">
+							<div class="ch-item">				
+								<div class="ch-info">
+									<div class="ch-info-front ch-img-1"></div>
+									<div class="ch-info-back">
+										<h3>Hover</h3>
+										<p>We Want All Your Business, Click For More</p>
+									</div>	
+								</div>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a href="index">
+							<div class="ch-item">
+								<div class="ch-info">
+									<div class="ch-info-front ch-img-2"></div>
+									<div class="ch-info-back">
+										<h3>Over</h3>
+										<p>Click Me To See More</p>
 									</div>
 								</div>
-							</a>
-						</li>
-						<li>
-							<a href="index">
-								<div class="ch-item">
-									<div class="ch-info">
-										<div class="ch-info-front ch-img-2"></div>
-										<div class="ch-info-back">
-											<h3>Over</h3>
-											<p>Click Me To See More</p>
-										</div>
+							</div>
+						</a>
+					</li>
+					<li>
+						<a href="index">
+							<div class="ch-item">
+								<div class="ch-info">
+									<div class="ch-info-front ch-img-3"></div>
+									<div class="ch-info-back">
+										<h3>Me</h3>
+										<p>Click Me!</p>
 									</div>
 								</div>
-							</a>
-						</li>
-						<li>
-							<a href="index">
-								<div class="ch-item">
-									<div class="ch-info">
-										<div class="ch-info-front ch-img-3"></div>
-										<div class="ch-info-back">
-											<h3>Me</h3>
-											<p>Click Me!</p>
-										</div>
-									</div>
-								</div>
-							</a>
-						</li>
-					</ul>				
-				</section>    			
-			</div>
-		</div>		 
-	 
-		 <div class="row secondrow">
-		 	<div class="col-md-4">
+							</div>
+						</a>
+					</li>
+				</ul>				
+			</section>    			
+		</div>
+	</div>		 
+ 
+		<div class="row secondrow">
+		 	<div class="col-md-4 col-md-offset-2">
 		 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
 				    <!-- Indicators -->
 				    <ol class="carousel-indicators">
@@ -124,35 +121,35 @@
 				      <li data-target="#myCarousel" data-slide-to="2"></li>
 				    </ol>
 
-			    <!-- Wrapper for slides -->
-			    <div class="carousel-inner" role="listbox">
+				    <!-- Wrapper for slides -->
+				    <div class="carousel-inner" role="listbox">
 
-			      <div class="item active">
-			      	<img src="/images/photo-1468876132872-ad7696f484e0.jpeg" alt="" height="220" width="300">
-			        <div class="carousel-caption">			          
-			          <p>Mountain Scene</p>
-			        </div>
-			      </div>
+				      <div class="item active">
+				      	<img src="/images/photo-1468876132872-ad7696f484e0.jpeg" alt="" height="220" width="300">
+				        <div class="carousel-caption">			          
+				          <p>Mountain Scene</p>
+				        </div>
+				      </div>
 
-			      <div class="item">
-			      	<img src="/images/photo-1432057322224-8916b9ed202a.jpeg" alt="" height="220" width="300">
-			        <div class="carousel-caption">			          
-			          <p>Mountain Lake</p>
-			        </div>
-			      </div>
+				      <div class="item">
+				      	<img src="/images/photo-1432057322224-8916b9ed202a.jpeg" alt="" height="220" width="300">
+				        <div class="carousel-caption">			          
+				          <p>Mountain Lake</p>
+				        </div>
+				      </div>
 
-			      <div class="item">
-			      	<img src="/images/photo-1433190152045-5a94184895da.jpeg" alt="" height="220" width="300">
-			        <div class="carousel-caption">
-			          <p>Coast</p>			         
-			        </div>
-			      </div>
-			  		<p class="text-center">Carousel</p>
-			    </div>			  
+				      <div class="item">
+				      	<img src="/images/photo-1433190152045-5a94184895da.jpeg" alt="" height="220" width="300">
+				        <div class="carousel-caption">
+				          <p>Coast</p>			         
+				        </div>
+				      </div>
+				  		<p class="text-center">Carousel</p>
+				    </div>			  
+				</div>
 			</div>
-		</div>
 	
-			<div class="col-md-7">
+			<div class="col-md-4">
 				<center><img src="https://hd.unsplash.com/uploads/14135798609283698b7f3/a1364128" alt="bird in flight" id="myImg" height="200" width="300">			
 				<!-- The Modal -->
 				<div id="myModal" class="modal">
@@ -163,8 +160,9 @@
 				<p>click on the image (modal)</p></center>			 
 				</div>
 			</div>
+		</div>
 		<div class="row secondrow">
-			<div class="col-md-5">
+			<div class="col-md-4 col-md-offset-2">
 				<h4>Animated Accordion</h4>
 
 				<button class="accordion">Section 1</button>
@@ -183,35 +181,32 @@
 				</div>
 
 			</div>
-				<div class="col-md-6">
-					<div>
-						<img src="/images/basketball-309539_640.png" alt="" class="basketball">					  
-					</div>		
-					
-					<div>
-						<img src="/images/B2Ped.png" alt="" id="pedestal" height="150" width="100"><br>
-						<h5>hover over the basketball</h5>
-					</div>
-				</div>				
+			<div class="col-md-4">
+				<div>
+					<img src="/images/basketball-309539_640.png" alt="" class="basketball">					  
+				</div>		
+				
+				<div>
+					<img src="/images/B2Ped.png" alt="" id="pedestal" height="150" width="100"><br>
+					<h5>hover over the basketball</h5>
+				</div>							
 			</div>				
 		</div>
 		<div class="row secondrow" id="bottom1">
-			<div class="col-md-3">
+			<div class="col-md-3 col-md-offset-1">
 				<img src="/images/google-chrome-icon-2.png" alt="google chrome icon" class="google"><h5 id="googtext">hover over Google Chrome icon</h5>
 			</div>			
-		</div>		.
-</div><!-- /container -->
-<!-- container -->
-<div class="container">
-	<div class="row">		
+		</div>	.
+
+	<div class="row secondrow">		
 
 		<h4 class="text-center">Hover over items below.</h4>
 
-		<div class="col-md-3" id="logodiv">
+		<div class="col-md-4" id="logodiv">
 			<img src="/images/onlinelogomaker-091016-1355-2013.png" class="logo">
 		</div>
 
-		<div class="col-md-7">
+		<div class="col-md-6">
 			
 			<nav>
 			  <ul>
@@ -258,9 +253,6 @@
 			  </ul>
 			</nav>			
 		</div>
-		<div id="dev">
-			<p>Dropdown Menu from DevTips</p>
-		</div>		
 	</div>
 </div><!-- /container -->
 <!-- container -->
@@ -273,7 +265,6 @@
 			<a href="/contact">Contact Us</a>
 		</div>
 	</div>
-</div><!-- /container -->
 
 <script>
 var acc = document.getElementsByClassName("accordion");
