@@ -121,7 +121,8 @@
            </div><!-- /img-thumbnail -->
          </div><!-- /item--secondary -->
      </div><!-- col-md-5 -->
-
+    </div>
+    <div class="row">
      <div class="col-md-6 item--primary clearfix">
        <!-- cirtext -->
        <div class="cirtext" 
@@ -146,7 +147,7 @@
        <p class="around1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa doloremque nostrum accusantium expedita molestias, repudiandae veniam aperiam sapiente! Quisquam, iste quo quam esse voluptates tempore magnam id explicabo ea suscipit delectus quos, adipisci dolores aliquam accusantium fugit aspernatur eius in praesentium eligendi temporibus. Odit maiores quis et, maxime quas?</p>           
       </div><!-- /cirtext -->
      </div>
-
+    </div>
 
       <div class="item"></div>
       <div class="item" id="trigger-left"></div>
