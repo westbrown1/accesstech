@@ -30,8 +30,9 @@
 
 <body>
 @include('partials._head')
-@include('partials._nav')
+
     <div class="container">
+    @include('partials._nav')
         <header class="codrops-header">
 
             <h1><span>Inspiration for</span> Pricing Tables by Codrops</h1>
