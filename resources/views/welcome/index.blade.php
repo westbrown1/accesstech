@@ -19,7 +19,9 @@
         <link rel="stylesheet" type="text/css" href="css/circle/common.css" />
         <link rel="stylesheet" type="text/css" href="css/circle/style7.css" />
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css' />
+
         <script type="text/javascript" src="js/circle/modernizr.custom.79639.js"></script>
+
         <!--[if IE]>
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>            
         <![endif]-->
@@ -33,7 +35,7 @@
         font-size: 1.25em;
         margin: 0;
         padding-top: 60px;
-        color: #FCDFA2;
+        color: #FAB92C;
     }
 
     body {
@@ -79,14 +81,15 @@
     .clearfix {
       overflow: auto;
     }
+
+    a {
+      color: white;
+    }
 </style>
 </head>
 <body>
 
-    <div class="container" id="nav">
-     <span class="navbar-fixed-top" onclick="openNav()"><h4>&#9776; <i>AccessTech.io</i></h4></span>
-     @include('partials._nav')
-    </div>      
+    @include('partials._nav')    
 
        <div class="demo-2">
             <div class="content">                
@@ -96,7 +99,7 @@
                 </div>
 
                 <div>
-                    <h4 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h4>
+                    <h3 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h3>
                 </div>                                
             </div>
        </div>            
@@ -159,7 +162,7 @@
 
 @include('partials._footer')
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+@include('partials._js')
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js" integrity="sha256-T8PcNT5ErjZNHcDr8rQOERjKe3xFxDsChEttV/5Fi9o=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js.map"></script>
 

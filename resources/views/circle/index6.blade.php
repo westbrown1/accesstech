@@ -23,10 +23,9 @@
 </head>
 <body>
     <div class="container">
-    <div id="nav">
-     <span class="navbar-fixed-top" onclick="openNav()"><h4>&#9776; <i>AccessTech.io</i></h4></span>
+
      @include('partials._nav')
-    </div>
+
 		
 		<header>
 		

@@ -42,6 +42,7 @@
 		padding-left: 0;
 	}
 </style>
+
 </head>
 
 	<!-- container -->
@@ -112,7 +113,7 @@
 				</section>    			
 			</div>
 		</div>		 
-
+	 
 		 <div class="row secondrow">
 		 	<div class="col-md-4">
 		 		<div id="myCarousel" class="carousel slide" data-ride="carousel">
