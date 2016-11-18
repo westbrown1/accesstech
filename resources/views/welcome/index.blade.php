@@ -15,12 +15,7 @@
         <link href='http://fonts.googleapis.com/css?family=Raleway:200,400,800|Clicker+Script' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css" integrity="sha256-T2BVEQmlUCoftgGysWhy/vUjLn+SusHDt3mnXoGdPxY=" crossorigin="anonymous" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css.map">
-        <link rel="stylesheet" type="text/css" href="css/circle/demo.css" />
-        <link rel="stylesheet" type="text/css" href="css/circle/common.css" />
-        <link rel="stylesheet" type="text/css" href="css/circle/style7.css" />
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css' />
-
-        <script type="text/javascript" src="js/circle/modernizr.custom.79639.js"></script>
+        @include('circle.index4')
 
         <!--[if IE]>
             <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>            
@@ -138,7 +133,7 @@
                         <div class="ch-info">
                           <div class="ch-info-front ch-img-3"></div>
                           <div class="ch-info-back">
-                            <h3>Become A Leader</h3>
+                            <h3>Contact AccessTech.io Today</h3>
                             <p>by Dustin Leer View on Dribbble</p>
                           </div>
                         </div>
