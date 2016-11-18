@@ -128,8 +128,7 @@
        <div class="cirtext" 
        data-aos="fade-left"
        data-aos-anchor="#trigger-right">
-       <p class="around">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat enim reprehenderit molestiae odit id saepe nisi eaque autem pariatur iusto at tempore corporis temporibus quod, iure labore nulla sit rem. Debitis veniam error nobis perferendis totam, quasi, tempore ex similique ducimus quibusdam, repellat aliquam consequuntur vel temporibus consequatur corrupti. Temporibus.</p>                 
-              <ul class="ch-grid">
+               <ul class="ch-grid">
                 <li>
                   <a href="/contact">
                     <div class="ch-item ch-img-3">
@@ -145,8 +144,7 @@
                     </div>
                   </a>
                 </li>
-              </ul>
-       <p class="around1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ipsa doloremque nostrum accusantium expedita molestias, repudiandae veniam aperiam sapiente! Quisquam, iste quo quam esse voluptates tempore magnam id explicabo ea suscipit delectus quos, adipisci dolores aliquam accusantium fugit aspernatur eius in praesentium eligendi temporibus. Odit maiores quis et, maxime quas?</p>           
+              </ul>       
       </div><!-- /cirtext -->
      </div>
     </div>
