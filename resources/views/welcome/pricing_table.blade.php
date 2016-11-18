@@ -583,6 +583,7 @@
     </div>
     <!-- /container -->
     @include('partials._footer')
+    @include('partials._js')
 </body>
 
 </html>
