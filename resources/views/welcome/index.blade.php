@@ -152,8 +152,7 @@
       </div><!-- /cirtext -->
      </div>
     </div>
-    </div><!-- /row -->
-  </div>
+
 
       <div class="item"></div>
       <div class="item" id="trigger-left"></div>
@@ -165,6 +164,8 @@
       <div class="item"></div>
       <div class="item"></div>
 
+    </div><!-- /row -->
+  </div>
 
 
 @include('partials._footer')
