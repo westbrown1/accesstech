@@ -11,6 +11,9 @@
   .icon-bar {
     background-color: #337ab7;
   }
+  .navbar-collapse.in {
+    background-color: #b6b6b6;
+  }
 </style>
 <!-- container -->
 <div class="container">

@@ -20,66 +20,67 @@
 	</style>
 </head>
 <body>
-    <div class="container">
+  	     @include('partials._nav')
+  <div class="container">
 
-     @include('partials._nav')
-		<header>
-		
-			<h1><strong>Circle</strong> Hover Effects</h1>
-			<h2>Nice hover effects on circles with CSS Transitions (Great for linking pages!)</h2>
+			<header>
 			
-			<nav class="codrops-demos">
-				<a class="current-demo" href="/index">Demo 1</a>
-				<a href="/index2">Demo 2</a>
-				<a href="/index3">Demo 3</a>
-				<a href="/index4">Demo 4</a>
-				<a href="/index5">Demo 5</a>
-				<a href="/index6">Demo 6</a>
-				<a href="/index7">Demo 7</a>
-			</nav>
+				<h1><strong>Circle</strong> Hover Effects</h1>
+				<h2>Nice hover effects on circles with CSS Transitions (Great for linking pages!)</h2>
+				
+				<nav class="codrops-demos">
+					<a class="current-demo" href="/index">Demo 1</a>
+					<a href="/index2">Demo 2</a>
+					<a href="/index3">Demo 3</a>
+					<a href="/index4">Demo 4</a>
+					<a href="/index5">Demo 5</a>
+					<a href="/index6">Demo 6</a>
+					<a href="/index7">Demo 7</a>
+				</nav>
+				
+				<div class="support-note"><!-- let's check browser support with modernizr -->
+					<!--span class="no-cssanimations">CSS animations are not supported in your browser</span-->
+					<span class="no-csstransforms">CSS transforms are not supported in your browser</span>
+					<!--span class="no-csstransforms3d">CSS 3D transforms are not supported in your browser</span-->
+					<span class="no-csstransitions">CSS transitions are not supported in your browser</span>
+					<span class="note-ie">Sorry, only modern browsers.</span>
+				</div>
+				
+			</header>
 			
-			<div class="support-note"><!-- let's check browser support with modernizr -->
-				<!--span class="no-cssanimations">CSS animations are not supported in your browser</span-->
-				<span class="no-csstransforms">CSS transforms are not supported in your browser</span>
-				<!--span class="no-csstransforms3d">CSS 3D transforms are not supported in your browser</span-->
-				<span class="no-csstransitions">CSS transitions are not supported in your browser</span>
-				<span class="note-ie">Sorry, only modern browsers.</span>
-			</div>
+			<section class="main">
 			
-		</header>
-		
-		<section class="main">
-		
-			<ul class="ch-grid">
-				<li>
-					<div class="ch-item ch-img-1">
-						<div class="ch-info">
-							<h3>Create With Us</h3>
-							<p>We Work Hard</a></p>
+				<ul class="ch-grid">
+					<li>
+						<div class="ch-item ch-img-1">
+							<div class="ch-info">
+								<h3>Create With Us</h3>
+								<p>We Work Hard</a></p>
+							</div>
 						</div>
-					</div>
-				</li>
-				<li>
-					<div class="ch-item ch-img-2">
-						<div class="ch-info">
-							<h3>Make No Mistake</h3>
-							<p>We Work Very Fast</a></p>
+					</li>
+					<li>
+						<div class="ch-item ch-img-2">
+							<div class="ch-info">
+								<h3>Make No Mistake</h3>
+								<p>We Work Very Fast</a></p>
+							</div>
 						</div>
-					</div>
-				</li>
-				<li>
-					<div class="ch-item ch-img-3">
-						<div class="ch-info">
-							<h3>Made In The USA</h3>
-							<p>Why Not Go For It</p>
+					</li>
+					<li>
+						<div class="ch-item ch-img-3">
+							<div class="ch-info">
+								<h3>Made In The USA</h3>
+								<p>Why Not Go For It</p>
+							</div>
 						</div>
-					</div>
-				</li>
-			</ul>
-			
-		</section>
+					</li>
+				</ul>
+				
+			</section>
 
-    </div>
+	    </div>
+
 
     @include('partials._footer')   
 
