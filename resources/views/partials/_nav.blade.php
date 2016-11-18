@@ -38,7 +38,7 @@
           <ul class="dropdown-menu">            
             <li><a href="/buttons">Cool Button Styles</a></li>
             <li><a href="/parallax">Parallax Scrolling</a></li>
-            <li><a href="/pricing-table">Pricing Tables</a></li>
+            <li><a href="/pricing_table">Pricing Tables</a></li>
             <li><a href="/dribbble">Load Effect</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="/what">More Stuff</a></li>
