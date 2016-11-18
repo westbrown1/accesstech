@@ -122,6 +122,10 @@
          </div><!-- /item--secondary -->
      </div><!-- col-md-5 -->
     </div>
+  </div>
+  <!-- container -->
+  <div class="container">
+     
     <div class="row">
      <div class="col-md-6 item--primary clearfix">
        <!-- cirtext -->
@@ -148,6 +152,8 @@
       </div><!-- /cirtext -->
      </div>
     </div>
+    </div><!-- /row -->
+  </div>
 
       <div class="item"></div>
       <div class="item" id="trigger-left"></div>
@@ -158,8 +164,8 @@
       <div class="item"></div>
       <div class="item"></div>
       <div class="item"></div>
-  </div><!-- /row -->
-</div><!-- /container -->
+
+
 
 @include('partials._footer')
 
