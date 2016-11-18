@@ -36,7 +36,7 @@
         <div class="pricing__item">
             <div class="icon icon--bicycle"></div>
             <h3 class="pricing__title">Transparent Pricing</h3>
-            <div class="pricing__price"><span class="pricing__currency">$</span>40<span class="pricing__period">/ hour</span></div>
+            <div class="pricing__price"><span class="pricing__currency">$</span>50<span class="pricing__period">/ hour</span></div>
             <ul class="pricing__feature-list">
                 <li class="pricing__feature">We do not charge</li>
                 <li class="pricing__feature">to fix our mistakes</li>
@@ -48,7 +48,7 @@
         <div class="pricing__item">
             <div class="icon icon--bus"></div>
             <h3 class="pricing__title">Transparent Pricing</h3>
-            <div class="pricing__price"><span class="pricing__currency">$</span>40<span class="pricing__period">/ hour</span></div>
+            <div class="pricing__price"><span class="pricing__currency">$</span>50<span class="pricing__period">/ hour</span></div>
             <ul class="pricing__feature-list">
                 <li class="pricing__feature">We do not charge</li>
                 <li class="pricing__feature">to fix our mistakes</li>
@@ -60,7 +60,7 @@
         <div class="pricing__item">
             <div class="icon icon--train"></div>
             <h3 class="pricing__title">Transparent Pricing</h3>
-            <div class="pricing__price"><span class="pricing__currency">$</span>40<span class="pricing__period">/ hour</span></div>
+            <div class="pricing__price"><span class="pricing__currency">$</span>50<span class="pricing__period">/ hour</span></div>
             <ul class="pricing__feature-list">
                 <li class="pricing__feature">We do not charge</li>
                 <li class="pricing__feature">to fix our mistakes</li>

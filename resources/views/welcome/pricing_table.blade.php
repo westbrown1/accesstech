@@ -58,7 +58,7 @@
                 </div>
                 <div class="pricing__item">
                     <h3 class="pricing__title">Standard</h3>
-                    <div class="pricing__price"><span class="pricing__currency">$</span>29,90</div>
+                    <div class="pricing__price"><span class="pricing__currency">$</span>29.90</div>
                     <p class="pricing__sentence">Medium business solution</p>
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited calls</li>
@@ -71,7 +71,7 @@
                 </div>
                 <div class="pricing__item">
                     <h3 class="pricing__title">Professional</h3>
-                    <div class="pricing__price"><span class="pricing__currency">$</span>59,90</div>
+                    <div class="pricing__price"><span class="pricing__currency">$</span>59.90</div>
                     <p class="pricing__sentence">Gigantic business solution</p>
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited calls</li>
@@ -101,7 +101,7 @@
                 </div>
                 <div class="pricing__item">
                     <h3 class="pricing__title">Medium</h3>
-                    <div class="pricing__price"><span class="pricing__currency">$</span>29,90</div>
+                    <div class="pricing__price"><span class="pricing__currency">$</span>29.90</div>
                     <p class="pricing__sentence">Medium business solution</p>
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited calls</li>
@@ -114,7 +114,7 @@
                 </div>
                 <div class="pricing__item">
                     <h3 class="pricing__title">Large</h3>
-                    <div class="pricing__price"><span class="pricing__currency">$</span>59,90</div>
+                    <div class="pricing__price"><span class="pricing__currency">$</span>59.90</div>
                     <p class="pricing__sentence">Gigantic business solution</p>
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited calls</li>
@@ -144,7 +144,7 @@
                 </div>
                 <div class="pricing__item">
                     <h3 class="pricing__title">Small business</h3>
-                    <div class="pricing__price"><span class="pricing__currency">$</span>29,90</div>
+                    <div class="pricing__price"><span class="pricing__currency">$</span>29.90</div>
                     <p class="pricing__sentence">Suitable for small businesses with up to 5 employees</p>
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited calls</li>
@@ -157,7 +157,7 @@
                 </div>
                 <div class="pricing__item">
                     <h3 class="pricing__title">Larger business</h3>
-                    <div class="pricing__price"><span class="pricing__currency">$</span>59,90</div>
+                    <div class="pricing__price"><span class="pricing__currency">$</span>59.90</div>
                     <p class="pricing__sentence">Great for large businesses with more than 5 employees</p>
                     <ul class="pricing__feature-list">
                         <li class="pricing__feature">Unlimited calls</li>
