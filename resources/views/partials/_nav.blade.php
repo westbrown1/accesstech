@@ -6,10 +6,10 @@
     margin-top: 30px;
   }
   .navbar-toggle {
-    border: 1px solid white;
+    border: 1px solid #337ab7;
   }
   .icon-bar {
-    background-color: white;
+    background-color: #337ab7;
   }
 </style>
 <!-- container -->
