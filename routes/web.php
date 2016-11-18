@@ -23,7 +23,7 @@ Route::get('solution', 'WelcomeController@solution');
 Route::get('what', 'WelcomeController@what');
 Route::get('dribbble', 'WelcomeController@dribble');
 Route::get('part2', 'WelcomeController@aviator');
-Route::get('pricing-table', 'WelcomeController@price_table');
+Route::get('pricing_table', 'WelcomeController@price_table');
 Route::get('buttons', 'WelcomeController@buttons');
 Route::get('parallax', 'WelcomeController@parallax');
 
