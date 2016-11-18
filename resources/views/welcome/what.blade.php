@@ -45,11 +45,11 @@
 
 </head>
 	<div class="row">
-		<!-- col-md-12 -->
-		<div class="col-md-12">
-			<h4 id="what">Let's Have Some Fun!</h4> 
-		</div><!-- /col-md-12 -->		
-	</div>	
+			<!-- col-md-12 -->
+			<div class="col-md-12">
+				<h4 id="what" class="text-center">Let's Have Some Fun!</h4> 
+			</div><!-- /col-md-12 -->		
+	</div>
 	<div class="row">
 	 	<div class="col-md-12">	
 			<header>			
