@@ -32,7 +32,7 @@
         text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
         position: absolute;
         text-align: center;
-        font-size: 1.25em;
+        font-size: 1.50em;
         margin: 0;
         padding-top: 60px;
         color: #FAB92C;
