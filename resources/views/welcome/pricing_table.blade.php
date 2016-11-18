@@ -30,11 +30,8 @@
 <body>
     <div class="container">
         <header class="codrops-header">
-            <div class="codrops-links">
-                <a class="codrops-icon codrops-icon--prev" href="http://tympanus.net/Tutorials/AnimatedMenuIcon/" title="Previous Demo"><span>Previous Demo</span></a>
-                <a class="codrops-icon codrops-icon--drop" href="http://tympanus.net/codrops/?p=25536" title="Back to the article"><span>Back to the Codrops article</span></a>
-            </div>
-            <h1><span>Inspiration for</span> Pricing Tables</h1>
+
+            <h1><span>Inspiration for</span> Pricing Tables by Codrops</h1>
         </header>
         <section class="pricing-section">
             <p class="intro">Pricing tables are an essential component on websites where digital services are offered. While there seems to be a common pattern, there are infinite styling possibilities.
@@ -345,8 +342,8 @@
                     <button class="pricing__action">Choose plan</button>
                 </div>
             </div>
-            <p>Inspired by <strong><a href="https://frankbody.com/">Frank Body</a></strong></p>
-            <p><strong><a href="http://www.freepik.com/free-photos-vectors/vintage">Vintage vector</a></strong> designed by Vilmosv - Freepik.com</p>
+            <p>Inspired by <strong>Frank Body</a></strong></p>
+            <p><strong>Vintage vector</a></strong> designed by Vilmosv - Freepik.com</p>
         </section>
         <section class="pricing-section bg-7">
             <h2 class="pricing-section__title">Norbu</h2>
@@ -573,19 +570,11 @@
                     <button class="pricing__action">Choose plan</button>
                 </div>
             </div>
-            <p>Based on <a href="https://dribbble.com/shots/2353583-Daily-Design-007-Pricing-Table">Daily Design 007 - Pricing Table</a> by Mackenzie Child </p>
+            <p>Based on Daily Design 007 - Pricing Table</a> by Mackenzie Child </p>
         </section>
         <!-- Related demos -->
         <section class="content content--related">
-            <p>If you enjoyed this demo you might also like:</p>
-            <a class="media-item" href="http://tympanus.net/Development/CheckoutConcepts/">
-                <img class="media-item__img" src="img/related/CheckoutConcepts.png">
-                <h3 class="media-item__title">Checkout Concepts</h3>
-            </a>
-            <a class="media-item" href="http://tympanus.net/Development/ArrowNavigationStyles/">
-                <img class="media-item__img" src="img/related/ArrowNavigationEffects.png">
-                <h3 class="media-item__title">Arrow Navigation Styles</h3>
-            </a>
+
         </section>
     </div>
     <!-- /container -->
