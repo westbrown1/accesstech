@@ -1,90 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-        <meta name="viewport" content="width=device-width, initial-scale=1"> 
-        <title>Animated Background Headers | Demo 2</title>
-        <meta name="description" content="AccessTech.io is a website design, website development and software programming company located in Wilmington NC, if you need a new website or just want to update a software program, we develop Wordpress and Drupal sites, SEO management, an internet marketing company">
-        <meta name="keywords" content="header, canvas, animated, creative, inspiration, javascript" />
-        <meta name="author" content="Codrops" />
-        <link rel="shortcut icon" href="../favicon.ico">
-        <link rel="stylesheet" type="text/css" href="css/css/normalize.css" />
-        <link rel="stylesheet" type="text/css" href="css/css/demo.css" />
-        <link rel="stylesheet" type="text/css" href="css/css/component.css" />
-        <link href='http://fonts.googleapis.com/css?family=Raleway:200,400,800|Clicker+Script' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css" integrity="sha256-T2BVEQmlUCoftgGysWhy/vUjLn+SusHDt3mnXoGdPxY=" crossorigin="anonymous" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css.map">
-        <link rel="stylesheet" type="text/css" href="css/circle/demo.css" />
-        <link rel="stylesheet" type="text/css" href="css/circle/common.css" />
-        <link rel="stylesheet" type="text/css" href="css/circle/style4.css" />
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css' />
-        <script type="text/javascript" src="js/circle/modernizr.custom.79639.js"></script> 
-
-        <!--[if IE]>
-            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>            
-        <![endif]-->
+        @include('partials._headForIndex')
         @include('partials._head')
-<style>
-    #build {
-        font-family: "Alex Brush Regular";
-        text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
-        position: absolute;
-        text-align: center;
-        font-size: 1.50em;
-        margin: 0;
-        padding-top: 60px;
-        color: #FAB92C;
-    }
-
-    body {
-      background-color: #fff;
-      overflow-x: hidden;
-    }  
-
-    * {
-      box-sizing: border-box;
-    }
-    .item {
-      width: 200px;
-      height: 200px;
-      margin: 50px auto;
-      padding-top: 75px;
-    }
-    .item span {
-      display: block;
-      font-size: 1rem;
-    }
-    .item--primary {
-      float: left;
-      position: fixed;
-      left: 45%;
-      top: 0;
-      bottom: 0;
-      margin-top: 10%;
-      right: 100px;
-    }
-    .item--secondary {
-      position: fixed;
-      top: 0;
-      bottom: 0;
-      margin-top: 8%;
-      left: 100px;
-    }
-    #contactIndex {
-      padding-top: 70px;
-    }
-    .westPhoto {
-      margin-left: 60px;
-    }
-    .clearfix {
-      overflow: auto;
-    }
-
-    a {
-      color: white;
-    }
-</style>
+        @include('partials._cssForIndex')
 </head>
 <body>
 
@@ -103,8 +22,8 @@
             </div>
        </div>            
 
-  <div class="row">
-     <div class="col-md-5 item--secondary"
+
+     <div class="item--secondary"
           data-aos="fade-right"
           data-aos-anchor="#trigger-left"
          >
@@ -119,11 +38,10 @@
            </div><!-- /img-thumbnail -->
          </div><!-- /item--secondary -->
      </div><!-- col-md-5 -->
-    </div>
- 
+
      
-    <div class="row">
-     <div class="col-md-6 item--primary clearfix">
+
+     <div class="item--primary clearfix">
        <!-- cirtext -->
        <div class="cirtext" 
        data-aos="fade-left"
@@ -147,51 +65,17 @@
               </ul>       
       </div><!-- /cirtext -->
      </div>
-    </div>
-    </div><!-- /row -->
-
+ 
       <div class="item"></div>
       <div class="item" id="trigger-left"></div>
       <div class="item"></div>
       <div class="item" id="trigger-right"></div>
       <div class="item"></div>
       <div class="item"></div>
-      <div class="item"></div>
-      <div class="item"></div>
-      <div class="item"></div>
 
 @include('partials._footer')
 
 @include('partials._js')
-<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js" integrity="sha256-T8PcNT5ErjZNHcDr8rQOERjKe3xFxDsChEttV/5Fi9o=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js.map"></script>
-
-<script>
-   AOS.init({
- duration: 1000
-}); 
-</script>
-
-<script>
-    function openNav() {
-        document.getElementById("mySidenav").style.width = "100%";
-    }
-
-    function closeNav() {
-        document.getElementById("mySidenav").style.width = "0";
-    }
-</script>
-
-<script>
-    $(document).ready(function() {
-        $('#build').hide().fadeIn(7000);
-        $('#build').fadeOut(40000);
-        $('#builder').hide().fadeIn(7000);
-        $('#builder').fadeOut(40000);
-    });
-</script>
-
-<script src="js/rAF.js"></script>
-<script src="js/demo-2.js"></script>
+@include('partials._jsForIndex')
 </body>
 </html>
