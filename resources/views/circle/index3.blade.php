@@ -59,7 +59,7 @@
 					<div class="ch-item">	
 						<div class="ch-info">
 							<h3>Music To My Ears</h3>
-							<p>by Jonathan Quintin <a href="http://drbl.in/eGjw">View on Dribbble</a></p>
+							<p>pattern by Jonathan Quintin <a href="http://drbl.in/eGjw">View on Dribbble</a></p>
 						</div>
 						<div class="ch-thumb ch-img-1"></div>
 					</div>
@@ -68,7 +68,7 @@
 					<div class="ch-item">
 						<div class="ch-info">
 							<h3>Make Wise Decisions</h3>
-							<p>by Jon Gerlach <a href="http://drbl.in/eFWR">View on Dribbble</a></p>
+							<p>pattern by Jon Gerlach <a href="http://drbl.in/eFWR">View on Dribbble</a></p>
 						</div>
 						<div class="ch-thumb ch-img-2"></div>
 					</div>
@@ -77,7 +77,7 @@
 					<div class="ch-item">
 						<div class="ch-info">
 							<h3>Insert Your Info</h3>
-							<p>by Kawal Oberoi <a href="http://drbl.in/eFED">View on Dribbble</a></p>
+							<p>pattern by Kawal Oberoi <a href="http://drbl.in/eFED">View on Dribbble</a></p>
 						</div>
 						<div class="ch-thumb ch-img-3"></div>
 					</div>

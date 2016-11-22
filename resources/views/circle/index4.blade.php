@@ -61,7 +61,7 @@
 								<div class="ch-info-front ch-img-1"></div>
 								<div class="ch-info-back">
 									<h3>Monkeys Think</h3>
-									<p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+									<p>pattern by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
 								</div>	
 							</div>
 						</div>
@@ -74,7 +74,7 @@
 								<div class="ch-info-front ch-img-2"></div>
 								<div class="ch-info-back">
 									<h3>Nice Hair You Have</h3>
-									<p>by Jeremy Slagle <a href="http://drbl.in/elmi">View on Dribbble</a></p>
+									<p>pattern by Jeremy Slagle <a href="http://drbl.in/elmi">View on Dribbble</a></p>
 								</div>
 							</div>
 						</div>
@@ -87,7 +87,7 @@
 								<div class="ch-info-front ch-img-3"></div>
 								<div class="ch-info-back">
 									<h3>Become A Leader</h3>
-									<p>by Dustin Leer <a href="http://drbl.in/dfhn">View on Dribbble</a></p>
+									<p>pattern by Dustin Leer <a href="http://drbl.in/dfhn">View on Dribbble</a></p>
 								</div>
 							</div>
 						</div>
