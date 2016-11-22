@@ -67,12 +67,11 @@
 <div class="jumbotron">
   <h3 class="text-center">Allow Us To Assist You With Your Web Needs.</h3>
 </div>
-       
-
-@include('partials._footer')
+  @include('partials._footer')
 <script>
   new WOW().init();
 </script>
+
 @include('partials._js')
 @include('partials._jsForIndex')
 
