@@ -15,8 +15,8 @@
        <div class="demo-2">
             <div class="content">                
                 <div id="large-header" class="large-header">                            
-                            <canvas id="demo-canvas"></canvas>
-                            <h1 class="main-title text-center" onload="myFunction()">AccessTech.io</h1> 
+                    <canvas id="demo-canvas"></canvas>
+                    <h1 class="main-title text-center" onload="myFunction()" id="builder">AccessTech.io</h1> 
                 </div>
 
                 <div>
@@ -29,13 +29,14 @@
        <div class="container">
           <div class="row">
               <div class="col-md-5 col-md-offset-1">
-                <div class="wow slideInLeft">
+                <div class="wow rotateInUpLeft">                
                   <div class="img-thumbnail">
-                    <img src="images/photo.jpg" alt="west" width="200" height="200"><br><br>
+                  <a href="/contact">
+                    <img src="images/photo.jpg" alt="west" width="200" height="200"></a><br><br>
                     <p class="text-center">West Brown</p>
                     <p class="text-center"><i class="fa fa-phone" aria-hidden="true"></i> 910-200-1391</p>
-                    <p class="text-center"><a href="mailto:lawsonsdad@gmail.com" style="color: #333"><i class="fa fa-envelope"></i> Email West</a></p>                  
-               </div><!-- /img-thumbnail -->
+                    <p class="text-center"><a href="mailto:lawsonsdad@gmail.com" style="color: #333"><i class="fa fa-envelope"></i> Email West</a></p>                                   
+                  </div><!-- /img-thumbnail -->               
               </div>
             </div>
 
@@ -65,7 +66,7 @@
       
 <div class="jumbotron">
   <h3 class="text-center">Allow Us To Assist You With Your Web Needs.</h3>
-</div><br><br>
+</div>
        
 
 @include('partials._footer')
