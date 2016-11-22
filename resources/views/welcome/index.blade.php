@@ -15,6 +15,10 @@
           .jumbotron p {
             font-size: 15px;
           }
+          #jumbo-black {
+            padding: 10px 0 10px 0;
+            background-color: black;
+          }
         </style>
 </head>
 <body>
@@ -72,7 +76,10 @@
             </div>
           </div>          
        </div><!-- /container -->       
-      
+
+<!-- jumbotron -->
+<div class="jumbotron" id="jumbo-black"></div><!-- /jumbotron -->
+
 <div class="jumbotron">
   <h3 class="text-center"><a href="/contact" id="footer-contact">Contact AccessTech.io</a>To Assist You With Your Web Needs.</h3> 
   @include('partials._footer')
