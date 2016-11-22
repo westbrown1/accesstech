@@ -41,7 +41,9 @@
        <!-- container -->
        <div class="container">
           <div class="row">
-              <div class="col-md-5 col-md-offset-1">
+            <div class="col-md-2">              
+            </div>
+              <div class="col-md-4">
                 <div class="wow rotateIn">                
                   <div class="img-thumbnail">
                   <a href="/contact">
@@ -53,7 +55,7 @@
               </div>
             </div>
 
-            <div class="col-md-5 col-md-offset-1">
+            <div class="col-md-4">
               <div class="wow slideInRight">
                 <ul class="ch-grid">
                   <li>
@@ -73,6 +75,9 @@
                   </li>
                 </ul>
              </div>
+             <!-- col-md-2 -->
+             <div class="col-md-2">   
+             </div><!-- /col-md-2 -->
             </div>
           </div>          
        </div><!-- /container -->       
