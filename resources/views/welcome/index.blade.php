@@ -19,6 +19,9 @@
             padding: 10px 0 10px 0;
             background-color: black;
           }
+          .navbar-toggle {
+              border: 1px solid white;
+          }
         </style>
 </head>
 <body>
@@ -66,7 +69,7 @@
                             <div class="ch-info-front ch-img-3"></div>
                             <div class="ch-info-back">
                               <h3>Please Contact AccessTech.io Today</h3>
-                              <p>Pattern by Dustin Leer View on Dribbble</p>
+                              <p>Pattern by Dustin Leer, View on Dribbble</p>
                             </div>
                           </div>
                         </div>
