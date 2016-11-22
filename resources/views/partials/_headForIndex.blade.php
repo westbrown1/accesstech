@@ -1,7 +1,7 @@
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 <meta name="viewport" content="width=device-width, initial-scale=1"> 
-<title>Animated Background Headers | Demo 2</title>
+<title>Home Page</title>
 <meta name="description" content="AccessTech.io is a website design, website development and software programming company located in Wilmington NC, if you need a new website or just want to update a software program, we develop Wordpress and Drupal sites, SEO management, an internet marketing company">
 <meta name="keywords" content="header, canvas, animated, creative, inspiration, javascript" />
 <meta name="author" content="Codrops" />
@@ -16,8 +16,6 @@
 <link rel="stylesheet" type="text/css" href="css/circle/common.css" />
 <link rel="stylesheet" type="text/css" href="css/circle/style4.css" />
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css' />
-<script type="text/javascript" src="js/circle/modernizr.custom.79639.js"></script> 
-
 <!--[if IE]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>            
 <![endif]-->

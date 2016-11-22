@@ -39,6 +39,9 @@ Route::get('aos', function() {
 	return view('welcome.aos');
 });
 
+Route::get('scroll', function() {
+	return view('welcome.scroll');
+});
 
 Route::get('index', function() {
 	return view('circle.index');
