@@ -12,7 +12,7 @@
 
     @include('partials._nav')    
 
-       <div class="demo-2">
+        <div class="demo-2">
             <div class="content">                
                 <div id="large-header" class="large-header">                            
                     <canvas id="demo-canvas"></canvas>
@@ -24,7 +24,7 @@
                 </div>                                
             </div>
        </div>
-          
+        <hr>
        <!-- container -->
        <div class="container">
           <div class="row">
