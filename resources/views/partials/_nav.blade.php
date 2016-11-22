@@ -1,7 +1,9 @@
 <style>
   a {
-    text-decoration: none;
     margin-right: 20px;
+  }
+  a:hover {    
+    text-decoration: none;
   }
   #bs-example-navbar-collapse-1 {
     margin-top: 30px;
