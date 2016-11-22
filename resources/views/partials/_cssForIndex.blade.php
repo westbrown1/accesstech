@@ -22,4 +22,7 @@
     .jumbotron {
         background-color: #83a507;
     }
+    #footer-contact {
+        text-decoration: none;
+    }
 </style>

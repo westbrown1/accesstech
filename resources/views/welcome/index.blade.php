@@ -59,7 +59,7 @@
                           <div class="ch-info">
                             <div class="ch-info-front ch-img-3"></div>
                             <div class="ch-info-back">
-                              <h3>Contact AccessTech.io Today</h3>
+                              <h3>Please Contact AccessTech.io Today</h3>
                               <p>by Dustin Leer View on Dribbble</p>
                             </div>
                           </div>
@@ -74,7 +74,7 @@
        </div><!-- /container -->       
       
 <div class="jumbotron">
-  <h3 class="text-center">Allow Us To Assist You With Your Web Needs.</h3> 
+  <h3 class="text-center"><a href="/contact" id="footer-contact">Contact AccessTech.io</a>To Assist You With Your Web Needs.</h3> 
   @include('partials._footer')
 </div>
 

@@ -1,5 +1,6 @@
 <style>
   a {
+    text-decoration: none;
     margin-right: 20px;
   }
   #bs-example-navbar-collapse-1 {
