@@ -86,7 +86,7 @@
 <div class="jumbotron" id="jumbo-black"></div><!-- /jumbotron -->
 
 <div class="jumbotron">
-  <h3 class="text-center"><a href="/contact" id="footer-contact">Contact AccessTech.io</a>To Assist You With Your Web Needs.</h3> 
+  <h3 class="text-center"><a href="/contact" id="footer-contact">Contact AccessTech.io</a>To Assist You With Your Website Needs.</h3> 
   @include('partials._footer')
 </div>
 
