@@ -21,6 +21,5 @@
     }
     .jumbotron {
         background-color: #83a507;
-        margin-bottom: 20px;
     }
 </style>
