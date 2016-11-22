@@ -66,7 +66,7 @@
                             <div class="ch-info-front ch-img-3"></div>
                             <div class="ch-info-back">
                               <h3>Please Contact AccessTech.io Today</h3>
-                              <p>by Dustin Leer View on Dribbble</p>
+                              <p>Pattern by Dustin Leer View on Dribbble</p>
                             </div>
                           </div>
                         </div>
