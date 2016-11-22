@@ -29,7 +29,7 @@
        <div class="container">
           <div class="row">
               <div class="col-md-5 col-md-offset-1">
-                <div class="wow rotateInUpLeft">                
+                <div class="wow rotateIn">                
                   <div class="img-thumbnail">
                   <a href="/contact">
                     <img src="images/photo.jpg" alt="west" width="200" height="200"></a><br><br>
