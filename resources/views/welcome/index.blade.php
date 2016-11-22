@@ -9,6 +9,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js" integrity="sha256-399DNRyfIpWIy1ZV0KmEIIuIQ5sBHdLu9MBtVHrNtt8=" crossorigin="anonymous"></script>
         <style>
           .jumbotron {
+            padding-top: 20px;
             margin-bottom: 0;
             padding-bottom: 70px;
           }
@@ -16,11 +17,17 @@
             font-size: 15px;
           }
           #jumbo-black {
+            color: white;
             padding: 10px 0 10px 0;
             background-color: black;
           }
           .navbar-toggle {
               border: 1px solid white;
+          }
+          #jumbo-p {
+            font-family: "Alex Brush Regular";
+            font-style: italic;
+            margin-left: 50px;
           }
         </style>
 </head>
@@ -89,6 +96,7 @@
 <div class="jumbotron" id="jumbo-black"></div><!-- /jumbotron -->
 
 <div class="jumbotron">
+  <p id="jumbo-p">AccessTech.io</p>
   <h3 class="text-center"><a href="/contact" id="footer-contact">Contact AccessTech.io</a>To Assist You With Your Website Needs.</h3> 
   @include('partials._footer')
 </div>
