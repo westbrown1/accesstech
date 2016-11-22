@@ -74,7 +74,7 @@
 							<div class="ch-info">
 								<div class="ch-info-front ch-img-2"></div>
 								<div class="ch-info-back">
-									<h3>Stay Foxy</h3>
+									<h3>You're A Fox</h3>
 									<p>pattern by Arnel Baluyot <a href="http://drbl.in/eQDg">View on Dribbble</a></p>
 								</div>
 							</div>
