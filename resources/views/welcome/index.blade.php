@@ -48,9 +48,10 @@
             </div>
        </div>
         <hr>
-       <!-- container -->
-       <div class="container">
-          <div class="row">
+
+<!-- container -->
+<div class="container">
+   <div class="row">
             <div class="col-md-2">              
             </div>
               <div class="col-md-4">
@@ -89,15 +90,17 @@
              <div class="col-md-2">   
              </div><!-- /col-md-2 -->
             </div>
-          </div>          
-       </div><!-- /container -->       
+          </div>
+</div><!-- /container -->
+                   
 
 <!-- jumbotron -->
 <div class="jumbotron" id="jumbo-black"></div><!-- /jumbotron -->
+<!-- wilmington -->
 
 <div class="jumbotron">
   <p id="jumbo-p">AccessTech.io</p>
-  <h3 class="text-center"><a href="/contact" id="footer-contact">Contact AccessTech.io</a>To Assist You With Your Website Needs.</h3> 
+  <h3 class="text-center"><a href="/contact" id="footer-contact">Contact AccessTech.io</a>To Assist You With Your Website Needs.</h3>
   @include('partials._footer')
 </div>
 

@@ -45,6 +45,15 @@ figure {
     float: left
 }
 
+#wilmington {
+background-image: url('/images/WilmingtonSkylineWEB.jpg');
+opacity: 0.8;
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+flex-direction: column;
+}
+
 .img-responsive,
 .img-thumbnail,
 .table,
@@ -2058,6 +2067,7 @@ pre code {
     margin-left: -15px;
     margin-right: -15px
 }
+
 
 .col-lg-1,
 .col-lg-10,
