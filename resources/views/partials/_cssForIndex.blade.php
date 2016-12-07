@@ -16,7 +16,7 @@
       color: white;
     }
     .img-thumbnail {
-        margin-top: 25px;
+        margin-top: 40px;
         margin-bottom: 40px;
     }
     .jumbotron {
