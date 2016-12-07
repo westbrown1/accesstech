@@ -9,7 +9,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js" integrity="sha256-399DNRyfIpWIy1ZV0KmEIIuIQ5sBHdLu9MBtVHrNtt8=" crossorigin="anonymous"></script>
         <style>
           .jumbotron {
-            padding-top: 20px;
+            padding-top: 5px;
             margin-bottom: 0;
             padding-bottom: 70px;
           }
@@ -91,7 +91,7 @@
           </div>
 </div><!-- /container -->
   <br>
-  
+
 <!-- jumbotron -->
 <div class="jumbotron" id="jumbo-black"></div><!-- /jumbotron -->
 <!-- wilmington -->
