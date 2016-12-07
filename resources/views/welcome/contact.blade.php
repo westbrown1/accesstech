@@ -24,7 +24,7 @@
 			 <img src="/images/photo.jpg" alt="" class="img-thumbnail">
 			 <h6>West Brown</h6>
 			 <p><a href="tel: +19102001391"><i class="fa fa-phone" aria-hidden="true"></i> (910) 200-1391</a></p>
-			{{-- <p><a href="mailto:lawsonsdad@gmail.com"><i class="fa fa-envelope"></i> Email West</a></p> --}}
+			<p><a href="mailto:jeffreywestbrown@gmail.com"><i class="fa fa-envelope"></i> Email West</a></p>
 			<p>Wilmington, NC  28409</p></center><br>
 			<p>West is available anytime Monday through Friday 9:00 am - 6:00 pm.</p>
 			<a href="/">Home</a><br>
