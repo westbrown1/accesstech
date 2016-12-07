@@ -60,7 +60,7 @@
                     <img src="images/photo.jpg" alt="west" width="200" height="200"><br><br>
                     <p class="text-center">West Brown</p>
                     <p class="text-center"><i class="fa fa-phone" aria-hidden="true"></i> 910-200-1391</p>
-                    <p><a href="mailto:jeffreywestbrown@gmail.com"><i class="fa fa-envelope"></i> Email West</a></p>     
+                    <p class="text-center"><a href="mailto:jeffreywestbrown@gmail.com" style="color: #333"><i class="fa fa-envelope"></i> Email West</a></p>
                   </div><!-- /img-thumbnail -->               
               </div>
             </div>
