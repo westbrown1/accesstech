@@ -57,7 +57,7 @@
               <div class="col-md-4">
                 <div class="wow rotateIn">                
                   <div class="img-thumbnail">
-                  <a href="/contact">
+                  <a href="/contact" class="text-center">
                     <img src="images/photo.jpg" alt="west" width="200" height="200"></a><br><br>
                     <p class="text-center">West Brown</p>
                     <p class="text-center"><i class="fa fa-phone" aria-hidden="true"></i> 910-200-1391</p>
