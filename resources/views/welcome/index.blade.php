@@ -57,8 +57,8 @@
               <div class="col-md-4">
                 <div class="wow rotateIn">                
                   <div class="img-thumbnail">
-                  <a href="/contact">
-                    <img src="images/photo.jpg" alt="west" width="200" height="200"></a><br><br>
+                  <center><a href="/contact">
+                    <img src="images/photo.jpg" alt="west" width="200" height="200"></a></center><br><br>
                     <p class="text-center">West Brown</p>
                     <p class="text-center"><i class="fa fa-phone" aria-hidden="true"></i> 910-200-1391</p>
                     <p class="text-center"><a href="mailto:lawsonsdad@gmail.com" style="color: #333"><i class="fa fa-envelope"></i> Email West</p>                                  
