@@ -47,8 +47,7 @@
                 </div>                                
             </div>
        </div>
-        <hr>
-
+        
 <!-- container -->
 <div class="container">
    <div class="row">
