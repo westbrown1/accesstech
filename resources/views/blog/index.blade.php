@@ -17,7 +17,7 @@
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
 				<div class="well" id="blog">
-					<h1 class="text-center">Blog Index Page</h1>
+					<h1 class="text-center">Blog Index Page</h1><br>
 					<ol>
 						<li><a href="google">Rethinking Google after Pennsylvania election error.</a></li><br>
 						<li><a href="tarheels">Duke Blue Devils Football Team dims UNC Tarheels  Chances at 2016 ACC Football Championship.</a></li><br>
