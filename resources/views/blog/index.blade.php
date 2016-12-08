@@ -5,7 +5,7 @@
 @section('content')
 <style>
 	#blog {
-		margin-top: 90px;
+		margin-top: 120px;
 		padding-top: 0;
 	}
 	a {
