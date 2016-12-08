@@ -62,8 +62,8 @@
                     <p class="text-center"><a href="tel: +19102001391" style="color: #333"><i class="fa fa-phone"></i> (910) 200-1391</a></p>
                     <p class="text-center"><a href="mailto:jeffreywestbrown@gmail.com" style="color: #333"><i class="fa fa-envelope"></i> Email West</a></p>
                   </div><!-- /img-thumbnail -->               
+                </div>
               </div>
-            </div>
 
             <div class="col-md-4">
               <div class="wow slideInRight">

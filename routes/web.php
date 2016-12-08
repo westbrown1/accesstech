@@ -31,8 +31,13 @@ Route::resource('blog', 'BlogController');
 Route::get('google', function() {
 	return view('blog.google');
 });
+
 Route::get('tarheels', function() {
 	return view('blog.tarheels');
+});
+
+Route::get('weight', function() {
+	return view('blog.weight');
 });
 
 Route::get('aos', function() {

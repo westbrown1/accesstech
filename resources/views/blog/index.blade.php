@@ -20,7 +20,8 @@
 					<h1 class="text-center">Blog Index Page</h1>
 					<ol>
 						<li><a href="google">Rethinking Google after Pennsylvania election error.</a></li>
-						<li><a href="tarheels">Duke Blue Devils Football Team dims UNC Tarheels  Chances at 2016 ACC Football Championship.</a></li> 
+						<li><a href="tarheels">Duke Blue Devils Football Team dims UNC Tarheels  Chances at 2016 ACC Football Championship.</a></li>
+						<li><a href="weight">How Do You Really Lose Fat?</a></li>
 					</ol>				
 				</div>
 			</div>
