@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-        @include('partials._headForIndex')     
+        @include('partials._headForIndex')
         @include('partials._head')
         @include('partials._cssForIndex') 
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
