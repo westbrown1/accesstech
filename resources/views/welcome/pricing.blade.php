@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
-@section('title', '| Pricing')
+@section('title', '| Web Design Pricing')
 
 @section('content')
 
-<title>Web Design | Pricing Table</title>
+<title>Web Design | Our Pricing Table</title>
 <meta name="description" content="Various styles and inspiration for responsive, flexbox-based HTML pricing tables" />
 <link rel="shortcut icon" href="favicon.ico">
 <link href='https://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', '| Contact Us')
+@section('title', '| Contact Us | Wilmington NC Web Design')
 
 @section('content')
 <style>
@@ -41,34 +41,6 @@
 	</div>
   </div>
 </div><!-- /container -->
-
-{{-- <div class="row">
-	 <div class="col-md-8 col-md-offset-2">
-	 <!-- panel panel-primary -->
-	 	<div class="panel panel-primary" id="myPanel">
-	 		 <!-- panel-heading -->
-	 		 <div class="panel-heading">
-	 		 	 <h4>Contact Us</h>
-	 		 </div><!-- /panel-heading -->
-			<!-- panel-body -->
-			<div class="panel-body">
- 				<form action="{{url('contact')}} " method="POST"> 
- 				{{csrf_field()}}
-					<label for="email" name="email">Email:</label>
-					<input type="email" name="email" class="form-control">
-
-					<label for="subject" name="subject">Subject:</label>
-					<input type="text" name="subject" class="form-control">
-
-					<label for="body" name="body">Message:</label>
-					<textarea name="body" placeholder="Enter message here" class="form-control" rows="8"></textarea>			
-
-					<button class="btn btn-primary">Send</button>
-    			</form>
-			</div><!-- /panel-body -->
-	 	</div><!-- /panel panel-primary -->		
-	 </div><!-- col-md-7 -->
-</div><!-- /row --> --}}
 
 <script
 src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDyN-Yeyr8E6vva-bsCzpXV2QEVO00gprk&callback-initMap">
