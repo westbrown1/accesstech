@@ -6,7 +6,6 @@
 <head>
 	<meta name="description" content="Circle Hover Effects with CSS Transitions" />
     <meta name="keywords" content="circle, border-radius, hover, css3, transition, image, thumbnail, effect, 3d" />
-    <meta name="author" content="Codrops" />
     <link rel="shortcut icon" href="../favicon.ico"> 
     <link rel="stylesheet" type="text/css" href="css/circle/demo.css" />
 	<link rel="stylesheet" type="text/css" href="css/circle/common.css" />

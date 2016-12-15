@@ -7,10 +7,9 @@
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Button Styles Inspiration</title>
+	<title>Web Design | Buttons</title>
 	<meta name="description" content="Some ideas for modern button styles and effects" />
 	<meta name="keywords" content="button, effect, hover, style, inspiration, web design" />
-	<meta name="author" content="Codrops" />
 	<link rel="shortcut icon" href="../favicon.ico">
 	<link rel="stylesheet" type="text/css" href="css/normalize.css" />
 	<link rel="stylesheet" type="text/css" href="css/vicons-font.css" />

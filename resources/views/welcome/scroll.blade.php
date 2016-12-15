@@ -7,7 +7,6 @@
 		<title>Blueprint: On Scroll Effect Layout</title>
 		<meta name="description" content="Blueprint: On Scroll Effect Layout" />
 		<meta name="keywords" content="on scroll, effect, slide in, layout, template, transition, javascript" />
-		<meta name="author" content="Codrops" />
 		<link rel="shortcut icon" href="../favicon.ico">
 		<link rel="stylesheet" type="text/css" href="css/css/demo.css" />
 		<link rel="stylesheet" type="text/css" href="css/css/component.css" />

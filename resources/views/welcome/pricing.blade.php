@@ -4,9 +4,8 @@
 
 @section('content')
 
-<title>Pricing Table</title>
+<title>Web Design | Pricing Table</title>
 <meta name="description" content="Various styles and inspiration for responsive, flexbox-based HTML pricing tables" />
-<meta name="keywords" content="pricing table, inspiration, ui, modern, responsive, flexbox, html, component" />
 <link rel="shortcut icon" href="favicon.ico">
 <link href='https://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Sahitya:400,700' rel='stylesheet' type='text/css'>
