@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', '| Dribbble')
+@section('title', '| Web Design | Dribbble')
 
 @section('content')
 <body class="popin">

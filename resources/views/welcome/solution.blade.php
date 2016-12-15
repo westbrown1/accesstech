@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', '| Why Us?')
+@section('title', '| Web Design | Why Us?')
 
 @section('content')
 <div class="row">

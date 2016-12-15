@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', '| What We Can Do')
+@section('title', '| Web Design | What We Can Do')
 
 @section('content')
 <head>

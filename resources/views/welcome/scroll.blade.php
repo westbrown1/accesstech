@@ -4,7 +4,7 @@
 		<meta charset="UTF-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-		<title>Blueprint: On Scroll Effect Layout</title>
+		<title>Web Design | Parallax Scroll</title>
 		<meta name="description" content="Blueprint: On Scroll Effect Layout" />
 		<meta name="keywords" content="on scroll, effect, slide in, layout, template, transition, javascript" />
 		<link rel="shortcut icon" href="../favicon.ico">
