@@ -73,7 +73,7 @@
 								<div class="ch-info-front ch-img-2"></div>
 								<div class="ch-info-back">
 									<h3>Over</h3>
-									<p>We Need Your Business</p>
+									<p>We Want Your Business</p>
 								</div>
 							</div>
 						</div>
