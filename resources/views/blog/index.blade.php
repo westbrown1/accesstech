@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', '| Blog Index')
+@section('title', '| AccessTech.io Blog Index')
 
 @section('content')
 <style>
