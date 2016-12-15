@@ -17,7 +17,7 @@
 <!-- container -->
 <div class="container">
 	 <div class="row">
-<hr>
+
 	<div class="col-md-6">
 		<!-- west -->
 		<div class="well" id="contactus">
