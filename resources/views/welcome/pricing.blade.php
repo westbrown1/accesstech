@@ -5,7 +5,7 @@
 @section('content')
 
 <style>
-    footer {
+    #main-footer {
         color: white;
     }
 </style>
