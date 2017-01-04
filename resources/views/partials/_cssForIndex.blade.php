@@ -6,7 +6,6 @@
         text-align: center;
         font-size: 1.50em;
         margin: 0;
-        padding-top: 100px;
         top: 32.5%;
         left: 50%;
         color: #333;
