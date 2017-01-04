@@ -7,7 +7,7 @@
         font-size: 1.50em;
         margin: 0;
         padding-top: 60px;
-        color: black;
+        color: #333;
     }
     .clearfix {
       overflow: auto;
