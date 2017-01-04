@@ -39,12 +39,13 @@
             <div class="content">                
                 <div class="large-header">                            
                     <h1 class="main-title text-center" onload="myFunction()" id="builder">Web Design by AccessTech.io</h1> 
-                </div>
+                
                 <div>
                     <h3 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h3>
-                </div>                                
+                </div>
+                </div>                               
             </div>
-       </div>
+        </div>
        <br>
 <!-- container -->
 <div class="container">
