@@ -29,6 +29,12 @@
             font-style: italic;
             margin-left: 50px;
           }
+          #builder {
+            color: #333;
+          }
+          #build {
+            color: #333;
+          }
         </style>
 </head>
 <body>
