@@ -39,7 +39,7 @@
             <div class="content">                
                 <div id="large-header" class="large-header">                            
                     <canvas id="demo-canvas"></canvas>
-                    <h1 class="main-title text-center" onload="myFunction()" id="builder">Web Design by AccessTech.io</h1> 
+                    <h1 class="main-title text-center" onload="myFunction()">Web Design by AccessTech.io</h1> 
                 </div>
                 <div>
                     <h3 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h3>
