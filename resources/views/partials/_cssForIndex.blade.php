@@ -7,8 +7,13 @@
         font-size: 1.50em;
         margin: 0;
         padding-top: 60px;
+        top: 32.5%;
+        left: 50%;
         color: #333;
+        -webkit-transform: translate3d(-50%,-50%,0);
+        transform: translate3d(-50%,-50%,0);
     }
+
     .clearfix {
       overflow: auto;
     }

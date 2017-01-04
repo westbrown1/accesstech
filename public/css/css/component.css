@@ -31,19 +31,6 @@
 	transform: translate3d(-50%,-50%,0);
 }
 
-.title {
-	position: absolute;
-	text-align: center;
-	margin: 0;
-	padding: 0;
-	top: 32.5%;
-	left: 50%;
-	color: black;
-	font-size: 3em;	
-	-webkit-transform: translate3d(-50%,-50%,0);
-	transform: translate3d(-50%,-50%,0);
-}
-
 .demo-2 .main-title {
 	font-family: 'Alex Brush Regular';
 	font-weight: normal;
