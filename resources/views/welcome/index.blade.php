@@ -37,7 +37,7 @@
 
         <div class="demo-2">
             <div class="content">                
-                <div id="large-header" class="large-header">                            
+                <div class="large-header">                            
                     <h1 class="main-title text-center" onload="myFunction()" id="builder">Web Design by AccessTech.io</h1> 
                 </div>
                 <div>
