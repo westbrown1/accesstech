@@ -38,19 +38,16 @@
  
       <!-- demo-2 -->
       <div class="demo-2">       
-      
-        <!-- header -->
-        <div class="large-header">           
-        
+      <div class="large-header">
             <!-- main-title text-center -->
-            <div class="main-title text-center">                                                 
+            <div class="main-title text-center">                                                
                 <h1 onload="myFunction()" id="builder">Web Design by AccessTech.io</h1> 
             </div><!-- /main-title text-center -->
 
             <div>
-                <h3 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h3>
+                <h3 class="text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h3>
             </div>
-        </div><!-- /header -->
+</div>
         </div><!-- /demo-2 -->      
 
        <br>
