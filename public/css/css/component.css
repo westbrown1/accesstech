@@ -58,6 +58,7 @@
 	height: 20vw;
 	min-width: 3.5em;
 	min-height: 3.5em;
+	padding-bottom: 40px;
 	background: url(file:/Users/jeffreywestbrown/workspace/accesstech/public/img/deco.svg) no-repeat center center;
 	background-size: cover;
 	position: absolute;
