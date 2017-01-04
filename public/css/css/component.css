@@ -23,9 +23,23 @@
 	position: absolute;
 	text-align: center;
 	margin: 0;
+	padding: 0;
 	top: 30%;
 	left: 50%;
 	color: #333;
+	font-size: 3em;	
+	-webkit-transform: translate3d(-50%,-50%,0);
+	transform: translate3d(-50%,-50%,0);
+}
+
+.title {
+	position: absolute;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	top: 32.5%;
+	left: 50%;
+	color: #F3C45F;
 	font-size: 3em;	
 	-webkit-transform: translate3d(-50%,-50%,0);
 	transform: translate3d(-50%,-50%,0);
@@ -45,7 +59,6 @@
 	height: 20vw;
 	min-width: 3.5em;
 	min-height: 3.5em;
-	padding-bottom: 40px;
 	background: url(file:/Users/jeffreywestbrown/workspace/accesstech/public/img/deco.svg) no-repeat center center;
 	background-size: cover;
 	position: absolute;
@@ -63,8 +76,6 @@
 
 	.demo-2 .main-title {
 		font-size: 2em;
-
 	}
 }
-
 

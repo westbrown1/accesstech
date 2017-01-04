@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+        @include('partials._headForIndex')
         @include('partials._head')
-        @include('partials._headForIndex')        
-        @include('partials._cssForIndex')
+        @include('partials._cssForIndex') 
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha256-z6FznuNG1jo9PP3/jBjL6P3tvLMtSwiVAowZPOgo56U=" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js" integrity="sha256-399DNRyfIpWIy1ZV0KmEIIuIQ5sBHdLu9MBtVHrNtt8=" crossorigin="anonymous"></script>
@@ -29,14 +29,9 @@
             font-style: italic;
             margin-left: 50px;
           }
-          #builder {
+
+          .title .main-title {
             color: #333;
-            font-size: 50px;
-          }
-          #build {
-            color: #333;
-            margin-top: 50px;            
-            padding-top: 50px;
           }
         </style>
 </head>
@@ -44,21 +39,17 @@
 
     @include('partials._nav')    
 
- 
-      <!-- demo-2 -->
-      <div class="demo-2">       
-      <div class="large-header">
-            <!-- main-title text-center -->
-            <div class="main-title text-center">                                                
-                <h1 onload="myFunction()" id="builder">Web Design by AccessTech.io</h1> 
-            </div><!-- /main-title text-center -->
-
-            <div>
-                <h3 class="text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h3>
+        <div class="demo-2">
+            <div class="content">                
+                <div id="large-header" class="large-header">                            
+                    <canvas id="demo-canvas"></canvas>
+                    <h1 class="main-title text-center" onload="myFunction()" id="builder">Web Design by AccessTech.io</h1> 
+                </div>
+                <div>
+                    <h3 class="title text-center" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h3>
+                </div>                                
             </div>
-</div>
-        </div><!-- /demo-2 -->      
-
+       </div>
        <br>
 <!-- container -->
 <div class="container">
