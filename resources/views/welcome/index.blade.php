@@ -34,8 +34,8 @@
           }
           #build {
             color: #333;
-            margin-top: 70px;            
-            padding-top: 70px;
+            margin-top: 60px;            
+            padding-top: 60px;
           }
         </style>
 </head>
