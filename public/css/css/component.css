@@ -23,7 +23,6 @@
 	position: absolute;
 	text-align: center;
 	margin: 0;
-	padding: 0;
 	top: 30%;
 	left: 50%;
 	color: black;
@@ -39,7 +38,7 @@
 	padding: 0;
 	top: 32.5%;
 	left: 50%;
-	color: #F3C45F;
+	color: black;
 	font-size: 3em;	
 	-webkit-transform: translate3d(-50%,-50%,0);
 	transform: translate3d(-50%,-50%,0);
