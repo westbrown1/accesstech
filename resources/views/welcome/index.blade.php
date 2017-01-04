@@ -31,6 +31,7 @@
           }
           #builder {
             color: #333;
+            font-size: 50px;
           }
           #build {
             color: #333;
