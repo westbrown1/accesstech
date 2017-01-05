@@ -29,8 +29,10 @@
             font-style: italic;
             margin-left: 50px;
           }
-
-          .title .main-title {
+          .main-title {
+            color: #333;
+          }
+          .title {
             color: #333;
           }
           @media screen and (max-width: 1000px) {
