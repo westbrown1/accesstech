@@ -31,6 +31,7 @@
           }
           .main-title {
             color: #333;
+            padding-bottom: 30px;
           }
           .title {
             color: #333;
