@@ -7,41 +7,8 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha256-z6FznuNG1jo9PP3/jBjL6P3tvLMtSwiVAowZPOgo56U=" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js" integrity="sha256-399DNRyfIpWIy1ZV0KmEIIuIQ5sBHdLu9MBtVHrNtt8=" crossorigin="anonymous"></script>
-        <style>
-          .jumbotron {
-            padding-top: 5px;
-            margin-bottom: 0;
-            padding-bottom: 70px;
-          }
-          .jumbotron p {
-            font-size: 15px;
-          }
-          #jumbo-black {
-            color: white;
-            padding: 10px 0 10px 0;
-            background-color: black;
-          }
-          .navbar-toggle {
-              border: 1px solid white;
-          }
-          #jumbo-p {
-            font-family: "Alex Brush Regular";
-            font-style: italic;
-            margin-left: 50px;
-          }
-          .main-title {
-            color: #333;
-            padding-bottom: 30px;
-          }
-          .title {
-            color: #333;
-          }
-          @media screen and (max-width: 1000px) {
-            #build {
-              display: none;
-            }
-          }
-        </style>
+        
+        @include('partials._indexcss')
 </head>
 <body>
 
