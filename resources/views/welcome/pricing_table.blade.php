@@ -29,6 +29,9 @@
         #main-footer {
                     color: white;
                 }
+        .bg-1 {
+            background: black;
+        }
     </style>
 </head>
 

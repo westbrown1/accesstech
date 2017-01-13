@@ -31,6 +31,9 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
+.bg-3 {
+	background: #576471;
+}
 	</style>
 	<!-- container -->
 	<div class="container">		 
