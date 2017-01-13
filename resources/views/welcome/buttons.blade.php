@@ -3,11 +3,10 @@
 @section('title', '| Web Design | Buttons')
 
 @section('content')
-
+	<title>Web Design | Buttons</title>
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Web Design | Buttons</title>
 	<meta name="description" content="Some ideas for modern button styles and effects" />
 	<meta name="keywords" content="button, effect, hover, style, inspiration, web design" />
 	<link rel="shortcut icon" href="../favicon.ico">
@@ -15,10 +14,24 @@
 	<link rel="stylesheet" type="text/css" href="css/vicons-font.css" />
 	<link rel="stylesheet" type="text/css" href="css/base.css" />
 	<link rel="stylesheet" type="text/css" href="css/buttons.css" />
+	<link rel="stylesheet" type="text/css" href="css/component.css" />
+	<link rel="stylesheet" type="text/css" href="css/demo.css" />
 	<!--[if IE]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
+	<style>
+		*, *:after, *:before { -webkit-box-sizing: border-box; box-sizing: border-box; }
+.clearfix:before, .clearfix:after {display: table;  content: ''; }
+.clearfix:after { clear: both; }
 
+.content {
+	font-family: "Avenir Next", Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
+	color: #444;
+	background: #fff;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+	</style>
 	<!-- container -->
 	<div class="container">		 
 		<header class="codrops-header">

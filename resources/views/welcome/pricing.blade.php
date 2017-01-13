@@ -4,12 +4,6 @@
 
 @section('content')
 
-<style>
-    #main-footer {
-        color: white;
-    }
-</style>
-
 <title>Web Design | Our Pricing Table</title>
 <meta name="description" content="Various styles and inspiration for responsive, flexbox-based HTML pricing tables" />
 <link rel="shortcut icon" href="favicon.ico">
@@ -31,6 +25,9 @@
 <style>
 .navbar-fixed-top {
   color: white;
+}
+#main-footer {
+    color: white;
 }
 </style>
 

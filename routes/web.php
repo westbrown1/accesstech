@@ -70,6 +70,9 @@ Route::get('index7', function() {
 	return view('circle.index7');
 });
 
+Route::get('testpricing', function() {
+	return view('testpricing');
+});
 
 
 

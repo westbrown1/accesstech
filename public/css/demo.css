@@ -189,7 +189,7 @@ a:hover, a:focus {
 }
 
 .bg-1 {
-	background: #1B1A1C;
+	background: #B0D2F3;              /*background: #1B1A1C;*/
 	background-size: cover;
 	color: #fff;
 }
@@ -202,7 +202,7 @@ a:hover, a:focus {
 
 .bg-3 {
 	color: #fff;
-	background: #A2E29E;
+	background: #576471;						/*background: #A2E29E;*/
 }
 
 .bg-4 {
