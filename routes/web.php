@@ -40,6 +40,10 @@ Route::get('weight', function() {
 	return view('blog.weight');
 });
 
+Route::get('appetite', function() {
+	return view('blog.appetite');
+});
+
 Route::get('aos', function() {
 	return view('welcome.aos');
 });

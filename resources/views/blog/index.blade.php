@@ -21,7 +21,7 @@
 					<ol>
 						<li><a href="google">Rethinking Google after Pennsylvania election error.</a></li><br>
 						<li><a href="tarheels">Duke Blue Devils Football Team dims UNC Tarheels  Chances at 2016 ACC Football Championship.</a></li><br>
-						<li><a href="weight">How Do You Really Lose Fat?</a></li>
+						<li><a href="weight">How Do You Really Lose Fat?</a></li><br>
 						<li><a href="appetite">The Best Way To Curb Your Appetite, Brush Your Teeth.</a></li>
 					</ol>				
 				</div>
