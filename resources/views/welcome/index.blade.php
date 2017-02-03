@@ -14,6 +14,11 @@
             color: #333;
           }
         </style>
+<script>
+    new WOW().init();
+</script>
+@include('partials._js')
+@include('partials._jsForIndex')
 </head>
 <body>
 
@@ -85,12 +90,5 @@
   <h3 class="text-center"><a href="/contact" id="footer-contact">Contact AccessTech.io</a>To Assist You With Your Web Design Needs.</h3>
   @include('partials._footer')
 </div>
-
-<script>
-    new WOW().init();
-</script>
-@include('partials._js')
-@include('partials._jsForIndex')
-
 </body>
 </html>
