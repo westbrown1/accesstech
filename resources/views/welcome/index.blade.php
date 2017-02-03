@@ -9,6 +9,11 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js" integrity="sha256-399DNRyfIpWIy1ZV0KmEIIuIQ5sBHdLu9MBtVHrNtt8=" crossorigin="anonymous"></script>
         
         @include('partials._indexcss')
+        <style>
+          a {
+            color: #333;
+          }
+        </style>
 </head>
 <body>
 
@@ -37,8 +42,8 @@
                     <img src="images/photo.jpg" alt="west" width="200" height="200"><br><br>
                     <p class="text-center">West Brown</p>
                     <p class="text-center">Website Builder</p>
-                    <p class="text-center"><a href="tel: +19102001391" style="color: #333"><i class="fa fa-phone"></i> (910) 200-1391</a></p>
-                    <p class="text-center"><a href="mailto:jeffreywestbrown@gmail.com" style="color: #333"><i class="fa fa-envelope"></i> Email West</a></p>
+                    <p class="text-center"><a href="tel: +19102001391"><i class="fa fa-phone"></i> (910) 200-1391</a></p>
+                    <p class="text-center"><a href="mailto:jeffreywestbrown@gmail.com"><i class="fa fa-envelope"></i> Email West</a></p>
                   </div><!-- /img-thumbnail -->               
                 </div>
               </div>
