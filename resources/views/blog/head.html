@@ -1,66 +1,12 @@
-<body class="popin">
-  	<div class="container" id="nav">
-     <span class="navbar-fixed-top" onclick="openNav()"><h4>&#9776; <i>AccessTech.io</i></h4></span>
-     @include('partials._nav')
-</div>
-
-<!-- container -->
-<div class="container">
-  <section class="todoapp">
-    <header class="header">
-      <h1></h1><br>
-      <p><b>Warning:</b> do not input any personal information under any circumstance.</p>
-      <input class="new-todo"
-        autofocus autocomplete="off"
-        placeholder="Comment Here!"
-        v-model="newTodo"
-        @keyup.enter="addTodo">
-    </header>
-    <section class="main" v-show="todos.length" v-cloak>
-      <ul class="todo-list">
-
-        <li v-for="todo in filteredTodos"
-          class="todo"
-          :key="todo.id"
-          :class="{ completed: todo.completed, editing: todo == editedTodo }">
-        <div class="view">
-            <!-- display current user gravatar -->
-            <?php 
-            use App\User;
-              $user = Auth::user();  
-              if (1) { ?>            
-              <img v-show="todos.length" src="<?php echo 'https://www.gravatar.com/avatar/' . md5(strtolower(trim($user->email))) . '?d=retro'; ?>" alt="gravatar">
-              <?php } ?>
-            <label @dblclick="editTodo(todo)">{{ todo.title }}</label>
-            <button class="destroy" @click="removeTodo(todo)"></button>
-        </div>
-            <input class="edit" type="text"
-            v-model="todo.title"
-            v-todo-focus="todo == editedTodo"
-            @blur="doneEdit(todo)"
-            @keyup.enter="doneEdit(todo)"
-            @keyup.esc="cancelEdit(todo)">
-        </li>
-      </ul>
-    </section>
-    <footer class="footer" v-show="todos.length" v-cloak>
-      <span class="todo-count">
-        <strong>{{ remaining }}</strong> {{ remaining | pluralize }} left
-      </span>
-      <ul class="filters">          
-      </ul>
-      <button class="clear-completed" @click="removeCompleted" v-show="todos.length > remaining">
-        Clear completed
-      </button>
-    </footer>
-  </section>
-  <footer class="info">
-    <p>Double-click to edit a comment</p>
-    <p>Code by Evan You of Vuejs.org</p>
-  </footer>
-
-</div><!-- /container -->
-
-<div id="footer">
-	<center><p>&copy; - 2016 AccessTech.io, A website design and development company in Wilmington, NC</p></center>
-</div>
+<head>
+<title>AccessTech.io | Blog</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="accesstech blog page.  Wilmington NC website builder and web design company.">
+<meta name="keywords" content="website, design, web, best, development, developer, designer, builder, blog, Wilmington NC">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<!-- Styles -->
+<link href="/css/app.css" rel="stylesheet">
+</head>
