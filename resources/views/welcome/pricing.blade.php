@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', '| Web Design Pricing')
+@section('title', '| Website Builder Pricing')
 
 @section('content')
 

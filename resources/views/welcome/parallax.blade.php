@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', '| Web Design | Parallax Homepage')
+@section('title', '| Website Builder | Parallax Homepage')
 
 @section('content')
 <style>

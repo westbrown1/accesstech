@@ -26,6 +26,7 @@ Route::get('part2', 'WelcomeController@aviator');
 Route::get('pricing_table', 'WelcomeController@price_table');
 Route::get('buttons', 'WelcomeController@buttons');
 Route::get('parallax', 'WelcomeController@parallax');
+Route::get('scroll', 'WelcomeController@scroll');
 
 Route::resource('blog', 'BlogController');
 Route::get('google', function() {

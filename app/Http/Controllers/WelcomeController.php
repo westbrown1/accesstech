@@ -50,6 +50,10 @@ class WelcomeController extends Controller
     {
         return view('welcome.parallax');
     }
+        public function scroll()
+    {
+        return view('welcome.scroll');
+    }
    public function postContact(Request $request)
     {   
         $this->validate($request, [
