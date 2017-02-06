@@ -29,6 +29,9 @@
 #main-footer {
     color: white;
 }
+.bg-4 {
+    background-color: #000000;
+}
 </style>
 
 <section class="pricing-section bg-4">
