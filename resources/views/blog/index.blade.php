@@ -3,7 +3,7 @@
 @section('title', '| Blog Index')
 
 @section('content')
-<style>
+<style amp-custom>
 	#blog {
 		margin-top: 120px;
 		padding-top: 0;

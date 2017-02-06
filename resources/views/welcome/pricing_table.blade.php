@@ -25,7 +25,7 @@
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     
-    <style>
+    <style amp-custom>
         #main-footer {
                     color: white;
                 }

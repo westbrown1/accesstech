@@ -14,7 +14,7 @@
 	<script type="text/javascript" src="js/circle/modernizr.custom.79639.js"></script> 
 	<!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
 
-<style>
+<style amp-custom>
 	.close {
 		color: white;
 		opacity: 0.8;

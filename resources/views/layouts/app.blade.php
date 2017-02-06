@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en" class="no-js">
+<!DOCTYPE html amp>
+<html lang="en" >
 <head>
 <title>AccessTech @yield('title')</title>
     @include('partials._head')

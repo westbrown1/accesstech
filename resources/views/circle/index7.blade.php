@@ -14,7 +14,7 @@
 	<!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
 
 	@include('partials._head')
-	<style>
+	<style amp-custom>
 		body {
 			font-family: Cambria, Georgia, serif;
 		}

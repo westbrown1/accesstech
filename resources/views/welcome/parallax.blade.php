@@ -3,7 +3,7 @@
 @section('title', '| Website Builder | Parallax Homepage')
 
 @section('content')
-<style>
+<style amp-custom>
 a {
   color: #fff;
 }

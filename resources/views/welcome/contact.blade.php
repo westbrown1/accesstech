@@ -3,7 +3,7 @@
 @section('title', '| Contact Us | Wilmington NC Web Design')
 
 @section('content')
-<style>
+<style amp-custom>
 	#myPanel {
 		margin-top: 100px;
 	}
