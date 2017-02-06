@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang=en> <head> @include('partials._headForIndex') @include('partials._head') <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css><script src=https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js integrity=sha256-z6FznuNG1jo9PP3/jBjL6P3tvLMtSwiVAowZPOgo56U= crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js integrity=sha256-399DNRyfIpWIy1ZV0KmEIIuIQ5sBHdLu9MBtVHrNtt8= crossorigin=anonymous></script> @include('partials._indexcss') <style amp-custom>
+<html lang=en> <head> @include('partials._headForIndex') @include('partials._head') <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css><script async src=https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js integrity=sha256-z6FznuNG1jo9PP3/jBjL6P3tvLMtSwiVAowZPOgo56U= crossorigin=anonymous></script><script async src=https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js integrity=sha256-399DNRyfIpWIy1ZV0KmEIIuIQ5sBHdLu9MBtVHrNtt8= crossorigin=anonymous></script> @include('partials._indexcss') <style amp-custom>
     a {
       color: black;
     }

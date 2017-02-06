@@ -84,6 +84,6 @@
     @include('partials._footer')   
 
     @include('partials._js')
-    <script type="text/javascript" src="js/circle/modernizr.custom.79639.js"></script>
+    <script async type="text/javascript" src="js/circle/modernizr.custom.79639.js"></script>
 
 </body>
