@@ -28,7 +28,7 @@
       <!-- sep -->
       <div class="sep">             
         <h1 class="main-title text-center" onload="myFunction()" id="builder">Web Design by AccessTech.io</h1> 
-        <h3 class="title text-center hidden-xs" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h3>
+        <h3 class="title text-center hidden-xs hidden-sm" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h3>
       </div><!-- /sep -->        
   </div>                 
 </div>
