@@ -12,7 +12,7 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css' />	 
 	<!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
 	@include('partials._head')
-	<style>
+	<style amp-custom>
 		body {
 			font-family: Cambria, Georgia, serif;
 		}
