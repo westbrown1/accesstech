@@ -79,9 +79,6 @@ Route::get('testpricing', function() {
 	return view('welcome.testpricing');
 });
 
-Route::get('carousel', function() {
-	return view('welcome.carousel');
-});
 
 
 

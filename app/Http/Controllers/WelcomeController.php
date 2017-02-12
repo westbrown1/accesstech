@@ -54,10 +54,6 @@ class WelcomeController extends Controller
     {
         return view('welcome.scroll');
     }
-    public function carousel()
-    {
-        return view('welcome.carousel'); 
-    }
 
    public function postContact(Request $request)
     {   
