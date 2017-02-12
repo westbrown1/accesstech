@@ -21,7 +21,7 @@
 <link rel="stylesheet" type="text/css" href="css/icons.css" />
 <link rel="stylesheet" type="text/css" href="css/component.css" />
 <!--[if IE]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script async src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <style>
 .navbar-fixed-top {

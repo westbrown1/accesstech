@@ -1,4 +1,6 @@
-<script async src=https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js integrity=sha256-T8PcNT5ErjZNHcDr8rQOERjKe3xFxDsChEttV/5Fi9o= crossorigin=anonymous></script> <script async src=https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js.map></script> <script>
+<script async src=https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js integrity=sha256-T8PcNT5ErjZNHcDr8rQOERjKe3xFxDsChEttV/5Fi9o= crossorigin=anonymous></script> 
+<script async src=https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js.map></script> 
+<script>
    AOS.init({
  duration: 1000
 }); 

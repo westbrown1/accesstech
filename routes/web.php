@@ -76,7 +76,11 @@ Route::get('index7', function() {
 });
 
 Route::get('testpricing', function() {
-	return view('testpricing');
+	return view('welcome.testpricing');
+});
+
+Route::get('carousel', function() {
+	return view('welcome.carousel');
 });
 
 
