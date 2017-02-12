@@ -1,4 +1,4 @@
-<style amp-custom>
+<style>
 .jumbotron {
   background-color: #83a507;
   padding-top: 5px;

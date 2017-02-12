@@ -1,4 +1,4 @@
-<style amp-custom>
+<style>
     a {
         margin-right: 20px;
     }

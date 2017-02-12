@@ -10,9 +10,9 @@
     <link rel=stylesheet type=text/css href=css/circle/common.css>
     <link rel=stylesheet type=text/css href=css/circle/style7.css>
     <link href=http://fonts.googleapis.com/css?family=Open+Sans:300,700 rel=stylesheet type=text/css>
-    <script async type=text/javascript src=js/circle/modernizr.custom.79639.js></script>
+    <script type=text/javascript src=js/circle/modernizr.custom.79639.js></script>
     <!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->@include('partials._head')
-    <style amp-custom>
+    <style>
         body {
             font-family: Cambria, Georgia, serif;
         }
@@ -73,5 +73,5 @@
             </ul>
         </section>
     </div> @include('partials._footer') @include('partials._js')
-    <script async type=text/javascript src=js/circle/modernizr.custom.79639.js></script>
+    <script type=text/javascript src=js/circle/modernizr.custom.79639.js></script>
 </body>

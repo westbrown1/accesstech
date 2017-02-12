@@ -4,17 +4,6 @@
 
 @section('content')
 <head>
-    <meta name="description" content="Circle Hover Effects with CSS Transitions" />
-    <meta name="keywords" content="circle, border-radius, hover, css3, transition, image, thumbnail, effect, 3d" />
-    <meta name="author" content="Codrops" />
-    <link rel="shortcut icon" href="../favicon.ico"> 
-    <link rel="stylesheet" type="text/css" href="css/circle/demo.css" />
-    <link rel="stylesheet" type="text/css" href="css/circle/common.css" />
-    <link rel="stylesheet" type="text/css" href="css/circle/style7.css" />
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,700' rel='stylesheet' type='text/css' />
-    <script type="text/javascript" src="js/circle/modernizr.custom.79639.js"></script> 
-    <!--[if lte IE 8]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
-
 <style>
     .close {
         color: white;
@@ -65,55 +54,13 @@
                 </div>              
             </header>
             
-            <section class="main">          
-                <ul class="ch-grid">
-                    <li>
-                        <a href="index">
-                            <div class="ch-item">               
-                                <div class="ch-info">
-                                    <div class="ch-info-front ch-img-1"></div>
-                                    <div class="ch-info-back">
-                                        <h3>Hover</h3>
-                                        <p>We Want All Your Business, Click For More</p>
-                                    </div>  
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="index">
-                            <div class="ch-item">
-                                <div class="ch-info">
-                                    <div class="ch-info-front ch-img-2"></div>
-                                    <div class="ch-info-back">
-                                        <h3>Over</h3>
-                                        <p>Click Me To See More</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="index">
-                            <div class="ch-item">
-                                <div class="ch-info">
-                                    <div class="ch-info-front ch-img-3"></div>
-                                    <div class="ch-info-back">
-                                        <h3>Me</h3>
-                                        <p>Click Me!</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-                </ul>               
-            </section>              
+                
         </div>
     </div>
 
   <br>
   <div class="row">
-      <div class="col-md-4 col-md-offset-2">         
+      <div class="col-md-4 col-md-offset-1">         
 
           <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
@@ -152,50 +99,6 @@
     </div>
 </div>
 
-
-
-
-
-
- 
-        {{-- <div class="row secondrow">
-            <div class="col-md-4 col-md-offset-2">
-                <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                    <!-- Indicators -->
-                    <ol class="carousel-indicators">
-                      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                      <li data-target="#myCarousel" data-slide-to="1"></li>
-                      <li data-target="#myCarousel" data-slide-to="2"></li>
-                    </ol>
-
-                    <!-- Wrapper for slides -->
-                    <div class="carousel-inner" role="listbox">
-
-                      <div class="item active">
-                        <img src="/images/photo-1468876132872-ad7696f484e0.jpeg" alt="" height="220" width="300">
-                        <div class="carousel-caption">                    
-                          <p>Mountain Scene</p>
-                        </div>
-                      </div>
-
-                      <div class="item">
-                        <img src="/images/photo-1432057322224-8916b9ed202a.jpeg" alt="" height="220" width="300">
-                        <div class="carousel-caption">                    
-                          <p>Mountain Lake</p>
-                        </div>
-                      </div>
-
-                      <div class="item">
-                        <img src="/images/photo-1433190152045-5a94184895da.jpeg" alt="" height="220" width="300">
-                        <div class="carousel-caption">
-                          <p>Coast</p>                   
-                        </div>
-                      </div>
-                        <p class="text-center">Carousel</p>
-                    </div>            
-                </div>
-            </div --}}
-    
             <div class="col-md-4">
                 <center><img src="https://hd.unsplash.com/uploads/14135798609283698b7f3/a1364128" alt="bird in flight" id="myImg" height="200" width="300">         
                 <!-- The Modal -->
@@ -208,14 +111,9 @@
                 </div>
             </div>
         </div>
-
-
-
-
-
         <div class="row secondrow">
-            <div class="col-md-4 col-md-offset-2">
-                <h4>Animated Accordion</h4>
+            <div class="col-md-4 col-md-offset-1">
+                <h4>Animated Accordion</h4>    
 
                 <button class="accordion">Section 1</button>
                 <div class="slider">
