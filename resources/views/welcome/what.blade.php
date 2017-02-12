@@ -60,7 +60,7 @@
 
   <br>
   <div class="row">
-      <div class="col-md-4 col-md-offset-1">         
+      <div class="col-md-4 col-md-offset-2">         
 
           <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
@@ -112,7 +112,7 @@
             </div>
         </div>
         <div class="row secondrow">
-            <div class="col-md-4 col-md-offset-1">
+            <div class="col-md-4 col-md-offset-2">
                 <h4>Animated Accordion</h4>    
 
                 <button class="accordion">Section 1</button>
@@ -143,7 +143,7 @@
             </div>              
         </div>
         <div class="row secondrow" id="bottom1">
-            <div class="col-md-3 col-md-offset-1">
+            <div class="col-md-3 col-md-offset-2">
                 <img src="/images/google-chrome-icon-2.png" alt="google chrome icon" class="google"><h5 id="googtext">hover over Google Chrome icon</h5>
             </div>          
         </div>  .
@@ -152,7 +152,7 @@
 
         <h4 class="text-center">Hover over items below.</h4>
 
-        <div class="col-md-4" id="logodiv">
+        <div class="col-md-4 col-md-offset-1" id="logodiv">
             <img src="/images/onlinelogomaker-091016-1355-2013.png" class="logo">
         </div>
 
