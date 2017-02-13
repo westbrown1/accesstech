@@ -25,7 +25,7 @@
 <![endif]-->
 <style>
 .navbar-fixed-top {
-  color: white;
+  color: #85c34a;
 }
 </style>
 

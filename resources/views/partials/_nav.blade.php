@@ -1,5 +1,6 @@
 <style>
     a {
+        color: black;
         margin-right: 20px;
     }
     
