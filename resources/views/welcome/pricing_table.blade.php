@@ -24,8 +24,11 @@
     <!--[if IE]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    
+    @include('partials._head')
     <style>
+        nav a {
+            color: #B8A8A8;
+        }
         #main-footer {
                     color: white;
                 }
@@ -34,15 +37,12 @@
         }
     </style>
 </head>
-
 <body>
-@include('partials._head')
 @include('partials._nav')
     <div class="container">
-
         <header class="codrops-header">
-
             <h1><span>Inspiration for</span> Pricing Tables by Codrops</h1>
+                <div class="support" id="support-note">Please note that (mobile) Safari's behavior is very buggy and only some effects will work properly.</div>
         </header>
         <section class="pricing-section">
             <p class="intro">Pricing tables are an essential component on websites where digital services are offered. While there seems to be a common pattern, there are infinite styling possibilities.

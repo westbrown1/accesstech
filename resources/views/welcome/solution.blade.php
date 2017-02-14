@@ -13,7 +13,7 @@
             <li>We develop with top frameworks. Such as Ruby on Rails (Ruby language). Laravel (PHP language) and ASP.Net (C#). ReactJS (Javascript library using one way data flow and instant rendering), Vue.js, Animate.css, WoW.js. Developing custom websites is sooooo much faster when using high quality. Well supported frameworks. These frameworks get faster every day. They are a must if you are not using Wordpress or Drupal.</li>
             <li>We do not charge for any time it takes to fix our mistakes or for researching a solution. A given right?</li>
             <li>We develop with mobile first responsive Bootstrap Cascading Style Sheets. And SCSS. This allows fast. Well organized. Easy to manage code.</li>
-            <li>If you like. We will be honored to manage your website. We know SEO. Check out our what we can do page <a href=/what class=linkspacing>Here</a> | <a href=/pricing class=linkspacing>Back to Pricing</a> | <a href=/ class=linkspacing>Home</a></li>
+            <li>If you like. We will be honored to manage your website. We know SEO. Check out our what we can do page <a href=/what class=linkspacing>Just Click Here!</a> | <a href=/pricing class=linkspacing>Back to Pricing</a> | <a href=/ class=linkspacing>Home</a></li>
         </ol>
     </div>
 </div> @stop

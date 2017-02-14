@@ -21,21 +21,28 @@
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 <style>
-container > header h1 {
-        margin: .5em 0 0;
-    letter-spacing: -1px;
-    font-size: 2.8em;
-    line-height: 1;
+.container>header h1 {
+    padding-top: 15%;
+    font-size: 90px;
+    color: white;   
+}
+
+.container>header h3 {
+    font-size: 20px;
+}
+span {
+    margin-bottom: 0px;
+    padding-bottom: none;
 }
 .bg-3 {
-    background: #576471;
+    background: #B8A8A8;
 }
 </style>
 </head>
     <!-- container -->
     <div class="container">      
         <header class="codrops-header">
-            <h1>Button Styles Inspiration <span>Some fresh styles &amp; hover effects for the modern button by Codrops</span></h1>
+            <h1><span>Button Styles Inspiration</span></h1><h3><span>Some fresh styles &amp; hover effects for the modern button by Codrops</span></h3>
             <div class="support" id="support-note">Please note that (mobile) Safari's behavior is very buggy and only some effects will work properly.</div>
         </header>
         <section class="content">
@@ -432,4 +439,5 @@ container > header h1 {
         })();
     </script>
     </div><!-- /container -->
+
 @stop

@@ -113,6 +113,7 @@ a:hover {
 .codrops-header h1 {
     font-weight: 200;
     font-size: 3em;
+    color: white;
     line-height: 1;
     margin-bottom: 0
 }
@@ -121,8 +122,7 @@ a:hover {
     display: block;
     font-size: 40%;
     letter-spacing: 0;
-    padding: .5em 0 1em;
-    color: #A8B3B8
+    color: white;
 }
 
 .codrops-links {
