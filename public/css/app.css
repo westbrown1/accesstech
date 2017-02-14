@@ -1461,7 +1461,7 @@ a:focus {
     border: 1px solid #ddd;
     border-radius: 4px;
     display: inline-block;
-    height: auto
+    height: 60px
 }
 
 .img-circle {
@@ -6077,7 +6077,8 @@ a.thumbnail:hover {
     width: 10000px
 }
 
-.media-object.img-thumbnail {
+.media-object.
+ {
     max-width: none
 }
 

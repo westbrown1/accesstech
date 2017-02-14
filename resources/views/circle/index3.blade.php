@@ -46,7 +46,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class=ch-item>
                         <div class=ch-info>
                             <h3>Music To My Ears</h3>
-                            <p>pattern by Jonathan Quintin, View on Dribbble</p>
+                            <p>Pattern by Jonathan Quintin, View on Dribbble</p>
                         </div>
                         <div class="ch-thumb ch-img-1"></div>
                     </div>
@@ -55,7 +55,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class=ch-item>
                         <div class=ch-info>
                             <h3>Make Wise Decisions</h3>
-                            <p>pattern by Jon Gerlach, View on Dribbble</p>
+                            <p>Pattern by Jon Gerlach, View on Dribbble</p>
                         </div>
                         <div class="ch-thumb ch-img-2"></div>
                     </div>
@@ -64,7 +64,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class=ch-item>
                         <div class=ch-info>
                             <h3>Insert Your Info</h3>
-                            <p>pattern by Kawal Oberoi, View on Dribbble</p>
+                            <p>Pattern by Kawal Oberoi, View on Dribbble</p>
                         </div>
                         <div class="ch-thumb ch-img-3"></div>
                     </div>

@@ -49,7 +49,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="ch-info-front ch-img-1"></div>
                                 <div class=ch-info-back>
                                     <h3>taxi</h3>
-                                    <p>pattern by Ana Villa-Zamora, View on Dribbble</p>
+                                    <p>Pattern by Ana Villa-Zamora, View on Dribbble</p>
                                 </div>
                             </div>
                         </div>
@@ -62,7 +62,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="ch-info-front ch-img-2"></div>
                                 <div class=ch-info-back>
                                     <h3>You're A Fox</h3>
-                                    <p>pattern by Arnel Baluyot, View on Dribbble</p>
+                                    <p>Pattern by Arnel Baluyot, View on Dribbble</p>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +75,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="ch-info-front ch-img-3"></div>
                                 <div class=ch-info-back>
                                     <h3>Klava Jinx</h3>
-                                    <p>pattern by Jamal Charanek, View on Dribbble</p>
+                                    <p>Pattern by Jamal Charanek, View on Dribbble</p>
                                 </div>
                             </div>
                         </div>

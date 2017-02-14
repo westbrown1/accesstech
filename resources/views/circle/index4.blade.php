@@ -49,7 +49,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="ch-info-front ch-img-1"></div>
                                 <div class=ch-info-back>
                                     <h3>Monkeys Think</h3>
-                                    <p>pattern by Josh Schott, View on Dribbble</p>
+                                    <p>Pattern by Josh Schott, View on Dribbble</p>
                                 </div>
                             </div>
                         </div>
@@ -62,7 +62,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="ch-info-front ch-img-2"></div>
                                 <div class=ch-info-back>
                                     <h3>Nice Hair You Have</h3>
-                                    <p>pattern by Jeremy Slagle, View on Dribbble</p>
+                                    <p>Pattern by Jeremy Slagle, View on Dribbble</p>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +75,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="ch-info-front ch-img-3"></div>
                                 <div class=ch-info-back>
                                     <h3>Become A Leader</h3>
-                                    <p>pattern by Dustin Leer, View on Dribbble</p>
+                                    <p>Pattern by Dustin Leer, View on Dribbble</p>
                                 </div>
                             </div>
                         </div>

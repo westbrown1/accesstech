@@ -47,7 +47,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="ch-item ch-img-1">
                         <div class=ch-info>
                             <h3>We Work Smart</h3>
-                            <p>pattern by Daniel Nyari, View on Dribbble</p>
+                            <p>Pattern by Daniel Nyari, View on Dribbble</p>
                         </div>
                     </div>
                 </li>
@@ -55,7 +55,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="ch-item ch-img-2">
                         <div class=ch-info>
                             <h3>Let Us Help</h3>
-                            <p>pattern by Daniel Nyari, View on Dribbble</p>
+                            <p>Pattern by Daniel Nyari, View on Dribbble</p>
                         </div>
                     </div>
                 </li>
@@ -63,7 +63,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="ch-item ch-img-3">
                         <div class=ch-info>
                             <h3>Act Now and $</h3>
-                            <p>pattern by Daniel Nyari, View on Dribbble</p>
+                            <p>Pattern by Daniel Nyari, View on Dribbble</p>
                         </div>
                     </div>
                 </li>

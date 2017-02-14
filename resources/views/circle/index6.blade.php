@@ -49,7 +49,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="ch-info-front ch-img-1"></div>
                                 <div class=ch-info-back>
                                     <h3>Services Image</h3>
-                                    <p>pattern by Gumball Creative, View on Dribbble</p>
+                                    <p>Pattern by Gumball Creative, View on Dribbble</p>
                                 </div>
                             </div>
                         </div>
@@ -62,7 +62,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="ch-info-front ch-img-2"></div>
                                 <div class=ch-info-back>
                                     <h3>Heart</h3>
-                                    <p>pattern by Brian Hurst, View on Dribbble</p>
+                                    <p>Pattern by Brian Hurst, View on Dribbble</p>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +75,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <div class="ch-info-front ch-img-3"></div>
                                 <div class=ch-info-back>
                                     <h3>Art Print</h3>
-                                    <p>pattern by Tad Carpenter, View on Dribbble</p>
+                                    <p>Pattern by Tad Carpenter, View on Dribbble</p>
                                 </div>
                             </div>
                         </div>
