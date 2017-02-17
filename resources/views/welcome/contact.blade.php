@@ -31,7 +31,7 @@
                 <br> <a href=/pricing>Back to Pricing</a>
                 <br> <a href=/index>Back to More Fun</a>
                 <br>
-                <br> <a href=https://www.linkedin.com/profile/preview?locale=en_US&amp;trk=prof-0-sb-preview-primary-button><i class="fa fa-linkedin-square fa-2x" aria-hidden=true></i></a> &nbsp; <a href=https://plus.google.com/109928388980385474816/photos><i class="fa fa-google-plus fa-2x" aria-hidden=true></i></a> </div>
+                <br> <a href=https://www.linkedin.com/profile/preview?locale=en_US&amp;trk=prof-0-sb-preview-primary-button><i class="fa fa-linkedin-square fa-2x" aria-hidden=true></i></a> &nbsp; <a href=https://plus.google.com/110139077394291054540><i class="fa fa-google-plus fa-2x" aria-hidden=true></i></a> </div>
             <!-- / west-->
         </div>
         <div class="col-md-5 text-center">

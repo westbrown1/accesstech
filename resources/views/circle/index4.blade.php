@@ -48,7 +48,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class=ch-info>
                                 <div class="ch-info-front ch-img-1"></div>
                                 <div class=ch-info-back>
-                                    <h3>Monkeys Think</h3>
+                                    <h3>Monkeys Think Too</h3>
                                     <p>Pattern by Josh Schott, View on Dribbble</p>
                                 </div>
                             </div>
