@@ -9,8 +9,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta http-equiv=X-UA-Compatible content=IE=edge,chrome=1>
     <meta name=viewport content="width=device-width, initial-scale=1.0">
     <title>Web Design | Circle Hover Effects with CSS Transitions</title>
-    <meta name=description content="Circle Hover Effects with CSS Transitions">
-    <meta name=keywords content="circle, border-radius, hover, css3, transition, image, thumbnail, effect, 3d">
+    <meta name="keywords" content="best, css3, transitions, 3d, effect, hover, graphic, web, design, website, builder, designer, developer, development, SEO, Wordpress, Drupal, solution, Wilmington, NC, management, services, software">
     <link rel="shortcut icon" href=../favicon.ico>
     <link rel=stylesheet type=text/css href=css/circle/demo.css>
     <link rel=stylesheet type=text/css href=css/circle/common.css>
