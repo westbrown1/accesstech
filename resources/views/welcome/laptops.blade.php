@@ -3,18 +3,19 @@
 <head>
 	<title>Best Laptop Deals</title>
 	<meta charset="UTF-8">
-	<meta name="desciption" content="We have the lowest priced laptops on the internet.  Click now to find the best deal.">
-	<meta name="keywords" content="best, laptop, for, sale, deals, deal, lowest, price, high, quality, value, internet, secure, wifi, ready, computer, thinest, thin, fast, powerful, trade-in, easy">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="We have the lowest priced laptops on the internet.  Click now to find the best deal.">
+	<meta name="keywords" content="best, laptop, for, sale, deals, deal, lowest, price, high, quality, value, internet, secure, wifi, ready, computer, thinest, thin, fast, powerful, trade-in, easy, tech, technology, smart">
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-	
-</head>
-<body>
 	<style>
 	.shop {
 		margin-top: 120px;
 	}
-</style>
+	</style>
+</head>
+<body>
 @include('partials._nav')
 <!-- container -->
 <div class="container shop">
