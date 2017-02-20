@@ -12,16 +12,16 @@
   AddOutputFilterByType DEFLATE http://accesstech.io/css/circle/common.css
   AddOutputFilterByType DEFLATE https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js.map
   AddOutputFilterByType DEFLATE https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css.map
-  AddOutputFilterByType DEFLATE font/opentype
-  AddOutputFilterByType DEFLATE font/otf
-  AddOutputFilterByType DEFLATE font/ttf
-  AddOutputFilterByType DEFLATE image/svg+xml
-  AddOutputFilterByType DEFLATE image/x-icon
-  AddOutputFilterByType DEFLATE text/css
-  AddOutputFilterByType DEFLATE text/html
-  AddOutputFilterByType DEFLATE text/javascript
-  AddOutputFilterByType DEFLATE text/plain
-  AddOutputFilterByType DEFLATE text/xml
+  AddOutputFilterByType DEFLATE http://accesstech.io/font/opentype
+  AddOutputFilterByType DEFLATE http://accesstech.io/font/otf
+  AddOutputFilterByType DEFLATE http://accesstech.io/font/ttf
+  AddOutputFilterByType DEFLATE http://accesstech.io/image/svg+xml
+  AddOutputFilterByType DEFLATE http://accesstech.io/image/x-icon
+  AddOutputFilterByType DEFLATE http://accesstech.io/text/css
+  AddOutputFilterByType DEFLATE http://accesstech.io/text/html
+  AddOutputFilterByType DEFLATE http://accesstech.io/text/javascript
+  AddOutputFilterByType DEFLATE http://accesstech.io/text/plain
+  AddOutputFilterByType DEFLATE http://accesstech.io/text/xml
 
   # Remove browser bugs (only needed for really old browsers)
   BrowserMatch ^Mozilla/4 gzip-only-text/html
@@ -49,11 +49,11 @@ ExpiresByType http://accesstech.io/css/css/nomralize.css "access plus 1 year"
 ExpiresByType http://accesstech.io/images/photo-1443397646383-16272048780e%20(1).jpeg "access plus 1 year"
 ExpiresByType http://accesstech.io/js/demo-2.js "access plus 1 year"
 ExpiresByType http://accesstech.io/js/rAF.js "access plus 1 year"
-ExpiresByType text/css "access plus 1 month"
-ExpiresByType application/pdf "access plus 1 month"
-ExpiresByType text/x-javascript "access plus 1 month"
-ExpiresByType application/x-shockwave-flash "access plus 1 month"
-ExpiresByType image/x-icon "access plus 1 year"
+ExpiresByType http://accesstech.io/text/css "access plus 1 month"
+ExpiresByType http://accesstech.io/application/pdf "access plus 1 month"
+ExpiresByType http://accesstech.io/text/x-javascript "access plus 1 month"
+ExpiresByType http://accesstech.io/application/x-shockwave-flash "access plus 1 month"
+ExpiresByType http://accesstech.io/image/x-icon "access plus 1 year"
 ExpiresDefault "access plus 2 days"
 </IfModule>
 ## EXPIRES CACHING ##
