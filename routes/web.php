@@ -79,6 +79,9 @@ Route::get('testpricing', function() {
 	return view('welcome.testpricing');
 });
 
+Route::get('shop', function() {
+	return view('welcome.shop');
+});
 
 
 
