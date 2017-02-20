@@ -16,6 +16,13 @@
 	</style>
 </head>
 <body>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TPBGBZ8');</script>
+<!-- End Google Tag Manager -->
 @include('partials._nav')
 <!-- container -->
 <div class="container shop">
@@ -48,7 +55,15 @@
 
     		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B01LTHXAO0&asins=B01LTHXAO0&linkId=4edb36ea0dbe2eb6788241bd94f527d9&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
     			</iframe>
+			
+			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B008BEYEL8&asins=B008BEYEL8&linkId=31e991236e6cba16266adede9ed61b45&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    			</iframe>
 
+    		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B01I19M3KG&asins=B01I19M3KG&linkId=8869d47f22160aa39aa605acf0209665&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    			</iframe>
+
+    		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B008BEYEL8&asins=B008BEYEL8&linkId=913fda3cbfd625524a12a9bacbe71a4b&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    			</iframe>
     	</div>
 	</div>
 </div><!-- /container -->
@@ -56,6 +71,16 @@
 <br><hr>
 @include('partials._footer')
 @include('partials._js')
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-91759296-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </body>
 </html>
 
