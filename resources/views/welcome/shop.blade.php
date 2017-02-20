@@ -1,9 +1,14 @@
-@extends('layouts.app')
-
-@section('title', '| Shop')
-
-@section('content')
-<style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Best Laptop Deals</title>
+	<meta charset="UTF-8">
+	<meta name="desciption" content="We have the lowest priced laptops on the internet.  Click now to find the best deal.">
+	<meta name="keywords" content="best, laptop, for, sale, deals, deal, lowest, price, high, quality, value, internet, secure, wifi, ready, computer, thinest, thin, fast, powerful, trade-in, easy">
+	
+</head>
+<body>
+	<style>
 	.shop {
 		margin-top: 120px;
 	}
@@ -37,5 +42,8 @@
 	</div>
 
 </div><!-- /container -->
+</body>
+</html>
 
-@stop
+
+
