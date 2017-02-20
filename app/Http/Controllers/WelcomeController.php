@@ -54,7 +54,18 @@ class WelcomeController extends Controller
     {
         return view('welcome.scroll');
     }
-
+        public function shopping()
+    {
+        return view('welcome.shopping');
+    }
+        public function laptops()
+    {
+        return view('welcome.laptops');
+    }
+        public function watches()
+    {
+        return view('welcome.watches');
+    }
    public function postContact(Request $request)
     {   
         $this->validate($request, [

@@ -79,9 +79,14 @@ Route::get('testpricing', function() {
 	return view('welcome.testpricing');
 });
 
-Route::get('shop', function() {
-	return view('welcome.shop');
+Route::get('shopping', function() {
+	return view('welcome.shopping');
 });
 
+Route::get('watches', function() {
+	return view('welcome.watches');
+});
 
-
+Route::get('laptops', function() {
+	return view('welcome.laptops');
+});
