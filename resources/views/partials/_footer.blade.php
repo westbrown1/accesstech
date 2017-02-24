@@ -1,4 +1,4 @@
-<style amp-custom>
+<style>
 #main-footer {
     font-family: "Alex Brush Regular";
     font-style: italic;
