@@ -68,11 +68,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </ul>
         </div>
       </div>
-
       <div class="col-md-4"> 
         <div class="wow slideInRight">
           <ul class="ch-grid">
-
             <li>
               <a href="/pricing">
                 <div class="ch-item ch-img-2">
