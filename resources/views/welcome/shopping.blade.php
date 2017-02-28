@@ -34,7 +34,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			 		<ol>
 				 		<li><a href="/watches">Smart Watches</a></li>
 				 		<li><a href="/laptops">Laptop Computers</a></li>
-				 		<li><a href="/devices">Amazon Devices</a></li>
+				 		<li><a href="/devices">Amazon Alexa</a></li>
 			 		</ol>
 			 	</div><!-- /well -->
 			</div>		 	 		 	
