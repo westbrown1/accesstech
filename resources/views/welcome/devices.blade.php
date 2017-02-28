@@ -2,18 +2,17 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Computer Technology Shopping Index</title>	
+	<title>Best Watch Prices</title>	
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="We have the best computer technology deals available.  Enter here to shop for all computer related products">
-	<meta name="keywords" content="computer, tech, technology, deals, deal, smart, best, lowest, price, laptops, watch, watches, laptop">
-	<!-- Latest compiled and minified CSS -->
+	<meta name="description" content="We have the lowest prices for smart watches.  Enter here to shop for all technology">
+	<meta name="keywords" content="smart, watches, watch, lowest, best, internet, deals, deal, tech, technology, smart, price"><!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-	<style>
+		<style>
 	.shop {
 		margin-top: 120px;
 	}
-	</style>
+</style>
 </head>
 <body>
 <!-- Google Tag Manager -->
@@ -22,19 +21,12 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-TPBGBZ8');</script>
-<!-- End Google Tag Manager -->
 @include('partials._nav')
 	<!-- container -->
 	<div class="container">
 		 <div class="row">
 		 	<div class="col-md-8 col-md-offset-2 shop">
-		 		<h2 class="text-center">Shopping Links</h2>
-		 		<ol>
-			 		<li><a href="/watches">Smart Watches</a></li>
-			 		<li><a href="/laptops">Laptop Computers</a></li>
-			 		<li><a href="/devices">Amazon Devices</a></li>
-		 		</ol>
-		 	</div>
+		 		<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=westbrown1962-20&linkCode=ur2&linkId=6acee5acdfd467e3164b45ae31099d74&camp=1789&creative=9325&node=2102313011">devices</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=westbrown1962-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 		 </div>
 	</div><!-- /container -->
 	<br><hr>

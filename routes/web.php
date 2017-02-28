@@ -90,3 +90,7 @@ Route::get('watches', function() {
 Route::get('laptops', function() {
 	return view('welcome.laptops');
 });
+
+Route::get('devices', function() {
+	return view('welcome.devices');
+});
