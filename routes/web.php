@@ -98,3 +98,7 @@ Route::get('devices', function() {
 Route::get('lgtv', function() {
 	return view('welcome.lgtv');
 });
+
+Route::get('video_games', function() {
+	return view('welcome.video_games');
+});
