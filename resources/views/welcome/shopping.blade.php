@@ -26,18 +26,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 @include('partials._nav')
 	<!-- container -->
 	<div class="container">
-		 <div class="row">
-		 	<div class="col-md-8 col-md-offset-2 shop">
-		 		<h2 class="text-center">Shopping Links</h2>
-		 		<ol>
-			 		<li><a href="/watches">Smart Watches</a></li>
-			 		<li><a href="/laptops">Laptop Computers</a></li>
-			 		<li><a href="/devices">Amazon Devices</a></li>
-		 		</ol>
-		 	</div>
+		 <div class="row">			 		 
+			<div class="col-md-8 col-md-offset-2 shop">
+				 <!-- well well-small -->
+				 <div class="well well-small">
+			 		<h2 class="text-center">Shopping Links</h2>
+			 		<ol>
+				 		<li><a href="/watches">Smart Watches</a></li>
+				 		<li><a href="/laptops">Laptop Computers</a></li>
+				 		<li><a href="/devices">Amazon Devices</a></li>
+			 		</ol>
+			 	</div><!-- /well -->
+			</div>		 	 		 	
 		 </div>
 	</div><!-- /container -->
-	<br><hr>
+	<br>
+
 @include('partials._footer')
 @include('partials._js')
 <script>

@@ -9,8 +9,8 @@
 	<meta name="keywords" content="smart, watches, watch, lowest, best, internet, deals, deal, tech, technology, smart, price"><!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<style>
-	.shop {
-		margin-top: 120px;
+	.shop1 {
+		margin-top: 150px;
 	}
 </style>
 </head>
@@ -25,8 +25,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<!-- container -->
 	<div class="container">
 		 <div class="row">
-		 	<div class="col-md-8 col-md-offset-2 shop">
-		 		<a target="_blank" href="https://www.amazon.com/b?_encoding=UTF8&tag=westbrown1962-20&linkCode=ur2&linkId=6acee5acdfd467e3164b45ae31099d74&camp=1789&creative=9325&node=2102313011">devices</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=westbrown1962-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+		 	<div class="col-md-8 col-md-offset-2 shop1">
+				<script type="text/javascript">
+				amzn_assoc_placement = "adunit0";
+				amzn_assoc_search_bar = "true";
+				amzn_assoc_tracking_id = "westbrown1962-20";
+				amzn_assoc_ad_mode = "manual";
+				amzn_assoc_ad_type = "smart";
+				amzn_assoc_marketplace = "amazon";
+				amzn_assoc_region = "US";
+				amzn_assoc_title = "My Alexa Picks";
+				amzn_assoc_linkid = "ebc8b77902900c8e0a0aa3015013afda";
+				amzn_assoc_asins = "B01DFKC2SO,B00X4WHP5E,B01BH83OOM,B01E6AO69U";
+				</script>
+				<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+		 	</div>
 		 </div>
 	</div><!-- /container -->
 	<br><hr>
