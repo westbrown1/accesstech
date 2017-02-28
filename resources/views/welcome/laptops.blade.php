@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<style>
 	.shop {
-		margin-top: 120px;
+		margin-top: 100px;
 	}
 	</style>
 </head>
@@ -26,14 +26,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 @include('partials._nav')
 <!-- container -->
 <div class="container shop">
-<h2 class="text-center">Lowest Priced Laptop Computers</h2><hr>
-
-		     
+<h2 class="text-center">Lowest Priced Laptop Computers</h2><hr>	     
 
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2">
-
-				<script type="text/javascript">
+				<center><script type="text/javascript">
 			       	amzn_assoc_ad_type = "banner";
 				amzn_assoc_marketplace = "amazon";
 				amzn_assoc_region = "US";
@@ -45,7 +42,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				amzn_assoc_tracking_id = "westbrown1962-20";
 				amzn_assoc_linkid = "5e2372b56e6477e10156c3e747bbb70e";
 			     </script>
-			     <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script><br>
+			     <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1"></script></center><br>
 			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B01K1IO3QW&asins=B01K1IO3QW&linkId=9951fd1e03fed188149f79522b321e5f&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
 			    </iframe>
 
