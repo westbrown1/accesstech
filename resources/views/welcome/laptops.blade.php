@@ -33,41 +33,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<center><iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazon_tablet_fallback&banner=15DJ0RSZ6CTSZY3ACS82&f=ifr&linkID=b6b1c7594cff86f268d396bc1cd7136c&t=westbrown1962-20&tracking_id=westbrown1962-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
 
 			<br>
-			&nbsp<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B01K1IO3QW&asins=B01K1IO3QW&linkId=9951fd1e03fed188149f79522b321e5f&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-			    </iframe>
-
-			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B01N0K3246&asins=B01N0K3246&linkId=53ddb17f3f8fb783675a863c100e7ebc&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-		    </iframe>
-
-			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B01MRS3MIS&asins=B01MRS3MIS&linkId=e05e7661767580a8260303a1943db05d&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-			    </iframe>
-
-			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B01DBGVB7K&asins=B01DBGVB7K&linkId=b3944b20bf006b4b0649b9f8a8724e24&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-			    </iframe>
-
-			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B01MQOXCYY&asins=B01MQOXCYY&linkId=2e28fd08bc8601641ae0e23b0097fe2f&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-			    </iframe>
-
-			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B01DT4A2R4&asins=B01DT4A2R4&linkId=3d0ed9fdb14b211ee3ecfdb29d12a8a2&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-			    </iframe>
-
-			&nbsp<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B01F4ZG68A&asins=B01F4ZG68A&linkId=e3ae510ac45947d630b95c8009018ebb&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-			    </iframe>
-
-			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B015WXL0C6&asins=B015WXL0C6&linkId=0b9ddb39a0506999e75d426fef1e6d38&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    			</iframe>
-
-    		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B01LTHXAO0&asins=B01LTHXAO0&linkId=4edb36ea0dbe2eb6788241bd94f527d9&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    			</iframe>
-			
-			<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B008BEYEL8&asins=B008BEYEL8&linkId=31e991236e6cba16266adede9ed61b45&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    			</iframe>
-
-    		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B01I19M3KG&asins=B01I19M3KG&linkId=8869d47f22160aa39aa605acf0209665&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    			</iframe>
-
-    		<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=westbrown1962-20&marketplace=amazon&region=US&placement=B008BEYEL8&asins=B008BEYEL8&linkId=913fda3cbfd625524a12a9bacbe71a4b&show_border=true&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    			</iframe>
+			<script type="text/javascript">
+			amzn_assoc_placement = "adunit0";
+			amzn_assoc_search_bar = "true";
+			amzn_assoc_tracking_id = "westbrown1962-20";
+			amzn_assoc_ad_mode = "manual";
+			amzn_assoc_ad_type = "smart";
+			amzn_assoc_marketplace = "amazon";
+			amzn_assoc_region = "US";
+			amzn_assoc_title = "My Laptop Picks";
+			amzn_assoc_linkid = "2c0156d811a5c39efe6abd96dda0f698";
+			amzn_assoc_asins = "B01K1IO3QW,B01N0K3246,B01MRS3MIS,B01DBGVB7K,B01LT692RK,B01F4ZG68A,B015PYZ0J6,B015WXL0C6,B01APA662K,B008BEYEL8,B01I19M3KG,B01JLCKP1Q";
+			</script>
+			<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
     	</div>
 	</div>
 </div><!-- /container -->
