@@ -94,3 +94,7 @@ Route::get('laptops', function() {
 Route::get('devices', function() {
 	return view('welcome.devices');
 });
+
+Route::get('lgtv', function() {
+	return view('welcome.lgtv');
+});

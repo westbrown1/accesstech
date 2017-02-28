@@ -31,10 +31,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				 <!-- well well-small -->
 				 <div class="well well-small">
 			 		<h2 class="text-center">Shopping Links</h2>
-			 		<ol>
-				 		<li><a href="/watches">Smart Watches</a></li>
+			 		<ol>				 		
 				 		<li><a href="/laptops">Laptop Computers</a></li>
 				 		<li><a href="/devices">Amazon Alexa</a></li>
+				 		<li><a href="/lgtv">Lg Hd Tv</a></li>
+				 		<li><a href="/watches">Smart Watches</a></li>
 			 		</ol>
 			 	</div><!-- /well -->
 			</div>		 	 		 	
