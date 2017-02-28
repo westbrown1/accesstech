@@ -62,7 +62,10 @@ h3 {
     color: #111;
 }
 
-</style> </head> <body> <div class=bgimg-1> <div class=caption> <span class=border>SCROLL DOWN</span> </div> </div> <div style="color: #777;background-color:white;text-align:center;padding:50px 80px;text-align: justify;"> <h3 style=text-align:center;
+</style> 
+</head> 
+<body> 
+<div class=bgimg-1> <div class=caption> <span class=border>SCROLL DOWN</span> </div> </div> <div style="color: #777;background-color:white;text-align:center;padding:50px 80px;text-align: justify;"> <h3 style=text-align:center;
 >Parallax Demo</h3> <p>Parallax scrolling is a web site trend where the background content is moved at a different speed than the foreground content while scrolling. Nascetur per nec posuere turpis,
 lectus nec libero turpis nunc at,
 sed posuere mollis ullamcorper libero ante lectus,

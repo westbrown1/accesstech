@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Web Design | Pricing Tables</title>
-    <meta name="description" content="Various styles and inspiration for responsive, flexbox-based HTML pricing tables" />
-    <meta name="keywords" content="pricing table, inspiration, ui, modern, responsive, flexbox, html, component" />
+    <meta name="description" content="Various styles and inspiration for responsive website design, flexbox-based HTML pricing tables.  Include these quick styles in your website." />
+    <meta name="keywords" content="pricing table, inspiration, ui, modern, responsive, flexbox, html, component, design, website, web, build, best, price" />
     <link rel="shortcut icon" href="favicon.ico">
     <link href='https://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Sahitya:400,700' rel='stylesheet' type='text/css'>

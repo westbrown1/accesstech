@@ -42,7 +42,7 @@ span {
     <!-- container -->
     <div class="container">      
         <header class="codrops-header">
-            <h1><span>Button Styles Inspiration</span></h1><h3><span>Some fresh styles &amp; hover effects for the modern button by Codrops</span></h3>
+            <h1><span>Button Styles Inspiration Website Design</span></h1><h3><span>Some fresh styles &amp; hover effects for the modern button by Codrops</span></h3>
             <div class="support" id="support-note">Please note that (mobile) Safari's behavior is very buggy and only some effects will work properly.</div>
         </header>
         <section class="content">

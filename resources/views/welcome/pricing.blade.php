@@ -1,12 +1,12 @@
 @extends('layouts.app')
 
-@section('title', '| Pricing')
+@section('title', '| Website Pricing at AccessTech.io')
 
 @section('content')
 
-<title>Pricing Table</title>
-<meta name="description" content="Various styles and inspiration for responsive, flexbox-based HTML pricing tables" />
-<meta name="keywords" content="pricing table, inspiration, ui, modern, responsive, flexbox, html, component" />
+<title>Our Website Pricing Table</title>
+<meta name="description" content="Local pricing for our modern styles and inspiration for responsive website design, flexbox-based HTML pricing tables" />
+<meta name="keywords" content="Our pricing table, inspiration, ui, modern, responsive, flexbox, html, component" />
 <link rel="shortcut icon" href="favicon.ico">
 <link href='https://fonts.googleapis.com/css?family=Homemade+Apple' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Sahitya:400,700' rel='stylesheet' type='text/css'>
