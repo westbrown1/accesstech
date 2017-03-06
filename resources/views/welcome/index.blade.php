@@ -57,7 +57,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="ch-info">
                       <div class="ch-info-front ch-img-1"></div>
                       <div class="ch-info-back">
-                        <h3>Why Choose Us? Click Here</h3>
+                        <h3>We Build Websites</h3>
                         <p>Pattern by Josh Schott, View on Dribbble</p>
                       </div>  
                     </div>
@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="ch-info">
                       <div class="ch-info-front ch-img-2"></div>
                       <div class="ch-info-back">
-                        <h3>Go To Pricing</h3>
+                        <h3>We Build Apple and Android Apps</h3>
                         <p>Pattern by Jeremy Slagle, View on Dribbble</p>
                       </div>
                     </div>
@@ -99,7 +99,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="ch-info">
                       <div class="ch-info-front ch-img-3"></div>
                       <div class="ch-info-back">
-                        <h3>Please Contact AccessTech.io Today</h3>
+                        <h3>We Manage SEO</h3>
                         <p>Pattern by Dustin Leer, View on Dribbble</p>
                       </div>
                     </div>
