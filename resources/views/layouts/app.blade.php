@@ -13,6 +13,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     @include('partials._head')
     @include('partials._headForIndex')
     @include('partials._indexcss') 
+
+<script>
+  (function(e,t,n,c,r){c=e.createElement(t),c.async=1,c.src=n,
+  r=e.getElementsByTagName(t)[0],r.parentNode.insertBefore(c,r)})
+  (document,"script","https://cdn.quicksprout.com/qs.js");
+</script>
+<!-- End Quick Sprout -->
 </head>
 
 <body> 
@@ -36,12 +43,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   ga('send', 'pageview');
 
 </script>
-<script>
-  (function(e,t,n,c,r){c=e.createElement(t),c.async=1,c.src=n,
-  r=e.getElementsByTagName(t)[0],r.parentNode.insertBefore(c,r)})
-  (document,"script","https://cdn.quicksprout.com/qs.js");
-</script>
-<!-- End Quick Sprout -->
+
 </body>
 
 </html>
