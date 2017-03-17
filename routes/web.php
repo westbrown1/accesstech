@@ -49,6 +49,10 @@ Route::get('lyrics', function() {
 	return view('blog.lyrics');
 });
 
+Route::get('magnesium', function() {
+	return view('blog.magnesium');
+});
+
 Route::get('aos', function() {
 	return view('welcome.aos');
 });
