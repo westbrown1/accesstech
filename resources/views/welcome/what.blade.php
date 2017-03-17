@@ -74,21 +74,21 @@
             <div class="carousel-inner" role="listbox">
 
               <div class="item active">
-                <img src="/images/photo-1468876132872-ad7696f484e0.jpeg" alt="" width="300" height="220">
+                <img src="/images/photo-1468876132872-ad7696f484e0.jpeg" alt="mountain scene" width="300" height="220">
                 <div class="carousel-caption">
                   <p>Mountain Scene</p>
                 </div>
               </div>
 
               <div class="item">
-                <img src="/images/photo-1432057322224-8916b9ed202a.jpeg" alt="" width="300" height="220">
+                <img src="/images/photo-1432057322224-8916b9ed202a.jpeg" alt="mountain lake" width="300" height="220">
                 <div class="carousel-caption">
                     <p>Mountain Lake</p>
                 </div>
               </div>
             
               <div class="item">
-                <img src="/images/photo-1433190152045-5a94184895da.jpeg" alt="" width="300" height="220">
+                <img src="/images/photo-1433190152045-5a94184895da.jpeg" alt="coast" width="300" height="220">
                 <div class="carousel-caption">
                     <p>Coast</p>
                 </div>

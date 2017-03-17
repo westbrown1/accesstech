@@ -45,6 +45,10 @@ Route::get('appetite', function() {
 	return view('blog.appetite');
 });
 
+Route::get('lyrics', function() {
+	return view('blog.lyrics');
+});
+
 Route::get('aos', function() {
 	return view('welcome.aos');
 });
@@ -98,3 +102,5 @@ Route::get('lgtv', function() {
 Route::get('video_games', function() {
 	return view('welcome.video_games');
 });
+
+
