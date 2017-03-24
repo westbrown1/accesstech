@@ -24,11 +24,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
   @include('partials._indexcss')
   <style>
+    html {
+      background-color: #FFFFFF;
+    }
     a {
       color: black;
     }
     ul.ch-grid {
       margin: 0;
+    }
+    .description {
+      font-family: "Alex Brush Regular";
+      font-size: 20px;
     }
   </style>
 </head>
@@ -50,7 +57,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h3 class="title text-center hidden-xs hidden-sm" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h3>
   </div>                 
 </div>
-     <h3 class="text-center">You'll Be Glad You Selected Us!</h3>
+     <h3 class="text-center description">You'll Be Glad You Selected Us!</h3>
 <!-- container -->
 <div class="container">
    <div class="row">
@@ -95,7 +102,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </li>
           </ul>
         </div>
-      </div>
+        </div>        
+     
       <div class="col-md-4">
         <div class="wow slideInRight">
           <ul class="ch-grid">
@@ -118,6 +126,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        </div>
       </div>
   </div>
+  <!-- row -->
+  <div class="row">
+        <div class="col-md-4">
+          <div class="wow slideInLeft">
+            <p class="description">We love to build custom, Wordpress and Drupal websites.  We are based in Wilmington, NC and love to help others reach their goals for success.  It does not matter where in the world you are located, we can help you.</p>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="wow slideInLeft">
+            <p class="description">We also build custom Apple and Android mobile apps.  If you have a great idea for a mobile app and need someone reliable and creative to assist, we are your best choice.</p>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="wow slideInLeft">
+            <p class="description">SEO or Search Engine Optimization can be a very tricky business.  We are proud to have experience in this field of web technology.  Although Google SEO is crucial, it not all emcompassing.  All serch engines should be addressed.</p>
+          </div>
+        </div>
+  </div><!-- /row -->
 </div><!-- /container -->
   <br>
 <!-- jumbotron -->
