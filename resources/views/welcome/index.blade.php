@@ -24,9 +24,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
   @include('partials._indexcss')
   <style>
-    html {
-      background-color: #FFFFFF;
-    }
     a {
       color: black;
     }
@@ -36,6 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     .description {
       font-family: "Alex Brush Regular";
       font-size: 20px;
+      color: black;
     }
   </style>
 </head>
@@ -62,7 +60,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="container">
    <div class="row">
       <div class="col-md-4">
-        <div class="wow slideInRight">
+        <div class="wow slideInRight data-wow-delay">
           <ul class="ch-grid">
             <li>
               <a href="/solution">
@@ -83,7 +81,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
       <div class="col-md-4"> 
-        <div class="wow slideInRight">
+        <div class="wow slideInRight data-wow-delay">
           <ul class="ch-grid">
             <li>
               <a href="/pricing">
@@ -105,7 +103,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>        
      
       <div class="col-md-4">
-        <div class="wow slideInRight">
+        <div class="wow slideInRight data-wow-delay">
           <ul class="ch-grid">
             <li>
               <a href="/contact">
@@ -129,19 +127,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- row -->
   <div class="row">
         <div class="col-md-4">
-          <div class="wow slideInLeft">
+          <div class="wow slideInLeft data-wow-delay">
             <p class="description">We love to build custom, Wordpress and Drupal websites.  We are based in Wilmington, NC and love to help others reach their goals for success.  It does not matter where in the world you are located, we can help you.</p>
           </div>
         </div>
 
         <div class="col-md-4">
-          <div class="wow slideInLeft">
+          <div class="wow slideInLeft data-wow-delay">
             <p class="description">We also build custom Apple and Android mobile apps.  If you have a great idea for a mobile app and need someone reliable and creative to assist, we are your best choice.</p>
           </div>
         </div>
 
         <div class="col-md-4">
-          <div class="wow slideInLeft">
+          <div class="wow slideInLeft data-wow-delay">
             <p class="description">SEO or Search Engine Optimization can be a very tricky business.  We are proud to have experience in this field of web technology.  Although Google SEO is crucial, it not all emcompassing.  All serch engines should be addressed.</p>
           </div>
         </div>
