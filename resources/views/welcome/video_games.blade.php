@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<style>
 	.shop {
-		margin-top: 90px;
+		margin-top: 100px;
 	}
 	</style>
 </head>
@@ -26,7 +26,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 @include('partials._nav')
 <!-- container -->
 <div class="container shop">
-<h2 class="text-center">Lowest Priced Video Games</h2><hr>	     
+<h2 class="text-center">Lowest Priced Video Games</h2>
+<p class="text-center"><p class="text-center">If products don't appear you may want to disable you ad blocker</p>
+<hr>	     
 
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2">

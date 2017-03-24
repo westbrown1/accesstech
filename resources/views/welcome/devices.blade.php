@@ -9,8 +9,8 @@
 	<meta name="keywords" content="alexa, amazon, smart, watches, watch, lowest, best, internet, deals, deal, tech, technology, smart, price"><!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<style>
-	.shop1 {
-		margin-top: 150px;
+	.shop {
+		margin-top: 100px;
 	}
 </style>
 </head>
@@ -23,7 +23,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-TPBGBZ8');</script>
 @include('partials._nav')
 	<!-- container -->
-	<div class="container">
+	<div class="container shop">
+	<h2 class="text-center">Lowest Priced Alexa Devices</h2>
+	<p class="text-center"><p class="text-center">If products don't appear you may want to disable you ad blocker</p><hr>
+	<hr>
 		 <div class="row">
 		 	<div class="col-md-8 col-md-offset-2 shop1">
 				<script type="text/javascript">

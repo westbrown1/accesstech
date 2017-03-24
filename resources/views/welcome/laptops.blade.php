@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<style>
 	.shop {
-		margin-top: 90px;
+		margin-top: 100px;
 	}
 	</style>
 </head>
@@ -26,12 +26,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 @include('partials._nav')
 <!-- container -->
 <div class="container shop">
-<h2 class="text-center">Lowest Priced Laptop Computers</h2><hr>	     
-
+<h2 class="text-center">Lowest Priced Laptop Computers</h2>
+<p class="text-center"><p class="text-center">If products don't appear you may want to disable you ad blocker</p><hr>
+<hr>
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2">
 			<center><iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazon_tablet_fallback&banner=15DJ0RSZ6CTSZY3ACS82&f=ifr&linkID=b6b1c7594cff86f268d396bc1cd7136c&t=westbrown1962-20&tracking_id=westbrown1962-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></center>
-
 			<br>
 			<script type="text/javascript">
 			amzn_assoc_placement = "adunit0";
