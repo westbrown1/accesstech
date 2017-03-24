@@ -33,7 +33,7 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav"> 
-            <a href="/>Home" <span class="sr-only"></span>Home</a> 
+            <a href="/"><span class="sr-only"></span>Home</a> 
             <a href="/about">About Us</a> <a href="/contact">Contact Us</a> 
             <a href="/pricing">Pricing</a> <a href="/solution">Why Choose Us?</a> 
             <a href="/blog">Blog</a></ul>
