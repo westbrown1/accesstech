@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Unequivocally the best website builder. AccessTech.io and West Brown are the premier web design company and website designer just for you.  We are located in Wilmington, NC.  Learn more about our web development.">
-<meta name="keywords" content="best, local, web, design, website, builder, designer, developer, development, SEO, Wordpress, Drupal, solution, Wilmington, NC, graphic, management, company, services, , software">
+<meta name="keywords" content="best, local, web, design, website, builder, designer, developer, development, SEO, Wordpress, Drupal, solution, Wilmington, NC, graphic, management, company, services, in my area, near me, software">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="E0dIcNs5_CN27MpHWntn7rv5HLUST-i5epp59fUsaPA" />
 <link rel="stylesheet" href="{{ asset('css/app.css') }} ">
