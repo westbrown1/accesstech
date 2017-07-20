@@ -140,7 +140,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="col-md-4">
           <div class="wow slideInLeft data-wow-delay">
-            <p class="description">SEO or Search Engine Optimization can be a very tricky business.  We are proud to have experience in this field of web technology.  Although Google SEO is crucial, it not all emcompassing.  All serch engines should be addressed.</p>
+            <p class="description">SEO or Search Engine Optimization can be a very tricky business.  We are proud to have experience in this field of web technology.  Although Google SEO is crucial, it not all emcompassing.  All search engines should be addressed.</p>
           </div>
         </div>
   </div><!-- /row -->
