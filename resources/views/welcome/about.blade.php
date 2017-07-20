@@ -7,7 +7,7 @@
     <div class="col-md-10 col-md-offset-1 text-justify well" id=aboutus>
         <div class="about text-center"> 
         <img src=/images/photo.jpg alt="West Brown" class=img-rounded>
-            <h5>West Brown, Website Builder</h5>
+            <h5>Jeffrey West Brown, Website Builder</h5>
             <hr>
             <p>Hi. I'm West Brown. The founder of AccessTech.io. I'm a native of Wilmington, NC. And a graduate of The University of North Carolina, Chapel Hill. I received a degree in Economics, we'll just say a long time ago. Not too long ago I discovered something I really love to do. Design web applications and websites. So. Now I'm a web developer and design specialist. Our goal here at AccessTech.io is to make sure your users' interface experience is clear. Productive. Seamless. And enjoyable. We are here to help you. Together. We'll make sure your customers know. They are being taken care of.
                 <br>
