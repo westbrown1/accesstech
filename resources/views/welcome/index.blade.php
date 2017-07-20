@@ -55,8 +55,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h3 class="title text-center hidden-xs hidden-sm" onload="myFunction()" id="build">Let Us Build An Awesome Website For You Today.</h3>
   </div>                 
 </div>
-<br>
-     {{-- <h3 class="text-center description">You'll Be Glad You Selected Us!</h3> --}}
+
+     <h3 class="text-center description">You'll Be Glad You Selected Us!</h3>
 <!-- container -->
 <div class="container">
    <div class="row">
