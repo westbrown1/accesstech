@@ -31,12 +31,12 @@ html {
 }
 
 .bgimg-2 {
-    background-image: url("https://hd.unsplash.com/photo-1444658293155-105ae40f8278");
+    background-image: url("{{ asset('images/caleb-fisher-7320.jpg') }}");
     min-height: 400px;
 }
 
 .bgimg-3 {
-    background-image: url("https://hd.unsplash.com/photo-1452390211826-8d50e8ee0b62");
+    background-image: url("{{ asset('images/woodrow-walden-39673.jpg') }}");
     min-height: 400px;
 }
 
@@ -83,6 +83,6 @@ non id vehicula lorem mattis,
 ratione interdum sociis ornare. Suscipit proin magna cras vel,
 non sit platea sit,
 maecenas ante augue etiam maecenas,
-porta porttitor placerat leo.</p> </div> <div class=bgimg-2> <div class=caption> <span class=border style="background-color:transparent;font-size:25px;color: #f7f7f7;">LESS HEIGHT</span> </div> </div> <div style=position:relative;
+porta porttitor placerat leo.</p> </div> <div class="bgimg-2"></div> <div class=caption> <span class=border style="background-color:transparent;font-size:25px;color: #f7f7f7;"></span> </div> </div> <div style=position:relative;
 > <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;"> <p>Scroll up and down to really get the feeling of how Parallax Scrolling works.</p> </div> </div> <div class=bgimg-3> <div class=caption> <span class=border style="background-color:transparent;font-size:25px;color: #f7f7f7;">SCROLL UP</span> </div> </div> <div style=position:relative;
 > <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;"> <p>Scroll up and down to really get the feeling of how Parallax Scrolling works.</p> </div> </div> <div class=bgimg-1> <div class=caption> <span class=border>COOL!</span> </div> </div> @stop

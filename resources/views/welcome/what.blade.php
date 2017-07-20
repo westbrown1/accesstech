@@ -100,7 +100,7 @@
 </div>
 
             <div class="col-md-4">
-                <center><img src="https://hd.unsplash.com/uploads/14135798609283698b7f3/a1364128" alt="bird in flight" id="myImg" height="200" width="300">         
+                <center><img src="{{ asset('images/deborah-kunzie-49758.jpg') }}" alt="bird in flight" id="myImg" height="200" width="300">         
                 <!-- The Modal -->
                 <div id="myModal" class="modal">
                   <span class="close">&times;</span>

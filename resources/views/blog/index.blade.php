@@ -22,8 +22,8 @@
 						<li><a href="google">Rethinking Google after Pennsylvania election error.</a></li><br>
 						<li><a href="tarheels">Duke Blue Devils Football Team dims UNC Tarheels  Chances at 2016 ACC Football Championship.</a></li><br>
 						<li><a href="weight">How Do You Really Lose Fat?</a></li><br>
-						<li><a href="appetite">The Best Way To Curb Your Appetite, Brush Your Teeth.</a></li><br>
-						<li><a href="lyrics">The Best Song Lyrics I Can Think Of.</a></li><br>
+						{{-- <li><a href="appetite">The Best Way To Curb Your Appetite, Brush Your Teeth.</a></li><br> --}}
+						{{-- <li><a href="lyrics">The Best Song Lyrics I Can Think Of.</a></li><br> --}}
 						<li><a href="magnesium">Health Benefits of Magnesium.</a></li>
 					</ol>				
 				</div>

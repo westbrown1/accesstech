@@ -19,7 +19,7 @@
         <br>
         <div class=col-md-6>
             <!-- west -->
-            <div class=well id=contactus> <img src=/images/photo.jpg alt class=img-thumbnail>
+            <div class=well id=contactus> <img src=/images/photo.jpg alt class=img-rounded>
                 <h6>West Brown</h6>
                 <p><a href="tel: +19102001391"><i class="fa fa-phone" aria-hidden=true></i> (910) 200-1391</a></p>
                 <p><a href=mailto:jeffreywestbrown@gmail.com><i class="fa fa-envelope"></i> Email West</a></p>
